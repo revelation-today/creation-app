@@ -56,12 +56,17 @@ ul.src li { margin: 4px 0; }
 .opt.wrong { border-color: var(--bad); box-shadow: inset 4px 0 0 var(--bad); }
 .progress { height: 6px; background: var(--line); border-radius: 4px; overflow: hidden; margin: 8px 0 16px; }
 .progress i { display: block; height: 100%; background: var(--accent); }
-.day { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; margin: 12px 0; }
+.day { display: block; text-decoration: none; color: inherit; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; margin: 12px 0; }
+.day span { display: block; }
+.day:hover { border-color: var(--accent); }
 .day.done { opacity: .75; }
-.day label { display: flex; gap: 10px; align-items: center; font-weight: 600; }
-.day input { width: 20px; height: 20px; }
 .links a { margin-right: 10px; }
-.q { font-weight: 600; }
+.q { padding-left: 1.2em; font-weight: 600; }
+.reading h2 { margin-top: 1.6em; }
+.reading p { max-width: 68ch; }
+.deeper { border-top: 1px solid var(--line); margin-top: 28px; }
+.deeper ul { list-style: none; padding: 0; }
+.deeper li { margin: 6px 0; }
 .note { font-size: .9em; color: var(--muted); }
 .hero { padding: 12px 0 4px; }
 .hero h1 { font-size: 2rem; }

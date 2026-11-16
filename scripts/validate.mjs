@@ -23,6 +23,10 @@ for (const i of ins.insights) {
   if (i.sources?.some(s => s.kind === 'primary-todo')) warnings.push(`insight ${i.id}: has primary sources still to check`);
 }
 for (const p of plans.plans) for (const d of p.days) {
+  if (!d.sections?.length) err(`plan ${p.id}/${d.title}: no reading sections`);
+  const words = (d.sections || []).flatMap(s => s.text).join(' ').split(/\s+/).length;
+  if (words < 250) err(`plan ${p.id}/${d.title}: reading too short (${words} words)`);
+  if (!d.questions?.length) err(`plan ${p.id}/${d.title}: no questions`);
   for (const c of d.cards || []) if (!cardIds.has(c)) err(`plan ${p.id}/${d.title}: unknown card ${c}`);
   for (const i of d.insights || []) if (!insIds.has(i)) err(`plan ${p.id}/${d.title}: unknown insight ${i}`);
 }

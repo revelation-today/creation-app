@@ -112,7 +112,7 @@ function viewCard(id) {
   const c = cardById(id);
   if (!c) return viewMyths();
   const idx = DATA.cards.indexOf(c);
-  const related = DATA.plans.flatMap(p => p.days.filter(d => (d.cards || []).includes(id)).map(d => ({ p, d })));
+  const related = DATA.plans.flatMap(p => p.days.map((d, n) => ({ p, d, n })).filter(r => (r.d.cards || []).includes(id)));
   const insightLinks = DATA.insights.filter(i => related.some(r => (r.d.insights || []).includes(i.id)));
   show(
     h('p', {}, h('a', { href: '#/myths' }, '← All myths')),
@@ -125,6 +125,7 @@ function viewCard(id) {
     c.safeguard && safeguard(c.safeguard),
     h('p', { class: 'weak' }, h('b', {}, 'Weakest joint: '), c.weakestJoint),
     h('h2', {}, 'Sources'), sources(c.sources),
+    related.length ? h('p', { class: 'links' }, 'Read it in context: ', related.map(r => h('a', { href: '#/plans/' + r.p.id + '/' + r.n }, r.d.title))) : null,
     insightLinks.length ? h('p', { class: 'links' }, 'Related insights: ', insightLinks.map(i => h('a', { href: '#/insights/' + i.id }, i.title))) : null,
     h('p', { class: 'note' }, 'Last checked ' + c.lastChecked + '. Items marked “to check” have not yet been verified in the primary source.'),
     h('div', { class: 'row' },
@@ -182,29 +183,53 @@ function viewPlans() {
 function viewPlan(id) {
   const p = DATA.plans.find(x => x.id === id);
   if (!p) return viewPlans();
-  let done = store.get('plan.' + id, []);
+  const done = store.get('plan.' + id, []);
   const bar = h('i', {});
-  const count = h('span', { class: 'muted' });
-  function sync() { bar.style.width = (100 * done.length / p.days.length) + '%'; count.textContent = done.length + ' of ' + p.days.length + ' done'; }
-  const days = p.days.map((d, n) => {
-    const box = h('input', { type: 'checkbox', checked: done.includes(n) ? true : null, onchange: e => {
-      done = e.target.checked ? [...new Set([...done, n])] : done.filter(x => x !== n);
-      store.set('plan.' + id, done); wrap.classList.toggle('done', e.target.checked); sync();
-    } });
-    const wrap = h('div', { class: 'day' + (done.includes(n) ? ' done' : '') },
-      h('label', {}, box, d.title),
-      h('p', {}, h('b', {}, 'Read: '), d.passage),
-      d.cards && d.cards.length ? h('p', { class: 'links' }, 'Myths: ', d.cards.map(c => h('a', { href: '#/myths/' + c }, cardById(c).title))) : null,
-      d.insights && d.insights.length ? h('p', { class: 'links' }, 'Insights: ', d.insights.map(c => h('a', { href: '#/insights/' + c }, insightById(c).title))) : null,
-      h('p', { class: 'q' }, d.question),
-      d.leaderNote ? h('div', { class: 'safe' }, h('b', {}, 'Note for the leader'), d.leaderNote) : null,
-      d.finish ? h('p', {}, h('a', { href: '#/quiz' }, d.finish)) : null);
-    return wrap;
-  });
-  sync();
+  bar.style.width = (100 * done.length / p.days.length) + '%';
   show(h('p', {}, h('a', { href: '#/plans' }, '← All plans')),
     h('h1', {}, p.title), h('p', { class: 'lead' }, p.description),
-    h('div', { class: 'progress', role: 'presentation' }, bar), count, days);
+    h('div', { class: 'progress', role: 'presentation' }, bar),
+    h('p', { class: 'muted' }, done.length + ' of ' + p.days.length + ' done'),
+    p.days.map((d, n) => h('a', { class: 'day' + (done.includes(n) ? ' done' : ''), href: '#/plans/' + id + '/' + n },
+      h('b', {}, (done.includes(n) ? '✓ ' : '') + d.title),
+      h('span', { class: 'muted' }, d.passage),
+      h('span', {}, d.summary || ''))));
+}
+
+function viewPlanDay(id, n) {
+  const p = DATA.plans.find(x => x.id === id);
+  const d = p && p.days[n];
+  if (!d) return viewPlans();
+  let done = store.get('plan.' + id, []);
+  const btn = h('button', { class: 'btn', type: 'button' });
+  function sync() { btn.textContent = done.includes(n) ? '✓ Done (tap to undo)' : 'Mark as done'; btn.classList.toggle('secondary', done.includes(n)); }
+  btn.addEventListener('click', () => {
+    done = done.includes(n) ? done.filter(x => x !== n) : [...done, n];
+    store.set('plan.' + id, done); sync();
+  });
+  sync();
+  const cards = (d.cards || []).map(cardById).filter(Boolean);
+  const ins = (d.insights || []).map(insightById).filter(Boolean);
+  show(
+    h('p', {}, h('a', { href: '#/plans/' + id }, '← ' + p.title)),
+    h('h1', {}, d.title),
+    h('p', { class: 'muted' }, 'Read first: ', h('b', {}, d.passage), ' · ' + p.minutes),
+    d.leaderNote ? h('div', { class: 'safe' }, h('b', {}, 'Note for the leader'), d.leaderNote) : null,
+    d.sections.map(s => h('section', { class: 'reading' }, h('h2', {}, s.heading), s.text.map(t => h('p', {}, t)))),
+    d.safeguard ? safeguard(d.safeguard) : null,
+    h('h2', {}, d.questions.length > 1 ? 'Questions' : 'Question'),
+    h('ul', { class: 'q' }, d.questions.map(q => h('li', {}, q))),
+    h('div', { class: 'row' }, btn, d.finish ? h('a', { class: 'btn secondary', href: '#/quiz' }, d.finish) : null),
+    (cards.length || ins.length) ? h('div', { class: 'deeper' },
+      h('h2', {}, 'Go deeper'),
+      h('p', { class: 'muted' }, 'Everything above rests on these entries. Each lists its sources and how far they have been checked.'),
+      cards.length ? h('h3', {}, 'Myth cards') : null,
+      cards.length ? h('ul', { class: 'links' }, cards.map(c => h('li', {}, badge(c.badge), ' ', h('a', { href: '#/myths/' + c.id }, c.title)))) : null,
+      ins.length ? h('h3', {}, 'Insights') : null,
+      ins.length ? h('ul', { class: 'links' }, ins.map(i => h('li', {}, h('a', { href: '#/insights/' + i.id }, i.title)))) : null) : null,
+    h('div', { class: 'row' },
+      n > 0 ? h('a', { class: 'btn secondary', href: '#/plans/' + id + '/' + (n - 1) }, '← ' + p.days[n - 1].title.split(':')[0]) : null,
+      n < p.days.length - 1 ? h('a', { class: 'btn secondary', href: '#/plans/' + id + '/' + (n + 1) }, p.days[n + 1].title.split(':')[0] + ' →') : null));
 }
 
 function viewQuiz() {
@@ -282,11 +307,11 @@ function viewAbout() {
 /* ---------- router ---------- */
 function route() {
   if (!DATA.cards) return;
-  const [, area = 'home', id] = (location.hash || '#/').split('/');
+  const [, area = 'home', id, sub] = (location.hash || '#/').split('/');
   setNav({ myths: 'myths', insights: 'insights', plans: 'plans', quiz: 'quiz', help: 'help' }[area] || null);
   if (area === 'myths') return id ? viewCard(id) : viewMyths();
   if (area === 'insights') return id ? viewInsight(id) : viewInsights();
-  if (area === 'plans') return id ? viewPlan(id) : viewPlans();
+  if (area === 'plans') return id ? (sub != null ? viewPlanDay(id, Number(sub)) : viewPlan(id)) : viewPlans();
   if (area === 'quiz') return viewQuiz();
   if (area === 'help') return viewHelp();
   if (area === 'about') return viewAbout();

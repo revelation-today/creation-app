@@ -30,7 +30,7 @@ All content is JSON in `web/content/`:
 |---|---|
 | `cards.json` | myth cards, verdict badges, source kinds |
 | `insights.json` | insights with categories |
-| `plans.json` | reading plans (day to passage, cards, insights, question) |
+| `plans.json` | reading plans (each day is a guided reading with sections, questions, and “go deeper” links to cards and insights) |
 | `quiz.json` | questions linked to a card or insight |
 
 `scripts/validate.mjs` refuses cards without sources, broken cross-references and bad quiz

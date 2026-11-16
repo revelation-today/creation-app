@@ -5,56 +5,301 @@
       "title": "Genesis 1–4 in seven days",
       "audience": "Individual readers",
       "minutes": "10–15 per day",
-      "description": "One passage a day. Read the text first, then the linked insight and card, then answer one question.",
+      "description": "One passage a day. Each day is a short guided reading: you read the text, then follow what is in it, where it is often retold wrongly, and what it can mean for you. The myth cards and insights are listed at the end of each day if you want to go deeper.",
       "days": [
         {
           "title": "Day 1: The poem",
           "passage": "Genesis 1:1–2:3",
-          "insights": ["sevens-in-genesis-1", "refrain-and-missing-good", "forming-and-filling"],
-          "cards": ["day-5-6-birds", "let-us-make"],
-          "question": "Which line of the refrain do you notice most as you read: ‘God said’, ‘it was good’, or ‘evening and morning’? What does it do?"
+          "summary": "A seven-part poem about a world with an order, a place for every person, and a day of rest.",
+          "sections": [
+            {
+              "heading": "Read it as it was written",
+              "text": [
+                "Before you read, set one expectation aside: this is not written like a lab report or a diary. It is written like a liturgy, built to be heard and repeated. The sign of that is how much of it is pattern. Genesis 1:1 has seven Hebrew words, verse 2 has fourteen, and the description of the seventh day (2:1–3) has thirty-five. Whether the writer planned the counting or it simply came out that way is an inference, and the numbers depend on how you count compound words. What is certain is that the passage is built around seven, and that it arrives at a day with no work in it."
+              ]
+            },
+            {
+              "heading": "Where the pattern bends",
+              "text": [
+                "Read the six days slowly and listen for the refrain: ‘God said… and it was so… God saw that it was good… there was evening and there was morning.’ Then notice where it does not repeat. In the Hebrew text Day 2 never says ‘good’. Day 3 says it twice. Day 6 ends with ‘very good’. A poet varies a refrain on purpose. Day 3 has two works (land, and plants), so it gets two verdicts. Day 2 separates waters, and in the ancient world waters were the home of chaos, which is a possible reason for the silence, but it is a guess.",
+                "The first three days also shape spaces and the next three fill them: light and then the lights; sky and sea, then birds and fish; land and plants, then land animals and humans. Many scholars read this as a literary frame, which is one reason they do not read the days as a timetable. Others read the days as literal days or as ages, and all of those readings use the same pairing. Here is a small check that is easy to get wrong when retelling from memory: birds belong to Day 5 with the sea creatures, not to Day 6. It is a minor slip, and it shows how quickly a retelling drifts from the page."
+              ]
+            },
+            {
+              "heading": "What is missing",
+              "text": [
+                "The sun and moon are never named. In Mesopotamia they were gods with names, Shamash and Sin. Genesis calls them ‘the greater light’ and ‘the lesser light’, set in the sky to give light and mark times. Many readers hear a quiet argument: the powers that the neighbours worshipped are objects in God’s creation, so the passage is calm and not in a fight. Be careful with this. That the absence of names is deliberate is an interpretation, since the Hebrew words for sun and moon exist and are used elsewhere."
+              ]
+            },
+            {
+              "heading": "The human at the end",
+              "text": [
+                "Then comes the climax. In Egypt and Mesopotamia the king was the image of the god, and ruling was his job. Genesis says that every human, male and female, is made in God’s image and given the task of caring for the world. Read in its own setting, that is a strong statement: there is no ranking of persons at the beginning. One more thing to notice is God’s ‘Let us make’ in 1:26. Christians have read it as the Trinity, many Jewish readers as God speaking to the heavenly court, and some as a king deliberating with himself. The text itself does not say who is addressed, so it is better held as an invitation to think than as a proof.",
+                "The poem ends with rest. The seventh day does not say ‘evening and morning’, and nothing is made on it. After six days of making, the climax of the week is a day that is not for production."
+              ]
+            },
+            {
+              "heading": "For your own week",
+              "text": [
+                "Dignity before achievement, and a day that is not for output: the poem puts both at the start, before anyone has done anything. Look at your own week for a moment. What in it is a ‘lesser light’ that you have been treating as a god, and where is the day that is not for production?"
+              ]
+            }
+          ],
+          "questions": [
+            "Which line of the refrain do you notice most as you read: ‘God said’, ‘it was good’, or ‘evening and morning’? What does it do?"
+          ],
+          "insights": ["sevens-in-genesis-1", "refrain-and-missing-good", "forming-and-filling", "no-sun-no-moon", "image-of-god-and-kings"],
+          "cards": ["day-5-6-birds", "let-us-make"]
         },
         {
           "title": "Day 2: The human and the garden",
           "passage": "Genesis 2:4–17",
+          "summary": "A close-up on one man, one garden, one job and one limit.",
+          "sections": [
+            {
+              "heading": "A second voice",
+              "text": [
+                "Genesis 2:4 starts again. The divine name changes from Elohim to the LORD God (YHWH Elohim). The order changes too. In chapter 1 the humans come last, after plants and animals. In chapter 2 the man is made first, then the trees, then the animals, then the woman. The style changes from a patterned liturgy to a close-up story. Source critics explain this as two sources (Priestly and Yahwist). Others keep one author or editor and read 2:4 as the heading of a new section, with chapter 2 as a zoom-in. Both camps agree that the two units say different things in different ways, and the strongest reading is the one that lets each say its own thing. Which voice is speaking matters when someone says ‘the Bible says’."
+              ]
+            },
+            {
+              "heading": "Dust, ground, and a pun",
+              "text": [
+                "The name Adam is a word that means ‘human’, and it sounds like adamah, ‘soil’. The first person is an earthling, formed from the ground he will look after. The Hebrew plays with sound in a way the English hides, and it will do so again in two days’ reading, with the words for ‘naked’ and ‘crafty’."
+              ]
+            },
+            {
+              "heading": "The garden",
+              "text": [
+                "Notice that the word is ‘garden’ (gan). The word ‘paradise’ is not in Genesis. It comes from an Old Iranian word for a walled park, which Hebrew borrowed as pardes, in late books only, for an orchard. It reached the Garden of Eden through the Greek translation, and then entered Luke 23:43 and Revelation 2:7. So ‘paradise’ is a biblical word, but it is not the word of this passage.",
+                "Notice the job too. The man is put in the garden ‘to work it and keep it’ (2:15), before anything goes wrong. Work is part of the good beginning, not part of the curse. What changes later is the ground and the kind of work (toil, thorns, sweat), and that is the topic of Day 5. The two verbs ‘work’ and ‘keep’ appear together later for the duties of the Levites at the tent of meeting (Numbers 3:7–8). That is one reason many scholars read the garden as a first sanctuary, with the man as a priest-gardener, and why the tree of life returns in Revelation. It is a widely held proposal, not a certainty, and others question it."
+              ]
+            },
+            {
+              "heading": "A job and a limit",
+              "text": [
+                "Before anything else, the man receives two things: a task, and a limit. He may eat from every tree, except one (2:16–17). Notice the order, which is generosity first. Also notice that the command is given before the woman exists. Keep that in mind for Day 4."
+              ]
+            }
+          ],
+          "questions": [
+            "The man is given a job and a limit before anything else. What does each one say about how God sees him?"
+          ],
           "insights": ["adam-adamah-arum", "garden-as-sanctuary"],
-          "cards": ["two-accounts", "work-as-curse", "paradise-word"],
-          "question": "The man is given a job and a limit before anything else. What does each one say about how God sees him?"
+          "cards": ["two-accounts", "work-as-curse", "paradise-word"]
         },
         {
           "title": "Day 3: Two become one",
           "passage": "Genesis 2:18–25",
-          "insights": ["image-of-god-and-kings"],
-          "cards": ["wow-man", "ezer-helper", "rib"],
-          "question": "God names the first thing that is ‘not good’. What is it, and who solves it?"
+          "summary": "The first thing God calls ‘not good’, and a poem of recognition.",
+          "sections": [
+            {
+              "heading": "The first thing that is not good",
+              "text": [
+                "After seven ‘goods’ in chapter 1, the first ‘not good’ comes here: ‘It is not good that the man should be alone’ (2:18). Note what that says. The problem is not that the man is incomplete as a worker. It is that he is alone. God’s answer is to look for a partner, and he first brings the animals. None is a match, and the man’s naming of them is the way the story shows it."
+              ]
+            },
+            {
+              "heading": "‘Helper’",
+              "text": [
+                "God says he will make an ezer kenegdo, ‘a help corresponding to him’. It is no mistranslation to write ‘helper’. But the word does not mean ‘assistant’. In the Old Testament it is often used of God as Israel’s help (for example Psalm 121:1–2; Deuteronomy 33:26, 29), so being the helper does not mean being lower. The second word, kenegdo, adds correspondence: someone who is ‘in front of him’ as like to like. That is a claim about usage and connotation. ‘Life-saver’ is a gloss, and ‘ezer implies strength’ is a connotation, not a dictionary meaning. Scholars disagree about how much to build on it (Carol Meyers argues for a strong helper and equal; complementarian writers accept the God-as-helper evidence but argue that role differences remain). The reading that holds on every side is the modest one: the text gives no basis for treating the woman as lesser, and it should not be the only support for how any two people share a life."
+              ]
+            },
+            {
+              "heading": "Side, not rib",
+              "text": [
+                "God puts the man into a deep sleep, takes ‘one of his tselot’ and ‘builds’ it into a woman. The Hebrew word tsela elsewhere nearly always means ‘side’: the sides of the ark or of the tabernacle, a hillside. So many translators read ‘one of his sides’. The Latin costa (‘rib’) set the English tradition. Whether ‘rib’ remains possible in this one verse is argued, and I would not claim that the word ‘never’ means rib. The point of the story is clear either way: she is made from the same stuff as the man, not from dust like the animals. That is kinship and not rank."
+              ]
+            },
+            {
+              "heading": "‘Wow-man’?",
+              "text": [
+                "The man’s response is a short poem: ‘This at last is bone of my bones and flesh of my flesh; she shall be called ishah (woman), because she was taken out of ish (man).’ His amazement is real. The pun, however, is ish and ishah. ‘Wow-man’ is an English sound-joke that is not in the Hebrew. Medieval Jewish commentators treated the two words as related, and modern scholars usually do not, so the pun works as a folk etymology, on sound and sense. A pun can make a point memorable, but it cannot prove a point."
+              ]
+            },
+            {
+              "heading": "Naked, and not ashamed",
+              "text": [
+                "The scene ends with the man and woman ‘naked and not ashamed’ (2:25). The word for naked, arummim, sounds like the word for ‘crafty’, arum, which opens the next chapter. Hold the word in mind, because it is where the serpent will aim tomorrow."
+              ]
+            }
+          ],
+          "questions": [
+            "God names the first thing that is ‘not good’. What is it, and who solves it?"
+          ],
+          "insights": ["adam-adamah-arum"],
+          "cards": ["wow-man", "ezer-helper", "rib"]
         },
         {
           "title": "Day 4: The serpent and the fruit",
           "passage": "Genesis 3:1–7",
+          "summary": "A conversation in which a rule is bent a little at a time.",
+          "sections": [
+            {
+              "heading": "A creature, and a pun",
+              "text": [
+                "Genesis 3:1 says the serpent was ‘more crafty (arum) than any other wild animal that the LORD God had made’. Notice the last words: it is one of the animals. Genesis never says Satan, the devil or an angel. The identification comes later: some Jewish texts say the devil led Eve astray, and Revelation 12:9 calls the serpent ‘that ancient serpent, who is the devil and Satan’. It is an old and widely held Christian reading, but it is not in this chapter. One effect of the Genesis wording is that the voice that undermines trust sits inside creation, and does not come from a distant villain.",
+                "The word arum, ‘crafty’, is a pun. The same consonants give arummim, ‘naked’, in 2:25. One word, two meanings: exposed and clever. The serpent’s skill is in turning openness into fear."
+              ]
+            },
+            {
+              "heading": "Listen to the first question",
+              "text": [
+                "‘Did God really say, You shall not eat from any tree in the garden?’ Compare it with what God actually said in 2:16–17, which was generosity with one exception. The serpent leaves out the generosity and makes the limit the whole story. The woman’s answer in 3:2–3 is mostly accurate, but she adds ‘neither shall you touch it’, which God’s command (given before she existed) does not contain. The text does not say who added the words or why. Ancient readers split: Genesis Rabbah treats the addition as a fault, while Rashi and Avot de-Rabbi Natan say that Adam added it as a protective ‘fence’. The idea that Eve added it out of care has no strong ancient support. Whichever reading you choose, notice that it is a reading."
+              ]
+            },
+            {
+              "heading": "What was eaten, and who was there",
+              "text": [
+                "The text says that she took ‘the fruit’ (peri) of the tree. Genesis never names the fruit. The apple is a later European picture. Jewish tradition names a fig, a grape, a date or wheat. The idea that the Latin malum (‘evil’ and ‘apple’) caused the apple is disputed, since the Vulgate uses fructus.",
+                "Verse 6 says she gave some ‘to her husband who was with her (immah)’. That is all the text says about him. Whether he was at the conversation is argued: the serpent’s ‘you’ in verses 1–5 is plural, which some take as a sign that he was present, while others say that ‘with her’ does not prove presence. Some popular teaching says that the man failed to lead and the woman was led astray, or that the Hebrew word for ‘male’ (zakar) means ‘the one who remembers’. Neither can be taken from the text. Words in Hebrew do not take their meaning from shared consonants (this is James Barr’s ‘root fallacy’), and the words ‘lead’ and ‘headship’ appear nowhere here. This reading does not settle the argument between complementarians and egalitarians, and it should not be used as a weapon in it."
+              ]
+            },
+            {
+              "heading": "Eyes opened",
+              "text": [
+                "Both eat. Both discover they are naked (the sound of arummim becomes eyrummim, 3:7). Both sew coverings. The openness that was safety has turned into shame, and that is the serpent’s achievement. Tomorrow God comes asking questions."
+              ]
+            }
+          ],
+          "questions": [
+            "Read the serpent’s first question slowly. What does it change about what God said?"
+          ],
           "insights": ["adam-adamah-arum"],
           "cards": ["apple", "serpent-is-satan", "eve-adds-touch", "zakar-remember", "failure-to-lead"],
-          "question": "Read the serpent’s first question slowly. What does it change about what God said?"
+          "safeguard": "Genesis 3 is often used to say who should lead, or who is to blame. If you have been told that the story makes you responsible for another person’s behaviour, or that you must submit, the text does not say so. Help and support are one tap away."
         },
         {
           "title": "Day 5: God’s questions and the verdicts",
           "passage": "Genesis 3:8–24",
-          "insights": ["reverse-order", "desire-and-rule-echo"],
+          "summary": "A courtroom in the garden, and a closing scene in which God clothes the people who failed.",
+          "sections": [
+            {
+              "heading": "A walk in the cool of the day",
+              "text": [
+                "They hear God ‘walking’ in the garden (3:8), and they hide. The verb for ‘walking’ is the same one used for God’s presence among his people in Leviticus 26:12, which fits the picture of the garden as a first sanctuary. The man’s answer to God is a confession of fear:‘I was afraid, because I was naked, and I hid.’"
+              ]
+            },
+            {
+              "heading": "A court that starts with questions",
+              "text": [
+                "Notice what God does first. He asks. ‘Where are you?’ ‘Who told you that you were naked?’ ‘What is this that you have done?’ God asks the man first (3:9), then the woman (3:13). The serpent is not questioned at all. Then the verdicts come in the order of the offence: serpent, woman, man. This is a court that works backwards from the end of the chain and then judges from the beginning. Notice what each person does with the question: the man points to the woman ‘whom you gave me’, and the woman points to the serpent. Both are true in part, and both avoid the question. The story is more useful as a mirror than as a ruling on who is to blame, and it gives no support for ranking blame between the sexes."
+              ]
+            },
+            {
+              "heading": "Who is cursed",
+              "text": [
+                "Listen for the word ‘cursed’ (arur). God says it to the serpent (3:14) and to the ground ‘because of you’ (3:17). He does not say it to the woman or to the man. They receive consequences: pain, toil, and a return to dust. It matters because ‘the curse of Eve’ is a phrase from popular speech and not from the text. The toil is real, but it is toil in a work that was good before this. Hardship in this passage is a consequence, and it is not the same as a curse on the person."
+              ]
+            },
+            {
+              "heading": "Verse 15",
+              "text": [
+                "God tells the serpent there will be enmity between its seed and the woman’s seed: ‘he shall strike your head, and you shall strike his heel.’ Notice that ‘seed’ is a collective noun and that no one is named. The first surviving Christian reading that links the verse to Christ is Irenaeus (about 180), and Luther made ‘first gospel’ (protoevangelium) a standard label. Jewish readings are more varied than ‘non-messianic’: the Palestinian Targums speak of healing in the days of the Messiah, while the verse is otherwise read morally and collectively. A person who has been wronged can hear in it that evil gets a verdict and that harm is not the last word. You can hold that without claiming that the verse names Jesus."
+              ]
+            },
+            {
+              "heading": "Verse 16",
+              "text": [
+                "To the woman: ‘your desire (teshuqah) shall be for your husband, and he shall rule over you.’ This is a hard verse, and its meaning is argued. Read it as what it says it is, which is the announcement of a consequence, and not as an instruction. Tomorrow you will meet the same rare word teshuqah in a very different place. Hold the question until then."
+              ]
+            },
+            {
+              "heading": "Clothes, and a door",
+              "text": [
+                "The scene closes with an action: ‘The LORD God made garments of skin for Adam and his wife and clothed them’ (3:21). Notice the verse says nothing about an altar, blood or atonement. Many Christians have seen in it a pointer to sacrifice and to Christ’s covering of sin, and that is a long and respected reception. It is not what the verse says. What the verse does say is that God clothes the people who have just failed him. Then he sends them out of the garden, with cherubim on the east side (3:24).",
+                "You will often hear this chapter called ‘the Fall’. Genesis uses no word for ‘fall’ and does not say that guilt passes to descendants. Augustine, the Orthodox churches and rabbinic Judaism read the story in different ways, and Christians themselves disagree on what it implies. You can take the story seriously as a diagnosis, because we hide, blame and cover up, without holding one theory of inheritance."
+              ]
+            }
+          ],
+          "questions": [
+            "God asks before he sentences. Which of the questions would be hardest for you to answer?"
+          ],
+          "insights": ["reverse-order", "desire-and-rule-echo", "garden-as-sanctuary"],
           "cards": ["god-cursed-eve", "the-fall", "protoevangelium", "garments-of-skin"],
-          "question": "God asks before he sentences. Which of the questions would be hardest for you to answer?"
+          "safeguard": "Verses like 3:16 have been used to excuse control and harm in relationships. The text announces a consequence of a broken world and gives no command to dominate or to submit to abuse. If this touches your life, help and support are one tap away."
         },
         {
           "title": "Day 6: Cain and Abel",
           "passage": "Genesis 4:1–16",
+          "summary": "God speaks to Cain before anything has happened, and the choice is still open.",
+          "sections": [
+            {
+              "heading": "Names",
+              "text": [
+                "Eve names her first son Cain (Qayin) and says ‘I have gotten (qanithi) a man…’. The sound-play is certain. ‘Treasure’ is not a standard gloss, and the usual renderings are ‘acquired one’ or ‘possession’. Many scholars also connect qayin with a word for ‘smith’ (compare Tubal-Cain in 4:22). The end of her sentence is a famous crux: ‘with the help of the LORD’ is a translators’ addition. The old reading that Eve thought she had borne the promised deliverer is possible but speculative.",
+                "The second son is Hevel, Abel. The word is the one Ecclesiastes uses for life’s breath-like brevity: ‘hevel of hevels’. A Hebrew reader would hear that Abel’s part in the story will be short. The text does not say that Eve was disappointed in him, or why she chose the name."
+              ]
+            },
+            {
+              "heading": "Two offerings",
+              "text": [
+                "Cain brings ‘some of the fruits of the soil’. Abel brings ‘the firstborn of his flock and their fat portions’. The words ‘firstborn’ and ‘fat’ appear only for Abel. Hebrews 11:4 says that Abel offered a better sacrifice ‘by faith’, and older commentators saw pride and unbelief in Cain. The text gives no reason for God’s response. The idea that Abel was remembering Eden and the skins of 3:21 is a modern guess, and nothing in chapter 4 points to it."
+              ]
+            },
+            {
+              "heading": "God speaks first",
+              "text": [
+                "Notice what happens when Cain is angry. God does not wait for the deed. He asks, ‘Why are you angry?’ and then says: ‘If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire (teshuqah) is for you, but you must rule (mashal) over it.’ These are the same two rare words as in 3:16, ‘desire’ and ‘rule’. The mirror is real. What it means is argued: some read desire as a drive to control and the verse as a struggle, others read it as longing. Both verses describe what goes wrong in a broken world and neither is an instruction, and 4:7 ends with a call to master sin, which shows that a description is not a destiny. Between the feeling and the act is a pause in which the story puts the choice."
+              ]
+            },
+            {
+              "heading": "The second question",
+              "text": [
+                "After the killing, God asks again: ‘Where is Abel your brother?’ It echoes ‘Where are you?’ in chapter 3. The first question was about a person’s relation to God, and the second about their relation to others. Cain answers with a question: ‘Am I my brother’s keeper?’ He uses the same word for ‘keep’ (shamar) that the man was given for the garden. Abel’s blood (the Hebrew is plural, ‘bloods’) cries from the ground, and the ground that the first man was made from will no longer yield to Cain."
+              ]
+            },
+            {
+              "heading": "Mercy that is not repentance",
+              "text": [
+                "Cain is now ‘cursed’ (arur), the first person in the story to whom the word is applied, and he is made a wanderer. Does he repent? The text records no confession. He never says ‘I have sinned’. His word avon in 4:13 can mean ‘guilt’ or ‘punishment’, and most translations read ‘my punishment is more than I can bear’. His fear is that he will be killed. God’s answer is surprising: he puts an ot, a sign, on Cain ‘so that no one who found him would kill him’. Genesis does not say what the sign was. Its purpose is protection. Nothing in the text links it to skin colour or a people. That reading was added in the 18th and 19th centuries to justify slavery and segregation, and it has no support in the verse.",
+                "This is an uncomfortable mercy, and a careful reader should say what it does not mean. God’s protection of Cain does not remove his consequences, since he is still a wanderer, and it does not say that a victim or family must reconcile with someone who has not changed."
+              ]
+            }
+          ],
+          "questions": [
+            "God speaks to Cain before he acts. What exactly does God say to him, and what is left for Cain to decide?"
+          ],
           "insights": ["abel-is-breath", "where-are-you-where-is-your-brother", "desire-and-rule-echo"],
           "cards": ["cain-treasure", "abel-offering", "cain-repents", "mark-of-cain"],
-          "question": "God speaks to Cain before he acts. What exactly does God say to him, and what is left for Cain to decide?"
+          "safeguard": "God’s mercy to Cain does not tell anyone to forgive or reconcile with a person who has harmed them and has not changed. If forgiveness is being used to pressure you, help and support are one tap away."
         },
         {
           "title": "Day 7: Two families",
           "passage": "Genesis 4:17–26",
+          "summary": "Two lines, one name, and a choice that repeats in every generation.",
+          "sections": [
+            {
+              "heading": "The family that builds",
+              "text": [
+                "Cain’s line is a line of makers. Cain builds a city. Jabal keeps herds, Jubal plays the lyre and pipe, Tubal-Cain forges tools of bronze and iron. Nothing in the text condemns these arts. But the line ends with Lamech, who takes two wives (the first mention of it) and sings a poem to them."
+              ]
+            },
+            {
+              "heading": "Lamech’s song",
+              "text": [
+                "‘I have killed a man for wounding me… If Cain is avenged sevenfold, truly Lamech seventy-sevenfold.’ Lamech’s poem sets his own vengeance against Cain’s protection and multiplies it. Read it carefully, because two details are open. The first verb (ki haragti) can be read ‘I have killed’ or ‘I would kill (if)’, and the text never says whom he killed. Many readers call the poem a ‘Song of the Sword’ and link it to Tubal-Cain’s metalwork. The text gives no sign that Lamech is afraid or that he keeps the boast private: his audience inside the story is his wives, and that is all we are told. The pattern is recognisable anywhere: violence that escalates, and then boasts. Jesus reverses the number when Peter asks how often to forgive: ‘not seven times, but seventy-seven times’ (Matthew 18:21–22)."
+              ]
+            },
+            {
+              "heading": "The other Lamech",
+              "text": [
+                "Now read chapter 5, in the genealogy of Seth. The names sound alike: Enoch, Jared and Irad, Mahalalel and Mehujael, Methuselah and Methushael, and Lamech again. Cain’s line has seven generations and Seth’s has ten. Source critics explain the similarity as two versions of one list, and others read it as a deliberate contrast. Both keep the contrast. This second Lamech names his son Noah in hope: ‘this one shall bring us relief from our work’ (5:29). It is the same name, with another direction. The first Lamech says ‘I will avenge’, and the second says ‘relief’."
+              ]
+            },
+            {
+              "heading": "How it ends",
+              "text": [
+                "Chapter 4 does not end with the city or the sword. It ends with a birth: Adam and Eve have another son, Seth, and then Seth has a son, Enosh, and ‘at that time people began to call on the name of the LORD’ (4:26). The writer sets two families side by side. One builds cities and arts and weapons, and one calls on the LORD. The choice is repeated in each generation, and Noah is the turn.",
+                "You have read four chapters. At the start there was an order and a place for every person. Then a conversation bent a rule, people hid and blamed, and the harm moved from a garden into a family. The story keeps asking one thing: Where are you? Where is your brother?"
+              ]
+            }
+          ],
+          "questions": [
+            "Who do the last verses say begins to ‘call on the name of the LORD’, and why might the writer end here?"
+          ],
           "insights": ["two-lamechs"],
           "cards": ["lamech-boast"],
-          "question": "Who do the last verses say begins to ‘call on the name of the LORD’, and why might the writer end here?",
           "finish": "Take the quiz to review the week."
         }
       ]
@@ -64,38 +309,170 @@
       "title": "Small group: four evenings",
       "audience": "Groups and group leaders",
       "minutes": "60–75 per session",
-      "description": "Each evening has a short reading, a ‘what we assumed’ round (the myth cards) and a ‘what we noticed’ round (the insights). The questions are open and do not need an expert leader.",
+      "description": "Each evening is a guided walk through one passage: a short reading, a way into the text, and open questions. The myth cards and insights are listed at the end for anyone who wants more. The questions do not need an expert leader.",
       "days": [
         {
           "title": "Evening 1: Order and dignity",
           "passage": "Genesis 1:1–2:3",
-          "insights": ["sevens-in-genesis-1", "forming-and-filling", "image-of-god-and-kings", "no-sun-no-moon"],
-          "cards": ["day-5-6-birds", "two-accounts"],
-          "question": "Open: what did you grow up hearing about Genesis 1? Then: what in the text surprised you? Finally: what does ‘image of God’ for every person change in how you meet someone this week?"
+          "summary": "What did you grow up hearing about Genesis 1, and what is actually there?",
+          "sections": [
+            {
+              "heading": "Opening round (10 minutes)",
+              "text": [
+                "Go round the group. Each person says in one sentence what they grew up hearing about Genesis 1. Write the answers down without comment. At the end of the evening, return to the list and see what changed."
+              ]
+            },
+            {
+              "heading": "Read it aloud (10 minutes)",
+              "text": [
+                "Read Genesis 1:1–2:3 aloud, with a different reader for each day. It was written to be heard, and it is built on seven: seven words in 1:1, fourteen in 1:2, thirty-five in the description of the seventh day. Whether the writer planned the counting is an inference, but the passage is clearly built around the number seven and arrives at a day of rest."
+              ]
+            },
+            {
+              "heading": "What we noticed (20 minutes)",
+              "text": [
+                "Ask: where does the pattern bend? In the Hebrew, Day 2 never says ‘good’, Day 3 says it twice and Day 6 says ‘very good’. Days 1–3 shape spaces (light; sky and sea; land) and Days 4–6 fill them (lights; birds and fish; animals and humans). Notice that birds are on Day 5, which is a detail that a retelling often gets wrong. Many scholars read the pairing as a literary frame, others hold literal days or ages, and all of them use the same pairing, so there is no need to settle that tonight.",
+                "Then ask what is missing. The sun and moon are not named, whereas in Mesopotamia they were gods. Many readers hear a quiet argument that the neighbours’ powers are lamps in God’s creation. That is an interpretation, so present it as one."
+              ]
+            },
+            {
+              "heading": "What changes for us (15 minutes)",
+              "text": [
+                "In Egypt and Mesopotamia the king was the image of the god. Here every human, male and female, is. Chapter 2 will tell the story in another voice, with the man made first, so say now that there are two units and that they differ. Ask the group what it means to meet someone as an image of God this week."
+              ]
+            }
+          ],
+          "questions": [
+            "What did you grow up hearing about Genesis 1? What in the text surprised you?",
+            "What does ‘image of God’ for every person change in how you meet someone this week?"
+          ],
+          "insights": ["sevens-in-genesis-1", "forming-and-filling", "image-of-god-and-kings", "no-sun-no-moon", "refrain-and-missing-good"],
+          "cards": ["day-5-6-birds", "two-accounts", "let-us-make"]
         },
         {
           "title": "Evening 2: Two people, one garden",
           "passage": "Genesis 2:4–25",
+          "summary": "What the Hebrew does and does not say about the first man and woman.",
+          "leaderNote": "This evening touches on how Genesis 2–3 is used in marriages. Read the safeguard note in the app first and be ready to point people to the help page. Do not ask anyone to share personal stories about their own relationship.",
+          "sections": [
+            {
+              "heading": "Opening (10 minutes)",
+              "text": [
+                "Ask: which claim about men and women have you heard ‘from the Hebrew’? Collect the claims without comment. Typical ones are ‘helper means life-saver’, ‘wow-man’, ‘rib’ and ‘the man’s name means he remembers’."
+              ]
+            },
+            {
+              "heading": "Read it aloud (10 minutes)",
+              "text": [
+                "Read Genesis 2:4–25. Pause after 2:15, where the man is given a job ‘to work it and keep it’ before anything goes wrong, so work is not a curse. Pause again at 2:18: this is the first ‘not good’ in the story, and it is about being alone."
+              ]
+            },
+            {
+              "heading": "Check the claims (25 minutes)",
+              "text": [
+                "Take the claims one at a time against the text. ‘Wow-man’ is an English joke. The Hebrew pun is ish and ishah. ‘Rib’ is tsela, which usually means ‘side’, and the story’s point is that she is made from the same stuff as the man. ‘Helper’ (ezer) is not a mistranslation, and it is often used of God, so it does not mean ‘lesser’. But ‘life-saver’ is a gloss. And the idea that the word for ‘male’ (zakar) makes the man ‘the one who remembers’ fails whatever the etymology, because meaning comes from use and not from shared consonants.",
+                "The point of the exercise is not to win arguments. It is that a Hebrew word-study should never be the only support for how two people share a life, and a study that ends by confirming what the speaker already wanted to say should be checked twice."
+              ]
+            },
+            {
+              "heading": "The garden (10 minutes)",
+              "text": [
+                "Mention that the garden is called a gan (‘garden’), not paradise, and that the verbs ‘work’ and ‘keep’ are the verbs for the Levites’ duties, so many scholars see a first sanctuary. This is a proposal that others question. Ask what it would mean to think of work as attention to God."
+              ]
+            }
+          ],
+          "questions": [
+            "Which claim about men and women have you heard ‘from the Hebrew’? What does the text itself say, and what was added?",
+            "What would change if work were part of the good beginning and not part of the curse?"
+          ],
           "insights": ["garden-as-sanctuary", "adam-adamah-arum"],
-          "cards": ["wow-man", "ezer-helper", "zakar-remember"],
-          "question": "Which claim about men and women have you heard ‘from the Hebrew’? Check it together against the cards. What does the text itself say, and what was added?",
-          "leaderNote": "This evening touches on how Genesis 2–3 is used in marriages. Read the safeguard note in the app first and be ready to point people to the help page. Do not ask anyone to share personal stories about their own relationship."
+          "cards": ["wow-man", "ezer-helper", "rib", "zakar-remember", "paradise-word", "work-as-curse"]
         },
         {
           "title": "Evening 3: Blame and mercy",
           "passage": "Genesis 3:1–24",
-          "insights": ["reverse-order", "desire-and-rule-echo"],
-          "cards": ["eve-adds-touch", "failure-to-lead", "garments-of-skin", "protoevangelium"],
-          "question": "Each person in the story points to someone else. Where do we do this today? What would it look like to answer God’s question ‘where are you?’ honestly?",
-          "leaderNote": "Do not use this evening to assign blame between the sexes. The cards show that the text gives no support for ranking blame."
+          "summary": "A conversation, a court of questions, and a scene of clothing.",
+          "leaderNote": "Do not use this evening to assign blame between the sexes. The text gives no support for ranking blame, and it does not settle who should lead. If someone says that Genesis 3 means they must submit to a partner or take the blame for another person’s behaviour, say gently that the text does not say so, and point to the help page.",
+          "sections": [
+            {
+              "heading": "Opening (5 minutes)",
+              "text": [
+                "Ask what picture of the story people carry: an apple, a snake, a curse. Hold the answers."
+              ]
+            },
+            {
+              "heading": "Read it in three scenes (15 minutes)",
+              "text": [
+                "Read 3:1–7 (the conversation), 3:8–19 (the questions and verdicts) and 3:20–24 (the clothing and the exit) as three readings by three people. Notice the first question. ‘Did God really say, You shall not eat from any tree?’ leaves out the generosity of 2:16–17 and makes the limit the whole story. The woman’s answer adds ‘neither shall you touch it’, which is not in God’s command. The text does not say who added it, and ancient readers split."
+              ]
+            },
+            {
+              "heading": "What the story does not say (15 minutes)",
+              "text": [
+                "No fruit is named. The serpent is called a creature, ‘more crafty than any other wild animal’, and the identification with Satan comes later. The man is ‘with her’, and the text says nothing about him failing to lead. Neither the woman nor the man is called cursed: only the serpent and the ground. ‘Fall’ is not a word in the chapter. Each of these has a card in the app. Go through two or three, depending on what the group raised in the opening.",
+                "Verse 15 speaks of the woman’s ‘seed’ in the collective. Christians have read it as pointing to Christ since Irenaeus, and Jewish readers have read it morally and collectively. You can hold that evil gets a verdict without claiming that the verse names Jesus."
+              ]
+            },
+            {
+              "heading": "The questions and the clothes (15 minutes)",
+              "text": [
+                "God asks before he sentences: ‘Where are you? Who told you that you were naked? What is this that you have done?’ The man points to the woman, and the woman points to the serpent. Ask where we do this today. Then look at 3:21. God clothes the people who have just failed him. Many Christians have seen a pointer to sacrifice in the skins, which is a long and respected reception, but the verse itself says only that God clothed them."
+              ]
+            }
+          ],
+          "questions": [
+            "Each person in the story points to someone else. Where do we do this today?",
+            "What would it look like to answer God’s question ‘Where are you?’ honestly?"
+          ],
+          "insights": ["reverse-order", "desire-and-rule-echo", "adam-adamah-arum"],
+          "cards": ["apple", "serpent-is-satan", "eve-adds-touch", "failure-to-lead", "god-cursed-eve", "garments-of-skin", "protoevangelium", "the-fall"],
+          "safeguard": "Verses from Genesis 3 are sometimes used to justify control in a relationship. The text announces consequences of a broken world and gives no command to dominate or to submit to abuse."
         },
         {
           "title": "Evening 4: Anger, violence and a different line",
           "passage": "Genesis 4:1–26",
-          "insights": ["abel-is-breath", "where-are-you-where-is-your-brother", "two-lamechs"],
-          "cards": ["cain-treasure", "abel-offering", "cain-repents", "lamech-boast"],
-          "question": "God warns Cain before the deed. What are the early warnings in your life? Where does mercy without repentance trouble you, and where does it comfort you?",
+          "summary": "God warns before the deed. Two families answer in different ways.",
           "leaderNote": "Cain’s protection does not mean a victim must reconcile with an unrepentant person. Say so out loud if forgiveness comes up.",
+          "sections": [
+            {
+              "heading": "Opening (5 minutes)",
+              "text": [
+                "Ask: when did you last feel your anger rising, before you did anything? Do not ask for stories. Just let the question sit."
+              ]
+            },
+            {
+              "heading": "Read it aloud (10 minutes)",
+              "text": [
+                "Read Genesis 4:1–16. Notice that the name ‘Abel’ (hevel) is the word for breath in Ecclesiastes, so a Hebrew reader hears that his part will be short. ‘Treasure’ is not a standard rendering of Cain, and the usual gloss is ‘acquired one’. The text gives no reason for God’s response to the offerings. Hebrews 11:4 reads Abel’s as an act of faith, which is the strongest reading, but still an inference."
+              ]
+            },
+            {
+              "heading": "The warning (20 minutes)",
+              "text": [
+                "God speaks to Cain before he acts: ‘Sin is crouching at the door. Its desire is for you, but you must rule over it.’ The two rare words, desire and rule, are the same ones as in 3:16. What the pair means is argued, but both verses describe what goes wrong in a broken world, and 4:7 ends with a call to master sin. Description is not destiny. Ask what the early warnings are, and who or what in our lives asks ‘Why are you angry?’",
+                "After the killing God asks ‘Where is Abel your brother?’, which echoes ‘Where are you?’ in chapter 3. The first question is about a person’s relation to God, the second about relations with others. Ask which one is easier to answer."
+              ]
+            },
+            {
+              "heading": "Mercy without repentance (15 minutes)",
+              "text": [
+                "The text records no confession from Cain. His word avon can mean ‘guilt’ or ‘punishment’. God still puts a sign on him so that no one will kill him. Genesis does not say what the sign was, and it has no link to skin colour. Ask where mercy without repentance troubles the group, and where it comforts. Remind the group that God’s mercy to Cain does not remove consequences, and that it does not tell anyone to reconcile with someone who has not changed."
+              ]
+            },
+            {
+              "heading": "Two Lamechs (10 minutes)",
+              "text": [
+                "Read 4:17–26 and then 5:28–29. Cain’s line ends in a song of vengeance, ‘seventy-sevenfold’ (the first verb is open: ‘I have killed’ or ‘I would kill’), which Jesus reverses in Matthew 18:21–22. Seth’s line has a Lamech too, who names his son Noah in hope. Two families, the same name, another direction. End on 4:26: people began to call on the name of the LORD."
+              ]
+            }
+          ],
+          "questions": [
+            "God warns Cain before the deed. What are the early warnings in your life?",
+            "Where does mercy without repentance trouble you, and where does it comfort you?"
+          ],
+          "insights": ["abel-is-breath", "where-are-you-where-is-your-brother", "two-lamechs", "desire-and-rule-echo"],
+          "cards": ["cain-treasure", "abel-offering", "cain-repents", "mark-of-cain", "lamech-boast"],
+          "safeguard": "God’s mercy to Cain does not tell anyone to forgive or reconcile with a person who has harmed them and has not changed.",
           "finish": "End with the quiz as a game, in teams."
         }
       ]
