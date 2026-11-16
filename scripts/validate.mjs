@@ -23,10 +23,12 @@ for (const i of ins.insights) {
   if (i.sources?.some(s => s.kind === 'primary-todo')) warnings.push(`insight ${i.id}: has primary sources still to check`);
 }
 for (const p of plans.plans) for (const d of p.days) {
-  if (!d.sections?.length) err(`plan ${p.id}/${d.title}: no reading sections`);
-  const words = (d.sections || []).flatMap(s => s.text).join(' ').split(/\s+/).length;
+  if (!d.story?.text?.length) err(`plan ${p.id}/${d.title}: no story`);
+  if (!d.layout?.text?.length) err(`plan ${p.id}/${d.title}: no passage layout`);
+  if ((d.discoveries || []).length < 3) err(`plan ${p.id}/${d.title}: needs at least 3 discoveries`);
+  if (!d.apply?.bullets?.length || !d.apply?.questions?.length) err(`plan ${p.id}/${d.title}: needs apply bullets and a question`);
+  const words = [...(d.story?.text || []), ...(d.layout?.text || []), ...(d.discoveries || []).flatMap(x => x.text)].join(' ').split(/\s+/).length;
   if (words < 250) err(`plan ${p.id}/${d.title}: reading too short (${words} words)`);
-  if (!d.questions?.length) err(`plan ${p.id}/${d.title}: no questions`);
   for (const c of d.cards || []) if (!cardIds.has(c)) err(`plan ${p.id}/${d.title}: unknown card ${c}`);
   for (const i of d.insights || []) if (!insIds.has(i)) err(`plan ${p.id}/${d.title}: unknown insight ${i}`);
 }
