@@ -79,8 +79,8 @@ function applyChrome() {
   const meta = document.querySelector('meta[name="description"]');
   if (meta) meta.setAttribute('content', t('description'));
   document.getElementById('brand-sub').textContent = t('brandSub');
-  document.querySelector('nav').setAttribute('aria-label', t('mainNav'));
-  document.querySelectorAll('nav a[data-nav]').forEach(a => { if (t('nav')[a.dataset.nav]) a.textContent = t('nav')[a.dataset.nav]; });
+  document.getElementById('tabs').setAttribute('aria-label', t('mainNav'));
+  document.querySelectorAll('.tab[data-nav]').forEach(a => { const s = a.querySelector('span'); if (s && t('nav')[a.dataset.nav]) s.textContent = t('nav')[a.dataset.nav]; });
   const gear = document.getElementById('gear');
   gear.setAttribute('aria-label', t('settings')); gear.setAttribute('title', t('settings'));
   document.getElementById('foot-about').textContent = t('howWorks');
