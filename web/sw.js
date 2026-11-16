@@ -1,5 +1,5 @@
 // Offline cache. Bump CACHE when content changes so readers get corrections.
-const CACHE = 'eden-check-0.1.2';
+const CACHE = 'eden-check-0.1.3';
 const FILES = ['./', 'index.html', 'style.css', 'app.js', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png',
   'content/cards.json', 'content/insights.json', 'content/plans.json', 'content/quiz.json'];
 self.addEventListener('install', e => {

@@ -49,7 +49,7 @@ function setNav(name) {
   });
 }
 function show(...nodes) {
-  $app.replaceChildren(...nodes);
+  $app.replaceChildren(...nodes.flat().filter(n => n != null && n !== false));
   window.scrollTo(0, 0);
   $app.focus({ preventScroll: true });
 }
