@@ -83,6 +83,8 @@ function applyChrome() {
   document.querySelectorAll('.tab[data-nav]').forEach(a => { const s = a.querySelector('span'); if (s && t('nav')[a.dataset.nav]) s.textContent = t('nav')[a.dataset.nav]; });
   const gear = document.getElementById('gear');
   gear.setAttribute('aria-label', t('settings')); gear.setAttribute('title', t('settings'));
+  const hb = document.getElementById('helpbtn');
+  hb.setAttribute('aria-label', t('helpTitle')); hb.setAttribute('title', t('helpTitle'));
   document.getElementById('foot-about').textContent = t('howWorks');
   document.getElementById('foot-text').textContent = ' · ' + t('footer');
 }

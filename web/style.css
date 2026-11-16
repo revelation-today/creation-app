@@ -25,13 +25,15 @@ a { color: var(--accent); }
 .brand { font-weight: 700; text-decoration: none; color: var(--ink); }
 .brand span { font-weight: 400; color: var(--muted); font-size: .85em; margin-left: 6px; }
 .top { justify-content: space-between; padding-top: calc(10px + env(safe-area-inset-top, 0px)); }
-.gear { display: flex; padding: 6px; margin-right: -6px; color: var(--faint); border-radius: 8px; }
+.topbtns { display: flex; gap: 2px; }
+.gear { display: flex; padding: 6px; color: var(--faint); border-radius: 8px; }
+.topbtns .gear:last-child { margin-right: -6px; }
 .gear[aria-current="page"] { color: var(--ink); }
 .gear svg, .tab svg { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 .tabbar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 20; background: color-mix(in srgb, var(--surface) 88%, transparent);
   -webkit-backdrop-filter: saturate(1.4) blur(18px); backdrop-filter: saturate(1.4) blur(18px);
   border-top: 1px solid var(--line); padding-bottom: env(safe-area-inset-bottom, 0px); }
-.tabbar nav { max-width: 640px; margin: 0 auto; display: grid; grid-template-columns: repeat(5, 1fr); height: var(--tabbar-h); }
+.tabbar nav { max-width: 640px; margin: 0 auto; display: grid; grid-template-columns: repeat(4, 1fr); height: var(--tabbar-h); }
 .tab { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; text-decoration: none; color: var(--faint); font: 500 10.5px/1 system-ui, -apple-system, "Segoe UI", sans-serif; }
 .tab[aria-current="page"] { color: var(--ink); }
 main { max-width: 760px; margin: 0 auto; padding: 20px 16px 24px; outline: none; }
