@@ -55,6 +55,41 @@ function show(...nodes) {
 }
 
 /* ---------- views ---------- */
+function viewHome() {
+  const teaser = h('div', { class: 'teaser' });
+  function drawTeaser(c) {
+    teaser.replaceChildren(
+      h('p', { class: 'muted' }, 'Test yourself: is this in Genesis?'),
+      h('div', { class: 'claim' }, c.claim),
+      h('div', { class: 'row' },
+        h('a', { class: 'btn', href: '#/myths/' + c.id }, 'Check it'),
+        h('button', { class: 'btn secondary', type: 'button', onclick: () => drawTeaser(pick(c.id)) }, 'Another one')));
+  }
+  const pick = notId => { const pool = DATA.cards.filter(c => c.id !== notId); return pool[Math.floor(Math.random() * pool.length)]; };
+  drawTeaser(pick());
+  const tile = (href, n, label, text) => h('a', { class: 'card tile', href },
+    h('span', { class: 'count' }, String(n)), h('h3', {}, label), h('p', {}, text));
+  show(
+    h('section', { class: 'hero' },
+      h('h1', {}, 'What does Genesis 1–4 actually say?'),
+      h('p', { class: 'lead' }, 'Most of us know Eden, Eve and Cain from sermons, children’s Bibles and half-remembered lessons. Some of it is in the text. Some was added later. This app helps you tell the difference, and shows what is still worth taking from it.')),
+    h('div', { class: 'grid three' },
+      h('div', { class: 'layer' }, h('h2', {}, 'Text'), h('p', {}, 'What the Hebrew words and the story actually say.')),
+      h('div', { class: 'layer' }, h('h2', {}, 'Tradition'), h('p', {}, 'What later readers added, and who held which view.')),
+      h('div', { class: 'layer' }, h('h2', {}, 'Today'), h('p', {}, 'What the corrected reading changes for real life.'))),
+    h('div', { class: 'layer' }, teaser),
+    h('h2', {}, 'Start here'),
+    h('div', { class: 'grid two' },
+      tile('#/myths', DATA.cards.length, 'Myths', 'Common claims, checked against the text.'),
+      tile('#/insights', DATA.insights.length, 'Insights', 'Poetry, language and ancient background.'),
+      tile('#/plans', DATA.plans.length, 'Reading plans', 'A week on your own, or four evenings in a group.'),
+      tile('#/quiz', DATA.quiz.length, 'Quiz', 'Ten questions at a time, with explanations.')),
+    h('h2', {}, 'How to read the verdicts'),
+    h('ul', { class: 'legend' }, Object.values(DATA.meta.badges).map(b => h('li', {}, h('b', {}, b.icon + ' ' + b.label + ': '), b.help))),
+    h('p', { class: 'note' }, 'This is a draft. Every entry lists its sources and marks which ones still have to be checked in the original books. ',
+      h('a', { href: '#/about' }, 'How this works'), ' · ', h('a', { href: '#/help' }, 'Help and support')));
+}
+
 function viewMyths() {
   let filter = 'all';
   const list = h('div', { class: 'grid' });
@@ -247,7 +282,7 @@ function viewAbout() {
 /* ---------- router ---------- */
 function route() {
   if (!DATA.cards) return;
-  const [, area = 'myths', id] = (location.hash || '#/myths').split('/');
+  const [, area = 'home', id] = (location.hash || '#/').split('/');
   setNav({ myths: 'myths', insights: 'insights', plans: 'plans', quiz: 'quiz', help: 'help' }[area] || null);
   if (area === 'myths') return id ? viewCard(id) : viewMyths();
   if (area === 'insights') return id ? viewInsight(id) : viewInsights();
@@ -255,7 +290,7 @@ function route() {
   if (area === 'quiz') return viewQuiz();
   if (area === 'help') return viewHelp();
   if (area === 'about') return viewAbout();
-  return viewMyths();
+  return viewHome();
 }
 
 async function boot() {
