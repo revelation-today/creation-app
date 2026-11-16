@@ -24,7 +24,7 @@ Opening `index.html` directly will not work: the browser blocks `fetch` on `file
 
 ## Content
 
-All content is JSON in `content/`:
+All content is JSON in `web/content/`:
 
 | File | Contents |
 |---|---|

@@ -1,7 +1,7 @@
 // Content gate. Run: node scripts/validate.mjs
 // Fails if a card or insight has no source, a broken cross-reference, or a bad quiz answer.
 import { readFileSync } from 'node:fs';
-const load = f => JSON.parse(readFileSync(new URL('../content/' + f, import.meta.url), 'utf8'));
+const load = f => JSON.parse(readFileSync(new URL('../web/content/' + f, import.meta.url), 'utf8'));
 const cards = load('cards.json'), ins = load('insights.json'), plans = load('plans.json'), quiz = load('quiz.json');
 const errors = [], warnings = [];
 const err = m => errors.push(m);

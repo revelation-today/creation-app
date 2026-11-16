@@ -1,0 +1,9 @@
+{
+  "appId": "net.revelationtoday.edencheck",
+  "appName": "Eden Check",
+  "webDir": "web",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#faf8f4"
+  }
+}
