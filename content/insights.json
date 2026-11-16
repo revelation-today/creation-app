@@ -1,0 +1,204 @@
+{
+  "categories": {
+    "poetry": "Poetry & pattern",
+    "structure": "Structure",
+    "language": "Language",
+    "background": "Ancient background",
+    "intertext": "Echoes in the Bible",
+    "narrative": "Storytelling"
+  },
+  "insights": [
+    {
+      "id": "sevens-in-genesis-1",
+      "order": 1,
+      "category": "poetry",
+      "title": "The count of seven",
+      "verses": "Genesis 1:1–2:3",
+      "insight": "Genesis 1:1 has seven Hebrew words and 1:2 has fourteen. The description of the seventh day (2:1–3) has thirty-five (7 × 5). Whether the counting was planned or came out that way, the passage is written around the number seven, and the seventh day is where it arrives.",
+      "whyItMatters": "The first chapter is not a lab report. It is a carefully built liturgy, and its form tells you what it is for: to teach a world with an order and a rest, not to give a timetable.",
+      "today": "Notice how your own weeks are shaped. The text gives the rhythm a final day that is not for production.",
+      "confidence": "medium",
+      "caveat": "The word-counts are easy to check in Hebrew; that they were intended is an inference (U. Cassuto). Note also that counts depend on how you count compound words.",
+      "sources": [
+        { "label": "Genesis 1:1–2:3 in Hebrew (count the words yourself)", "kind": "text" },
+        { "label": "U. Cassuto, A Commentary on the Book of Genesis, Part 1 (1961)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "refrain-and-missing-good",
+      "order": 2,
+      "category": "poetry",
+      "title": "A refrain, and one missing ‘good’",
+      "verses": "Genesis 1:3–31",
+      "insight": "Each day follows a pattern: ‘God said… and it was so… God saw that it was good… there was evening and there was morning.’ The pattern is not mechanical. In the Hebrew text Day 2 never says ‘good’, Day 3 says it twice, and Day 6 ends with ‘very good’. (Some ancient translations add ‘good’ to Day 2.)",
+      "whyItMatters": "Poets vary a refrain to signal something. Day 3 has two works (land and plants), so it gets two ‘goods’. Day 2 separates waters, and the waters in the ancient world were the home of chaos.",
+      "today": "When you read a repeating pattern in the Bible, ask where it bends. The break is often where the point is.",
+      "confidence": "medium",
+      "caveat": "The missing ‘good’ is a textual fact. Why it is missing is an old guess (the waters), and not settled.",
+      "sources": [
+        { "label": "Genesis 1:6–8 compared with 1:10, 12, 18, 21, 25, 31", "kind": "text" },
+        { "label": "G. Wenham, Genesis 1–15 (WBC), on Day 2", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "forming-and-filling",
+      "order": 3,
+      "category": "structure",
+      "title": "Forming and filling",
+      "verses": "Genesis 1:3–31",
+      "insight": "Days 1–3 shape spaces and Days 4–6 fill them. Light (1) is answered by lights in the sky (4). Sky and sea (2) are answered by birds and fish (5). Land and plants (3) are answered by land animals and humans (6). Day 3 and Day 6 also share a double act (two ‘goods’ on Day 3; animals and humans on Day 6).",
+      "whyItMatters": "The design lets Genesis say that creation is ordered and then inhabited, and that the sequence is meant to be read as a pattern. This is one reason many scholars read the days as literary rather than as a chronological report.",
+      "today": "A good home is both built and filled. The structure here makes room before it makes residents.",
+      "confidence": "medium",
+      "caveat": "The pairing is widely used, but not everyone agrees on what it implies about the days (literal days, day-age and framework readings all use it).",
+      "sources": [
+        { "label": "Genesis 1 (compare Days 1–3 with Days 4–6)", "kind": "text" },
+        { "label": "M. Kline, ‘Because It Had Not Rained’ (1958) and C. Blocher, In the Beginning (1984), on the framework reading", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "no-sun-no-moon",
+      "order": 4,
+      "category": "background",
+      "title": "The sun and moon have no names",
+      "verses": "Genesis 1:14–18",
+      "insight": "In the surrounding cultures the sun and moon were gods, with names (such as Shamash and Sin in Mesopotamia). Genesis never names them. They are ‘the greater light’ and ‘the lesser light’, set in the sky to serve, mark times and give light. The word for ‘deep’ (tehom) is a plain noun too.",
+      "whyItMatters": "Many readers see a quiet argument here: the powers that neighbours worshipped are objects in God’s creation. That is why Genesis can sound calm. It is not in a fight with these powers.",
+      "today": "A lot of what we treat as ultimate (a market, a career, an image of ourselves) is a ‘lesser light’. Genesis gives permission to see it as a lamp.",
+      "confidence": "medium",
+      "caveat": "That the absence of names is deliberate is an interpretation. The Hebrew words for sun (shemesh) and moon (yareach) exist and are used elsewhere. Whether Genesis 1 echoes the Babylonian combat story is contested: Gunkel said yes (tehom from Tiamat), Tsumura derives tehom from a general word for ocean, and Levenson calls Genesis 1 ‘creation without opposition’.",
+      "sources": [
+        { "label": "Genesis 1:14–18", "kind": "text" },
+        { "label": "J. Walton, Ancient Near Eastern Thought and the Old Testament (2006)", "kind": "primary-todo" },
+        { "label": "J. Levenson, Creation and the Persistence of Evil (1988)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "image-of-god-and-kings",
+      "order": 5,
+      "category": "background",
+      "title": "Every human as ‘image of God’",
+      "verses": "Genesis 1:26–28",
+      "insight": "In Egypt and Mesopotamia, the king was the image of the god. Genesis says that of every human, male and female, and gives all of them the task of ruling, rather than reserving it for a king. In the Mesopotamian story Atrahasis, humans are made to take over the gods’ labour. In Genesis humans are made to represent God and look after the world.",
+      "whyItMatters": "This is why the claim ‘created equally, both of them’ is a strong statement in its own setting, and why Genesis 1 cannot easily be used to rank one human above another.",
+      "today": "Dignity is not earned or lost. The text puts it at the start, before anyone has done anything.",
+      "confidence": "medium",
+      "caveat": "I did not check these claims in primary editions of Atrahasis or the Egyptian sources.",
+      "sources": [
+        { "label": "Genesis 1:26–28", "kind": "text" },
+        { "label": "J. R. Middleton, The Liberating Image (2005)", "kind": "primary-todo" },
+        { "label": "Atrahasis (tr. W. G. Lambert and A. R. Millard, 1969)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "adam-adamah-arum",
+      "order": 6,
+      "category": "language",
+      "title": "Dust-creature, naked, and crafty",
+      "verses": "Genesis 2:7, 25; 3:1",
+      "insight": "Hebrew plays on sounds here, and the English hides it. The human (adam) is formed from the soil (adamah), so the name says ‘earthling’. The man and woman are ‘naked’ (arummim, 2:25) and the next verse says the serpent was ‘crafty’ (arum, 3:1). One word, two senses: exposed and clever.",
+      "whyItMatters": "The writer links the two verses on purpose. The nakedness without shame in 2:25 is where the serpent’s ‘cunning’ will strike, and 3:7 shows the result: they know they are naked (eyrummim).",
+      "today": "What looks like a weakness in the story (being exposed) was the point of safety. The serpent’s skill is in turning openness into fear.",
+      "confidence": "high",
+      "caveat": "The words are real Hebrew. A deliberate wordplay is the usual reading, not a certainty.",
+      "sources": [
+        { "label": "Genesis 2:7, 2:25, 3:1, 3:7 (Hebrew or an interlinear)", "kind": "text" }
+      ]
+    },
+    {
+      "id": "reverse-order",
+      "order": 7,
+      "category": "structure",
+      "title": "God reverses the order of the sin",
+      "verses": "Genesis 3:1–19",
+      "insight": "The temptation moves from the serpent to the woman to the man (3:1–6). When God investigates, he asks the man first (3:9), then the woman (3:13), and the serpent is not questioned at all. The sentences then run in the order of the offence: serpent (3:14), woman (3:16), man (3:17).",
+      "whyItMatters": "The scene is built as a court: inquiry from the end of the chain back to its start, then judgment. It shows God as a careful judge, not an angry one, and it answers ‘who is to blame’ with three people and a snake rather than with one.",
+      "today": "Real accountability starts with questions. God asks, and gives each one a chance to speak, before he states a consequence.",
+      "confidence": "high",
+      "caveat": "The order is plain in the text. The ‘courtroom’ reading is a common interpretation.",
+      "sources": [
+        { "label": "Genesis 3:1–19", "kind": "text" }
+      ]
+    },
+    {
+      "id": "garden-as-sanctuary",
+      "order": 8,
+      "category": "background",
+      "title": "Eden looks like a temple",
+      "verses": "Genesis 2:8–15; 3:8, 24",
+      "insight": "The man is put there ‘to work it and keep it’ (la‘avdah ulshomrah, 2:15). The same two verbs are used together later for the Levites’ duties at the tent of meeting (Numbers 3:7–8; 8:26; 18:5–6). God ‘walks’ in the garden (3:8) with the verb that describes his walking among his people in Leviticus 26:12. After the expulsion, cherubim guard the east side (3:24), and in Israel’s sanctuary the entrance faced east and cherubim were woven into the veil.",
+      "whyItMatters": "If Eden is a first sanctuary, then the man’s task is closer to ‘priest-gardener’, and the loss of Eden is the loss of access to God’s presence. This is why Genesis, the tabernacle and Revelation can be read together, and the tree of life returns in Revelation 2:7 and 22:2, 14.",
+      "today": "Work and worship are not separate in this picture. Being ‘keepers’ of a place can be a form of attention to God.",
+      "confidence": "medium",
+      "caveat": "This is a widely held proposal, but still a proposal. The verbal links are in the text, while the claim that Eden was a temple is argued by scholars (Wenham, Beale, Walton) and questioned by others.",
+      "sources": [
+        { "label": "Genesis 2:15; Numbers 3:7–8; 8:26; 18:5–6; Leviticus 26:12; Revelation 22:2, 14", "kind": "text" },
+        { "label": "G. Wenham, ‘Sanctuary Symbolism in the Garden of Eden Story’ (1986)", "kind": "primary-todo" },
+        { "label": "G. K. Beale, The Temple and the Church’s Mission (2004)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "desire-and-rule-echo",
+      "order": 9,
+      "category": "intertext",
+      "title": "‘Desire’ and ‘rule’: two verses that mirror each other",
+      "verses": "Genesis 3:16; 4:7",
+      "insight": "Two verses share a rare pair of words. To the woman (3:16): ‘your desire (teshuqah) shall be for your husband, and he shall rule (mashal) over you.’ To Cain (4:7): ‘sin is crouching at the door. Its desire (teshuqah) is for you, but you must rule (mashal) over it.’ The wording is almost the same, and the only other place with teshuqah is Song of Songs 7:10.",
+      "whyItMatters": "Some scholars (e.g. Susan Foh) read 3:16 from 4:7: ‘desire’ is a drive to control, and the verse describes a struggle. Others read it as longing, or as the pull of dependency. The mirror is real, and what it means is argued.",
+      "today": "Both verses describe what goes wrong in a fallen world, and they are not instructions. 4:7 ends with a call to master sin, which shows that description is not destiny.",
+      "confidence": "medium",
+      "caveat": "The shared vocabulary is checkable. The meaning of teshuqah in 3:16 is a long-running debate and this card does not settle it. The sentence in 3:16 is a description of consequence, and no one should treat it as a command.",
+      "safeguard": "‘He will rule over you’ is a description of what breaks, not a licence. It has been quoted to excuse domination, which the text does not do.",
+      "sources": [
+        { "label": "Genesis 3:16; 4:7; Song of Songs 7:10", "kind": "text" },
+        { "label": "S. T. Foh, ‘What Is the Woman’s Desire?’, Westminster Theological Journal 37 (1975)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "where-are-you-where-is-your-brother",
+      "order": 10,
+      "category": "narrative",
+      "title": "God’s questions: ‘Where are you?’ and ‘Where is your brother?’",
+      "verses": "Genesis 3:9; 4:9–10",
+      "insight": "In Genesis 3 God asks the man, ‘Where are you?’ In Genesis 4 he asks Cain, ‘Where is Abel your brother?’ In both cases God knows the answer and gives the person a chance to speak. In 4:10 Abel’s blood (Hebrew ‘bloods’, plural) ‘cries out’ from the ground, and the ground itself will no longer yield for Cain (4:12). The earth from which the man was made (2:7) now carries the voice of the murdered.",
+      "whyItMatters": "The two scenes are a pair. The first question is about a person’s relation to God, the second about their relation to others. The Bible keeps the two questions together.",
+      "today": "Which of the two questions do you find easier to answer? Many people are only asked one of them.",
+      "confidence": "high",
+      "caveat": "The plural ‘bloods’ is a fact of the Hebrew. Its rabbinic reading (it includes Abel’s descendants who would never be born) is later tradition.",
+      "sources": [
+        { "label": "Genesis 3:9; 4:9–12", "kind": "text" }
+      ]
+    },
+    {
+      "id": "two-lamechs",
+      "order": 11,
+      "category": "structure",
+      "title": "Two family trees and two Lamechs",
+      "verses": "Genesis 4:17–24; 5:1–32",
+      "insight": "Cain’s line (4:17–24) and Seth’s line (chapter 5) share names that sound alike: Enoch, Irad/Jared, Mehujael/Mahalalel, Methushael/Methuselah, and Lamech in both. Cain’s line runs seven generations and ends with a Lamech who boasts about vengeance and has two wives. Seth’s line has ten generations and its Lamech names his son Noah in hope: ‘this one shall bring us relief from our work’ (5:29).",
+      "whyItMatters": "The writer sets two families side by side: one that builds cities, arts and weapons, and one that calls on the LORD (4:26). The same name can go two ways, and Noah is the turn.",
+      "today": "Two families can sound alike and differ in what they do with power. The choice is repeated in each generation.",
+      "confidence": "medium",
+      "caveat": "The similar names are visible in Hebrew. Source critics explain them as two versions of one list, while others read them as a deliberate contrast. Both explanations keep the contrast.",
+      "sources": [
+        { "label": "Genesis 4:17–26; 5:1–32", "kind": "text" },
+        { "label": "G. Wenham, Genesis 1–15 (WBC), on the two genealogies", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "abel-is-breath",
+      "order": 12,
+      "category": "language",
+      "title": "Abel is ‘breath’",
+      "verses": "Genesis 4:2; Ecclesiastes 1:2",
+      "insight": "The name Abel is hevel, the word that Ecclesiastes uses for life’s fleeting, vapour-like quality (‘hevel of hevels’). In the story he is the one who has the shortest life and no children. Genesis does not say why Eve chose the name, but anyone who knew Hebrew heard the sound of ‘breath’.",
+      "whyItMatters": "A name works as a signal in a Hebrew story. A reader hears in advance that Abel’s part is brief. This does not mean that Eve was disappointed in her first son: the text never says so.",
+      "today": "A short life is not a small life. Abel is the first person the Bible calls righteous (Matthew 23:35), and the first to speak even after death (Hebrews 11:4).",
+      "confidence": "high",
+      "caveat": "The link between the name and the word is solid. Why Eve chose it is never given.",
+      "sources": [
+        { "label": "Genesis 4:2; Ecclesiastes 1:2; Matthew 23:35; Hebrews 11:4", "kind": "text" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "meta": {
+    "version": "0.1.0",
+    "lastReview": "2026-11-16",
+    "badges": {
+      "error": { "label": "Checkable error", "icon": "🔴", "help": "The text or the lexicons settle it." },
+      "contested": { "label": "Contested", "icon": "🟠", "help": "Serious scholars disagree. Both readings are shown." },
+      "tradition": { "label": "Tradition", "icon": "🟡", "help": "A legitimate reading, but one that is not in the text itself." },
+      "solid": { "label": "Solid", "icon": "🟢", "help": "Mainstream consensus." }
+    },
+    "sourceKinds": {
+      "text": "Biblical text: check in any translation",
+      "secondary": "Found in a secondary source during review (2026-11-16); primary still to be checked",
+      "primary-todo": "Named scholar or lexicon; NOT yet checked directly. Do not publish without checking."
+    }
+  },
+  "cards": [
+    {
+      "id": "day-5-6-birds",
+      "order": 1,
+      "title": "Which day did the birds appear?",
+      "claim": "The first three days make ‘houses’ and the next three fill them with “sun, moon and stars; fish; land and air animals”.",
+      "badge": "error",
+      "theme": "creation",
+      "verses": "Genesis 1:20–31",
+      "text": "Birds belong to Day 5, together with the sea creatures (1:20–23: “let birds fly above the earth across the vault of heaven”). Day 6 is land animals and then humans (1:24–31). So “air animals” on Day 6 is simply a slip. The tidy ‘house and inhabitants’ pairing still works: Day 2 (sky and waters) is filled on Day 5 (birds and fish).",
+      "tradition": "The pairing 1↔4, 2↔5, 3↔6 (the ‘framework’ reading) is a modern literary observation, not something the text states. It sits beside other readings (24-hour days, day-age, and others).",
+      "today": "Retellings drift, and the drift usually goes unnoticed. When you pass on a Bible story from memory, you can check the small details. It costs two minutes and it earns trust.",
+      "weakestJoint": "The error is about which day birds come on. The framework as a whole is a reading, not a fact.",
+      "confidence": "high",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Genesis 1:20–31 (any translation)", "kind": "text" }
+      ]
+    },
+    {
+      "id": "wow-man",
+      "order": 2,
+      "title": "“Wow-man”: is that in the Hebrew?",
+      "claim": "The man was amazed and called her “wow-man”.",
+      "badge": "error",
+      "theme": "woman-man",
+      "verses": "Genesis 2:23",
+      "text": "“Wow-man” is an English sound-joke. The Hebrew has its own, real wordplay: she shall be called ishah (woman) because she was taken from ish (man). The man’s astonishment is genuine, since the verse is a poetic outburst (“bone of my bones, flesh of my flesh”), but the pun is ish/ishah.",
+      "tradition": "Medieval Jewish commentators (e.g. Rashi, Ibn Ezra) treated ish and ishah as one word-family. Modern scholars usually treat the two as not etymologically related. The pun works on sound and sense, as a folk etymology.",
+      "today": "A pun can make a point memorable, but it cannot prove the point. Before you quote a ‘Hebrew meaning’, ask where it comes from.",
+      "weakestJoint": "The proposed root for ishah (usually anash) is itself only a scholarly proposal. What is settled is that ‘wow-man’ is not Hebrew.",
+      "confidence": "high",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "NET Bible translator’s note on Gen 2:23 (not etymologically related; wordplay by sound and sense)", "url": "https://biblia.com/bible/gs-netbible/Ge2.23", "kind": "secondary" },
+        { "label": "Balashon / Hebrew-language blog discussion of ish–ishah (background only)", "url": "https://www.balashon.com/2008/?m=1", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "zakar-remember",
+      "order": 3,
+      "title": "Does “male” mean “the one who remembers”?",
+      "claim": "The Hebrew word for ‘male’ carries the sense ‘to remember’, so man is meant to remember what God said.",
+      "badge": "error",
+      "theme": "woman-man",
+      "verses": "Genesis 3:6 (and 1:27)",
+      "text": "The argument fails whatever the etymology turns out to be. The meaning of a word comes from how it is used in context, not from consonants it shares with another word (James Barr’s ‘root fallacy’). Nothing in Genesis 3 uses the word zakar (male) to say that the man’s role is memory. What the text does say is that the man was “with her” (3:6) and did not speak.",
+      "tradition": "Some lexicons connect noun and verb (the male as the one ‘mentioned’ or ‘named’, and the continuer of the family name). Others treat them as separate words. The lexicon BDB itself calls the relation ‘obscure’, and Proto-Semitic reconstructions list the two separately. So claiming it as established fact in either direction is wrong.",
+      "today": "Be wary of any ‘the Hebrew word really means…’ that gives a group a built-in job. If a word-study ends up confirming what the speaker already wanted to say, check it twice.",
+      "weakestJoint": "I could not read HALOT directly. Whether the two words are related is unsettled in the sources found. The root-fallacy objection does not depend on that.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "safeguard": "Word-studies like this are used to assign men authority and women a supporting role. The text does not make that move.",
+      "sources": [
+        { "label": "BDB entry for zakar (male) as quoted on Biblehub: relation to the verb ‘obscure’", "url": "https://biblehub.com/hebrew/2145.htm", "kind": "secondary" },
+        { "label": "Wiktionary: Proto-Semitic *ḏikar- (male) listed apart from *ḏakar- (remember)", "url": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Semitic/%E1%B8%8Fikar-", "kind": "secondary" },
+        { "label": "James Barr, The Semantics of Biblical Language (1961), on the root fallacy", "kind": "primary-todo" },
+        { "label": "HALOT, entry zākār", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "cain-treasure",
+      "order": 4,
+      "title": "What does “Cain” mean?",
+      "claim": "Cain means ‘treasure’, and this shows Eve’s hope.",
+      "badge": "contested",
+      "theme": "sin-violence",
+      "verses": "Genesis 4:1",
+      "text": "Eve’s words are a deliberate pun: qanithi (“I have acquired/gotten”) echoes Qayin (Cain). So the verse connects the name to ‘acquiring’. ‘Treasure’ is not a standard rendering. The glosses are ‘acquired one’ or ‘possession’. Many scholars also think that qayin itself comes from a word for ‘smith’ or ‘spear’ (compare Tubal-Cain, the metalworker, in 4:22 and the Kenite people). The second half of her sentence (et YHWH) is a famous crux, and “with the help of the LORD” is a translators’ addition, not in the Hebrew.",
+      "tradition": "A reading in which Eve thinks she has borne the promised deliverer (‘I have gotten a man — the LORD’) is old and well known but speculative. It is a story about what Eve might have hoped, not what the verse says.",
+      "today": "Names in the Bible often work like headlines for a story. But a name-meaning is a clue and not proof, especially when two meanings (‘acquired’ and ‘smith’) compete.",
+      "weakestJoint": "Whether the name was meant to mean ‘acquired’, ‘smith’, or both (the pun plays on sound) cannot be settled from the text. What can be said is that ‘treasure’ is not supported.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Logos blog ‘Did Yahweh Father Cain?’ on the et YHWH crux and the qanah pun", "url": "https://www.logos.com/grow/did-yahweh-father-cain/", "kind": "secondary" },
+        { "label": "Blue Letter Bible: Qayin (H7014), glossed ‘possession’", "url": "https://blueletterbible.org/lexicon/H7014/lsb", "kind": "secondary" },
+        { "label": "HALOT / BDB entry Qayin and the Kenite hypothesis", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "cain-repents",
+      "order": 5,
+      "title": "Did Cain repent?",
+      "claim": "When Cain is confronted, he repents, and God places a protective sign on him.",
+      "badge": "contested",
+      "theme": "sin-violence",
+      "verses": "Genesis 4:13–15",
+      "text": "No confession appears in the passage: Cain never says ‘I have sinned’. His words in 4:13–14 are about what will happen to him (“whoever finds me will kill me”). The word avon in 4:13 can mean either ‘iniquity/guilt’ or ‘punishment’, so some translations read “my guilt is too great to bear” (note in the ESV) and most read “my punishment is more than I can bear”. Even on the ‘guilt’ reading, Cain asks for nothing and admits nothing to Abel or to God. The surprising fact stands: God protects him anyway.",
+      "tradition": "Many commentators (e.g. Matthew Henry, John Gill) read the verse as impenitent complaint. A minority reads despair of forgiveness. A few readers see a first sign of remorse.",
+      "today": "Grace is not the same as a fresh start for the unrepentant person’s victims. God’s mercy toward Cain does not remove consequences (he is still a wanderer), and it does not say that we must reconcile with someone who has not changed.",
+      "weakestJoint": "‘Wrong fact’ was too strong. The accurate claim is that the text records no repentance, and that its key word has two possible senses.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "safeguard": "Mercy toward Cain is God’s decision. It is not a rule that a victim must forgive or return to someone who has harmed them without remorse.",
+      "sources": [
+        { "label": "Genesis 4:13–15, compare translations (ESV footnote: ‘my guilt is too great to bear’)", "url": "https://www.biblestudytools.com/esv/genesis/4-13.html", "kind": "secondary" },
+        { "label": "John Gill on Gen 4:13 (impenitent complaint; alternative ‘is my sin greater than can be forgiven’)", "url": "https://johngill.thekingsbible.com/CommentaryVerse/1/4/13", "kind": "secondary" },
+        { "label": "Matthew Henry on Gen 4:13", "url": "https://mail.openbible.com/commentaries/genesis/4-13.htm", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "eve-adds-touch",
+      "order": 6,
+      "title": "Was Eve ‘careful’ to add “do not touch”?",
+      "claim": "Eve shows care by adding ‘neither shall you touch it’, guarding the commandment on the man’s behalf.",
+      "badge": "contested",
+      "theme": "sin-violence",
+      "verses": "Genesis 2:16–17; 3:2–3",
+      "text": "God’s command (2:16–17) says nothing about touching, and was given before the woman existed (2:22). In 3:3 she reports a longer version. So who added ‘touch’ and why is not stated. The serpent’s next move (3:4) does not mention touching at all.",
+      "tradition": "Ancient readers split. Genesis Rabbah treats Eve’s addition as a fault. Avot de-Rabbi Natan and Rashi say that Adam added it as a ‘fence’ and passed it on without explaining. Targum Onkelos changes ‘touch’ to ‘approach’, which removes the issue. The ‘careful’ reading in the article has no strong ancient support, and the later claim that this addition ‘offers no real protection’ contradicts it.",
+      "today": "A rule added to protect people from temptation can start to take the place of the real reason. When a protective rule gets quoted as if God had said it, we should ask if it is still serving its purpose.",
+      "weakestJoint": "‘Distortion’ and ‘Adam’s fence’ are both only readings. The text does not say who added the words.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "safeguard": "Do not use this verse to say that Eve was the careless or deceived one and that the man was not. The text puts both at the tree.",
+      "sources": [
+        { "label": "Survey of rabbinic views: Gen. Rabbah 19:3, Avot de-Rabbi Natan, Rashi, Onkelos (secondary summary)", "url": "https://oztorah.com/2011/10/dont-touch-breshit/", "kind": "secondary" },
+        { "label": "Texts in Conversation: Rashi vs Onkelos and Saadiah on 3:3", "url": "https://intertextual.bible/p/4456", "kind": "secondary" },
+        { "label": "Genesis Rabbah 19:3 and Avot de-Rabbi Natan A1, primary text", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "ezer-helper",
+      "order": 7,
+      "title": "‘Helper’: weak, or strong?",
+      "claim": "‘Helper’ (ezer) is better translated ‘life-saver’, so the woman was made strong.",
+      "badge": "contested",
+      "theme": "woman-man",
+      "verses": "Genesis 2:18, 20",
+      "text": "The word ezer means ‘help’. It is not a mistranslation to write ‘helper’. But the word does not mean ‘assistant’. In the Old Testament it is often used of God as Israel’s help (e.g. Psalm 121:1–2; Deuteronomy 33:26, 29), so being the helper does not mean being lower. The phrase in 2:18 is ezer kenegdo, ‘a help corresponding to him’, and the second word adds correspondence, ‘like in front of him’. So the careful claim is about usage and connotation. ‘Life-saver’ is a gloss, not a translation.",
+      "tradition": "R. David Freedman (Biblical Archaeology Review, 1983) argued for ‘a power equal to man’. Carol Meyers (Discovering Eve, 1988) argues for a ‘strong helper’ and an equal. Critics reply that it overreads the evidence (a review of Meyers’ revised edition argues this about her Genesis 3:16 reading). Complementarian scholars accept the God-as-helper evidence but argue that role differences remain.",
+      "today": "A word-study should never be the only support for how two people share life. Whatever you decide about roles, the text gives no basis for treating the woman as lesser. Her being ‘the helper’ is a compliment in the story’s own vocabulary.",
+      "weakestJoint": "Freedman’s two-root proposal and Meyers’ argument were only summarised by secondary sources here. The claim ‘ezer implies strength’ is a connotation, not a lexical meaning.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "safeguard": "Appeals to ‘helper’ and ‘headship’ are among the most common ways Genesis 2 is used to justify control. This card says only what the word does and does not mean.",
+      "sources": [
+        { "label": "BAS Library, ‘Eve and Adam’ footnote 3: Freedman, ‘Woman, a Power Equal to Man’, BAR 9:1", "url": "https://library.biblicalarchaeology.org/footnote/footnote-3-eve-and-adam/", "kind": "secondary" },
+        { "label": "Oxford Academic: Carol Meyers, Discovering Eve", "url": "https://academic.oup.com/book/49680", "kind": "secondary" },
+        { "label": "CBMW review of Meyers’ Rediscovering Eve (critical)", "url": "https://cbmw.org/?p=53731", "kind": "secondary" },
+        { "label": "HALOT / BDB, entry ʿēzer", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "failure-to-lead",
+      "order": 8,
+      "title": "Was the man’s sin ‘failing to lead’?",
+      "claim": "The man never led the woman to God; he waited for her to lead, ‘a role never given to her’, so she was led by the serpent.",
+      "badge": "contested",
+      "theme": "woman-man",
+      "verses": "Genesis 3:1–6, 9, 12, 17",
+      "text": "Three things are in the text. (1) Verse 6 says the man was “with her” (immah). (2) God speaks to the man first (3:9) and says he listened to his wife’s voice and ate (3:17). (3) Both eat, both hide, both are questioned, and both blame someone else. The word ‘lead’ or ‘headship’ appears nowhere in these verses. Whether the man was physically present at the conversation is itself argued: the serpent’s ‘you’ in 3:1–5 is plural, which some take as showing he was there. Others (e.g. a note by Elias Brasil de Souza) argue that ‘with her’ does not prove presence at the scene.",
+      "tradition": "A complementarian reading (e.g. Ray Ortlund) finds in God’s first question to Adam a sign that he carried primary responsibility. Egalitarian readings point to the shared dominion in 1:26–28 and say that rule ‘over’ the woman is announced in 3:16 as a result of the fall and not as a creation order. Both read ideas into the text that it does not state in these words.",
+      "today": "The shared pattern is easy to see in any home: when something goes wrong, each person points to the other (3:12–13). The text is more useful as a mirror than as a rulebook for who decides.",
+      "weakestJoint": "This card cannot settle the complementarian–egalitarian debate and does not try to. It only marks that the article stated one side as if it were the text.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "safeguard": "‘He should have led’ and ‘she led him astray’ are lines that are used inside abusive relationships to say who is to blame and who may rule. This text does not tell anyone to control, discipline or silence a partner. If this is familiar to you, see the help page.",
+      "sources": [
+        { "label": "ABR note (E. Brasil de Souza): ‘with her’ in Gen 3:6 and Adam’s presence (Adam absent)", "url": "https://adventistbiblicalresearch.org/articles/was-adam-with-eve-at-the-scene-of-temptation-a-short-note-on-with-her-in-genesis-3-6", "kind": "secondary" },
+        { "label": "JBL 2013 article on ‘with her’ in Gen 3:6 (Adam present; argues many translations drop the word)", "url": "https://muse.jhu.edu/article/533973/pdf", "kind": "secondary" },
+        { "label": "ABR earlier article: the plural ‘you’ of the serpent and what it proves", "url": "https://adventistbiblicalresearch.org/articles/was-adam-with-eve-at-the-scene-of-temptation", "kind": "secondary" },
+        { "label": "Ray Ortlund on Genesis 3 (complementarian reading)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "garments-of-skin",
+      "order": 9,
+      "title": "Did animals die ‘in their place’?",
+      "claim": "God lets animals die to cover the shame of the man and woman. Those animals die in their place.",
+      "badge": "tradition",
+      "theme": "sin-violence",
+      "verses": "Genesis 3:21",
+      "text": "The verse says only: “The LORD God made garments of skin for Adam and his wife and clothed them.” It mentions no altar, no blood, no priest, and no word for sacrifice or atonement. It does not even say that an animal was killed, although skins imply that. The substitutionary reading is added later.",
+      "tradition": "Many Christian writers see in the skins a foreshadowing of sacrifice and of Christ’s covering of sin (for example the ‘robe of righteousness’ motif with Isa 61:10). Others stress God’s practical care. Some old Jewish sources even say the ‘skin’ was ‘light’ (or/’or) or the serpent’s shed skin. All of this is reception, not the text.",
+      "today": "It is fair to say: ‘Christians have long seen a pointer here.’ It is not fair to say: ‘Genesis tells us.’ Keeping the two apart lets the verse keep its own point: God clothes people who have just failed him.",
+      "weakestJoint": "I did not find the commentaries by Wenham or Walton that the research notes mention as saying the text does not support sacrifice. That attribution is dropped until it is checked in the books.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Eitan Bar: nothing in 3:21 about blood, sacrifice or atonement (popular article)", "url": "https://eitan.bar/articles/is-genesis-3-really-about-god-sacrificing-an-animal-to-make-adam-and-eves-tunics/", "kind": "secondary" },
+        { "label": "‘Coats of skin’: rabbinic and patristic variants (‘light’, serpent’s skin)", "url": "https://en.wikipedia.org/wiki/Coats_of_skin", "kind": "secondary" },
+        { "label": "G. Wenham, Genesis 1–15 (WBC), on 3:21", "kind": "primary-todo" },
+        { "label": "J. Walton, Genesis (NIVAC), on 3:21", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "protoevangelium",
+      "order": 10,
+      "title": "Is Genesis 3:15 a promise of the Messiah?",
+      "claim": "God judges the serpent and promises that the woman will bring forth the savior who destroys it.",
+      "badge": "tradition",
+      "theme": "sin-violence",
+      "verses": "Genesis 3:15",
+      "text": "The verse speaks of ‘enmity’ between the serpent and the woman, between ‘your seed’ and ‘her seed’: “he will strike your head, and you will strike his heel”. It names no individual, and ‘seed’ is a collective noun. Whether ‘he’ is one person or the whole line of her descendants is a matter of reading.",
+      "tradition": "The first clear Christological reading in surviving texts is Irenaeus (c. 180, Against Heresies 3.23.7 and 5.21.1), and Luther made ‘first gospel’ (protoevangelium) a standard label. The Jewish side is more complicated than ‘non-messianic’. The Palestinian Targums speak of healing ‘in the days of King Messiah’, but the verse is otherwise read collectively and morally (obeying the Torah, the descendants strike the serpent; abandoning it, the serpent bites). Whether there was a messianic reading before Christianity is still disputed (Zhakevich says yes; John Day argues the opposite).",
+      "today": "Read as ‘the seed of the woman’, the verse speaks to anyone who has been wronged: evil gets a verdict, and the harm is not the last word. You can believe that without claiming that it names Jesus.",
+      "weakestJoint": "Sources on the Targums disagree with one another, and most of the pages found were blogs. This card needs the primary Targum texts and Day’s chapter before it can go public.",
+      "confidence": "low-medium",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "J. Day on Gen 3:15 (excerpt quoted: Irenaeus; Targums collective)", "url": "https://scripturalmormonism.blogspot.com/2023/06/john-day-on-genesis-315.html", "kind": "secondary" },
+        { "label": "Zhakevich, ‘Genesis 3:15 in the NT and in the Pentateuchal Targums’, JBTS", "url": "https://jbtsonline.org/?p=2449", "kind": "secondary" },
+        { "label": "Wikipedia: Genesis 3:15 (overview of readings)", "url": "https://wikipedia.com/wiki/Genesis_3:15", "kind": "secondary" },
+        { "label": "Targum Pseudo-Jonathan and Targum Neofiti on Gen 3:15, primary text", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "lamech-boast",
+      "order": 11,
+      "title": "Lamech: a whisper or a boast?",
+      "claim": "Lamech boasts that he has killed a man, but ‘doesn’t dare announce this boast to the world — only to his wife, in private’.",
+      "badge": "contested",
+      "theme": "sin-violence",
+      "verses": "Genesis 4:19–24",
+      "text": "Lamech speaks to his wives Adah and Zillah in a short poem, and the text gives no sign that he is afraid. The audience inside the story is his wives, but the poem sets a vengeance of ‘seventy-sevenfold’ against Cain’s sevenfold. Two details are open: the first word of his claim (ki haragti) can be read ‘I have killed’ or ‘I would kill (if)’, and the text never says whom he killed. The article’s ‘already killed’ is therefore one reading.",
+      "tradition": "The poem is often called the ‘Song of the Sword’, linked to Tubal-Cain’s metalwork in 4:22, and is read as boasting in praise of violence. Origen reportedly gave up on it as inexplicable. ‘He dares say it only in private’ is a story the article adds.",
+      "today": "Violence that escalates (from ‘sevenfold’ to ‘seventy-sevenfold’) and then boasts about it is a pattern that you can recognise in families and in politics. Jesus reverses the number (Matthew 18:21–22).",
+      "weakestJoint": "I could not verify that the ‘public register’ claim in the critique (that the poem is public clan-honour poetry) is supported by named scholars. Only the ‘boast’ genre and the ki-clause dispute were confirmed.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "safeguard": "Boasting about violence and claiming a right to punish are marks of abuse of power. If this is close to your own life, see the help page.",
+      "sources": [
+        { "label": "Translation commentary on Gen 4:23–24 (boast; ki clause options)", "url": "https://tips.translation.bible/story/translation-commentary-on-genesis-423-424/", "kind": "secondary" },
+        { "label": "‘Song of the Sword’ background", "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Song_of_the_sword.html", "kind": "secondary" },
+        { "label": "Wenham, Westermann or Sarna on Gen 4:23–24", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "two-accounts",
+      "order": 12,
+      "title": "One story, or two?",
+      "claim": "Genesis 1–4 is one seamless story told by one voice, so Genesis 1’s equality can explain Genesis 2’s ‘helper’.",
+      "badge": "contested",
+      "theme": "method",
+      "verses": "Genesis 1:1–2:3; 2:4–4:26",
+      "text": "The two units differ in several visible ways. The divine name is Elohim in chapter 1 and YHWH Elohim in chapters 2–3. In chapter 1 the humans come last, after plants and animals. In chapter 2 the man comes first, then trees and animals, then the woman. The style differs too: a patterned liturgy, then a close-up story.",
+      "tradition": "Source criticism assigns chapter 1 to the Priestly source (P) and chapter 2 to the Yahwist (J). Others keep a single author or editor and read ‘These are the generations of…’ (2:4) as the heading of a new section rather than a second creation story, with chapter 2 as a ‘zoom-in’. Both camps agree that the two units say different things in different ways.",
+      "today": "A reader who says ‘the Bible says’ should know which voice is speaking. Naming the seam makes the case stronger: Genesis puts a cosmic overview and a human close-up next to each other on purpose.",
+      "weakestJoint": "The page results were mostly apologetic or popular sites. Nothing here replaces Sarna, Wenham or a source-critical introduction. The card claims only that the differences exist and the explanations compete.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Overview of the differences (divine names, order) and the documentary vs. complementary readings", "url": "https://bibleinterp.arizona.edu/sites/bibleinterp.arizona.edu/files/docs/Genesis%201%20and%202%20newest.4_0.pdf", "kind": "secondary" },
+        { "label": "TheTorah.com: ‘Differing conceptions of the divine creator’", "url": "https://TheTorah.Com/article/differing-conceptions-of-the-divine-creator", "kind": "secondary" },
+        { "label": "Sarna (JPS Genesis), Wenham (WBC) on the structure", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "abel-offering",
+      "order": 13,
+      "title": "Why was Abel’s offering accepted?",
+      "claim": "Abel may have offered his sacrifice in remembrance of what God did in Eden, covering his parents’ shame.",
+      "badge": "contested",
+      "theme": "sin-violence",
+      "verses": "Genesis 4:3–7; Hebrews 11:4",
+      "text": "The text gives no reason. It does describe the two offerings differently: Cain brings “some of the fruits of the soil” (4:3), while Abel brings “the firstborn of his flock and their fat portions” (4:4). The words ‘firstborn’ and ‘fat’ appear only for Abel. After this, God speaks to Cain about doing well, and about sin ‘crouching’ at the door (4:6–7).",
+      "tradition": "Hebrews 11:4 says Abel offered a ‘better’ sacrifice ‘by faith’. Philo read ‘firstlings’ and ‘fat’ as the best of the soul. Older commentators saw pride and unbelief in Cain. The link to Genesis 3:21 (remembering Eden) is a modern guess and nothing in chapter 4 points to it.",
+      "today": "Offering your best, and receiving a no, is a hard place to be. The text meets Cain at that moment: God speaks first, with a question and a warning, before anything has happened. The pause between feeling and act is where the story puts the choice.",
+      "weakestJoint": "‘Best offering in faith’ is the strongest reading, but it is still an inference from the contrast and from Hebrews. The reason is never given.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "J. Lewis, JETS 37/4 (1994): history of interpretation of Cain and Abel’s offerings", "url": "https://etsjets.org/wp-content/uploads/2010/07/files_JETS-PDFs_37_37-4_JETS_37-4_481-496_Lewis.pdf", "kind": "secondary" },
+        { "label": "Genesis 4:3–7; Hebrews 11:4", "kind": "text" },
+        { "label": "Note on Gen 4:7, ‘crouching’ (robets) and the Akkadian rābiṣu parallel (Speiser): contested", "url": "https://biblia.com/bible/gs-netbible/Ge4.7", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "apple",
+      "order": 14,
+      "title": "Was the forbidden fruit an apple?",
+      "claim": "Eve ate an apple.",
+      "badge": "error",
+      "theme": "creation",
+      "verses": "Genesis 3:3, 6",
+      "text": "Genesis never names the fruit. It says only “the fruit of the tree” (peri). The apple is a later European picture.",
+      "tradition": "A popular story says that Jerome’s Latin made the apple: malum means both ‘evil’ and ‘apple’. That story is disputed. A translation-studies source says the Vulgate and the older Latin versions use fructus (‘fruit’) in Genesis 3 and that the vowels of the two Latin words differ. Writers such as Milton helped fix the apple in the imagination. Jewish tradition names other candidates: a fig, a grape, a date, or wheat.",
+      "today": "The picture in your head is probably older than the text. When a detail feels certain but you cannot find it in the verse, ask where it came from.",
+      "weakestJoint": "The claim that the text never names the fruit is solid. How the apple took over is contested, and the card does not rest on it.",
+      "confidence": "high",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Genesis 3:1–6 (any translation)", "kind": "text" },
+        { "label": "NPR: ‘Paradise Lost: How the Apple Became the Forbidden Fruit’ (the pun story)", "url": "https://www.npr.org/sections/thesalt/2017/04/30/526069512/paradise-lost-how-the-apple-became-the-for", "kind": "secondary" },
+        { "label": "Translation commentary: apples on the tree of knowledge (disputes the pun)", "url": "https://tips.translation.bible/story/apples-on-the-tree-of-the-knowledge-of-good-and-evil/", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "serpent-is-satan",
+      "order": 15,
+      "title": "Is the serpent Satan?",
+      "claim": "The serpent in Eden is Satan.",
+      "badge": "tradition",
+      "theme": "sin-violence",
+      "verses": "Genesis 3:1–15",
+      "text": "Genesis 3 calls it ‘the serpent’, ‘more crafty (arum) than any other wild animal’. It never says Satan, the devil, an angel or a fallen being. The serpent is cursed and condemned to crawl, and the story treats it as a creature.",
+      "tradition": "The identification appears in later texts. Wisdom of Solomon 2:24 (‘through the devil’s envy death entered the world’) is the usual early candidate, but some scholars dispute whether it is about the serpent or about the devil at all. Other Jewish texts (Life of Adam and Eve, 2 Enoch) say the devil led Eve astray. Revelation 12:9 and 20:2 name ‘that ancient serpent, who is the devil and Satan’. So the link is old and widely held in Christianity, but it is a reading and not in Genesis.",
+      "today": "Genesis puts the voice that undermines trust inside creation, among the things God made, rather than pushing it to a distant cosmic villain. Either way, people still carry the responsibility the story gives them.",
+      "weakestJoint": "The dating and meaning of Wisdom 2:24 are contested, and the sources I found were mostly blog reposts of scholarly work. I have not read Winston’s or Löfstedt’s treatments.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Genesis 3:1–15; Revelation 12:9; 20:2", "kind": "text" },
+        { "label": "Survey: ‘The Serpent in the Garden of Eden and its Background’ (BibleInterp)", "url": "https://bibleinterp.arizona.edu/comment/1005", "kind": "secondary" },
+        { "label": "Löfstedt, ‘Separating the Devil from the Diabolos: A Fresh Reading of Wisdom of Solomon 2.24’", "url": "https://orion-bibliography.huji.ac.il/node/62313", "kind": "secondary" },
+        { "label": "D. Winston, The Wisdom of Solomon (Anchor Bible, 1979), on 2:24", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "god-cursed-eve",
+      "order": 16,
+      "title": "Did God curse Adam and Eve?",
+      "claim": "God cursed Eve (and Adam) for the first sin.",
+      "badge": "error",
+      "theme": "woman-man",
+      "verses": "Genesis 3:14–19; 4:11",
+      "text": "The word ‘cursed’ (arur) is used of the serpent (3:14) and of the ground ‘because of you’ (3:17). It is not used of the woman or of the man. Both receive consequences (pain, toil, death). Later in the story Cain is also called cursed (4:11). The wording is careful: the man and woman are not the ones under the curse.",
+      "tradition": "Popular speech says ‘the curse of Eve’ and ‘the curse on Adam’. Translations of 3:16 differ, and the Hebrew of the woman’s sentence is debated, but ‘cursed’ is not in it.",
+      "today": "Hardship is not always punishment. Genesis names the broken things (toil, pain, rule over one another) without calling the people cursed, and the next scene is God clothing them (3:21).",
+      "weakestJoint": "This depends on the Hebrew word arur. The meaning of 3:16 itself is disputed (see the card on ‘desire’ in the insights).",
+      "confidence": "high",
+      "lastChecked": "2026-11-16",
+      "safeguard": "‘Eve’s curse’ is used to say that women are meant to be ruled. Genesis 3:16 does not use the word, and it describes consequences.",
+      "sources": [
+        { "label": "Genesis 3:14, 17; 4:11 (Hebrew arur)", "kind": "text" },
+        { "label": "CBE: ‘Two Ways of Translating and Interpreting Genesis 3:16a’", "url": "https://www.cbeinternational.org/resource/two-ways-of-translating-and-interpreting-genesis-316/", "kind": "secondary" },
+        { "label": "Genesis 3:14–19 notes (NET Bible)", "url": "https://biblia.com/bible/gs-netbible/Gen.%203.14-19", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "rib",
+      "order": 17,
+      "title": "Was Eve made from a rib?",
+      "claim": "God took one of Adam’s ribs and made Eve from it.",
+      "badge": "contested",
+      "theme": "woman-man",
+      "verses": "Genesis 2:21–22",
+      "text": "The Hebrew word is tsela. Elsewhere it nearly always means ‘side’: the side of the tabernacle (Exodus 26:26), the sides of the ark (Exodus 25:12), a hillside (2 Samuel 16:13). So many translators and scholars read 2:21 as ‘one of his sides’ or ‘part of his side’. The verse says God ‘took one of his tselot’ and ‘built’ it into a woman.",
+      "tradition": "The Greek translation used pleura (side or rib) and the Latin Vulgate used costa (rib), which set the English ‘rib’. Some readers argue that ‘rib’ remains a possible sense of tsela in this one verse. Rabbinic tradition also read it as ‘side’, one half of a two-sided first human, but I have not verified this here.",
+      "today": "Whether rib or side, the story’s point is that the woman is made from the same stuff as the man (‘bone of my bones’), and not from the dust like the animals. That is a point about kinship, not rank.",
+      "weakestJoint": "‘Side’ is the usual meaning of tsela, but the one verse is ambiguous. The popular claim that tsela ‘never means rib’ could not be verified, and I did not read a lexicon directly.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "NET Bible note on Gen 2:21 (‘rib’ literally ‘side’)", "url": "https://biblia.com/bible/gs-netbible/genesis/2/21", "kind": "secondary" },
+        { "label": "Open Bible Data interlinear on Gen 2:21 (both readings)", "url": "https://freely-given.org/OBD/ilr/GEN/C2V21.htm", "kind": "secondary" },
+        { "label": "Exodus 25:12; 26:26; 2 Samuel 16:13", "kind": "text" },
+        { "label": "HALOT / BDB, entry ṣēlāʿ", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "the-fall",
+      "order": 18,
+      "title": "Is “the Fall” in Genesis?",
+      "claim": "Genesis teaches the Fall and original sin: Adam’s sin made all humans guilty.",
+      "badge": "tradition",
+      "theme": "sin-violence",
+      "verses": "Genesis 3; compare Romans 5:12–19",
+      "text": "Genesis 3 tells how two people disobey, hide, blame and are sent out of the garden. It does not use a word for ‘fall’ and does not say that their guilt passes to their descendants. The next story (Cain) shows sin spreading, but the explanation of how is not given.",
+      "tradition": "Augustine developed the doctrine of original sin, in which all people inherit both Adam’s corruption and his guilt, partly from his reading of Romans 5 in Latin. Eastern Orthodox teaching speaks of ‘ancestral sin’: humans inherit mortality and weakness, not personal guilt. Rabbinic Judaism reads Genesis 3 as a first sin and not as a fall of human nature, and speaks of the yetzer hara (the inclination to evil) as part of creation. So Christians themselves disagree on what the story implies.",
+      "today": "You can take the story seriously as a diagnosis (we hide, blame and cover up) without a specific theory of inheritance. Many readers find the story most useful as a mirror of what we all do.",
+      "weakestJoint": "The summary of Augustine, the Orthodox view and the Jewish view comes from secondary summaries. Check Augustine’s own text and Romans 5:12 in the Greek (the ‘in whom/because all sinned’ question).",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "St Andrews Encyclopaedia of Theology: ‘Sin’", "url": "https://www.saet.ac.uk/Christianity/Sin", "kind": "secondary" },
+        { "label": "Orthodox view: ‘Ancestral Sin: The Fall and Its Consequences’", "url": "https://www.saintjohnchurch.org/original-sin-vs-ancestral-sin/", "kind": "secondary" },
+        { "label": "E. Pagels, Adam, Eve, and the Serpent (1988)", "kind": "primary-todo" },
+        { "label": "Augustine, On the Merits and Forgiveness of Sins; Romans 5:12 in Greek", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "work-as-curse",
+      "order": 19,
+      "title": "Is work a punishment for sin?",
+      "claim": "Work is part of the curse.",
+      "badge": "error",
+      "theme": "creation",
+      "verses": "Genesis 2:15; 3:17–19",
+      "text": "Work comes first. In 2:15 the man is put in the garden ‘to work it and keep it’, before anything goes wrong. What changes in chapter 3 is the ground (cursed ‘because of you’) and the character of the work: toil, thorns, thistles, sweat. So work is a gift, and hardship in work is the consequence.",
+      "tradition": "Some translations render the key word in 3:17 as ‘in sorrow’, others as ‘in toil’. Recent versions mostly favour ‘toil’. Ecclesiastes (3:13; 5:18–19) calls work and its fruit a gift from God.",
+      "today": "Work is not a punishment to endure. And the frustration (the pointless job, the thorns) is a real part of life, but it is not the whole picture of work.",
+      "weakestJoint": "The sources I found for this were devotional and commentary pieces. The sequence (work in 2:15, toil in 3:17) is in the text and does not depend on them.",
+      "confidence": "high",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Genesis 2:15; 3:17–19; Ecclesiastes 3:13; 5:18–19", "kind": "text" },
+        { "label": "Survey: work before the fall and the cursed ground", "url": "https://www.scottlapierre.org/work-a-blessing-or-curse/", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "mark-of-cain",
+      "order": 20,
+      "title": "What was the mark of Cain?",
+      "claim": "The mark of Cain was dark skin, or it marks a cursed people.",
+      "badge": "error",
+      "theme": "sin-violence",
+      "verses": "Genesis 4:15",
+      "text": "Genesis says only that God ‘put a sign (ot) on Cain, so that no one who found him would kill him’. It does not say what the sign was. Its purpose is protection. Nothing in the text links it to skin colour, to a people or to a later race.",
+      "tradition": "Commentators have proposed many things: a letter of God’s name (Rashi), a warning to others (Sanhedrin tradition, as summarised by a secondary source), a scar or a tattoo. From the 18th and 19th centuries, some preachers and writers claimed that the mark was dark skin, to justify slavery and segregation. The argument has no support in the text and also fails by its own logic, since Cain’s line is not said to survive the flood.",
+      "today": "This is a clear case where a verse was bent to harm. The check is simple: ask what the text actually says. The sign is God’s protection of someone who had just killed, which is an uncomfortable mercy and not a stamp of inferiority on anyone.",
+      "weakestJoint": "The list of proposed identities is from a secondary survey. The core claim, that the text does not say what the sign was, is plain from the verse.",
+      "confidence": "high",
+      "lastChecked": "2026-11-16",
+      "safeguard": "This reading has been used to defend racism. It has no basis in Genesis.",
+      "sources": [
+        { "label": "Genesis 4:15", "kind": "text" },
+        { "label": "Wikipedia: ‘Curse and mark of Cain’ (history of the racial reading)", "url": "https://en.wikipedia.org/wiki/Curse_and_mark_of_Cain", "kind": "secondary" },
+        { "label": "BibleHub: ‘What was Cain’s mark in Genesis 4:15?’", "url": "https://biblehub.com/q/What_was_Cain_s_mark_in_Genesis_4_15.htm", "kind": "secondary" },
+        { "label": "Rashi on Gen 4:15; Mishnah Sanhedrin 4:5", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "paradise-word",
+      "order": 21,
+      "title": "Is “paradise” a biblical word for Eden?",
+      "claim": "The Bible calls Eden ‘Paradise’.",
+      "badge": "error",
+      "theme": "creation",
+      "verses": "Genesis 2:8–15",
+      "text": "The Hebrew word in Genesis is gan, ‘garden’ (the ‘garden in Eden’). The word ‘paradise’ is not there. It comes from an Old Iranian word for a walled enclosure or royal park. Hebrew borrowed it as pardes, which appears only in late books: Song of Songs 4:13, Ecclesiastes 2:5 and Nehemiah 2:8, in each case meaning a park or orchard.",
+      "tradition": "The Greek translation of the Old Testament (the Septuagint) used paradeisos for both pardes and for the garden of Eden. From there the word entered Christian use: Luke 23:43 (‘today you will be with me in paradise’) and Revelation 2:7 (the tree of life ‘in the paradise of God’) use it. So ‘paradise’ is a biblical word, but not in the Hebrew of Genesis.",
+      "today": "The word is a small reminder that the Bible you read has been through translation. When a word feels loaded, ask what it was in the original and where the translation got it.",
+      "weakestJoint": "The word history comes from Wikipedia and encyclopaedia entries. A scholarly dictionary (for example HALOT on pardes, or an Iranian etymological dictionary) should be checked.",
+      "confidence": "medium",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Genesis 2:8; Song of Songs 4:13; Ecclesiastes 2:5; Nehemiah 2:8; Luke 23:43; Revelation 2:7", "kind": "text" },
+        { "label": "Wikipedia: ‘Paradise’ (Old Iranian origin, pardes, Septuagint)", "url": "https://en.wikipedia.org/wiki/Paradise", "kind": "secondary" },
+        { "label": "HALOT, entry pardēs", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "let-us-make",
+      "order": 22,
+      "title": "Does “Let us make man” prove the Trinity?",
+      "claim": "‘Let us make man in our image’ shows that God is a Trinity already in Genesis 1.",
+      "badge": "contested",
+      "theme": "creation",
+      "verses": "Genesis 1:26; also 3:22; 11:7",
+      "text": "God speaks in the plural in 1:26 (‘Let us make man in our image’), 3:22 and 11:7. The next verse returns to the singular (‘God created man in his own image’). The text does not say who is addressed.",
+      "tradition": "Readings include: (1) the Trinity (Father addressing Son and Spirit), held by many Christian writers from the early church on; (2) God addressing his heavenly court of angels, which many Jewish interpreters held and which scholars link to passages such as Psalm 82:1; (3) a plural of majesty or of self-deliberation (a king saying ‘let us’ and then acting alone). Trinitarian readers see a later doctrine illuminating the verse. Critics say that reading a fully formed doctrine back into the text is anachronistic. Both can hold that the verse shows plurality in God’s presence.",
+      "today": "A text can be rich enough to be read in several ways that its first readers could not have meant. This verse is better as an invitation to think than as a proof.",
+      "weakestJoint": "I found no academic source in this round, only summaries of positions. Check Hamilton’s Genesis 1–17 (NICOT) or Wenham on 1:26.",
+      "confidence": "low-medium",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Genesis 1:26–27; 3:22; 11:7; Psalm 82:1", "kind": "text" },
+        { "label": "Survey of views on Genesis 1:26 (divine council, majesty, Trinity)", "url": "https://biblehub.com/q/Genesis_1_26_and_the_Trinity_link_2.htm", "kind": "secondary" },
+        { "label": "V. Hamilton, The Book of Genesis 1–17 (NICOT), on 1:26", "kind": "primary-todo" },
+        { "label": "G. Wenham, Genesis 1–15 (WBC), on 1:26", "kind": "primary-todo" }
+      ]
+    }
+  ]
+}

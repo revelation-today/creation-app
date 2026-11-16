@@ -1,0 +1,104 @@
+{
+  "plans": [
+    {
+      "id": "week",
+      "title": "Genesis 1–4 in seven days",
+      "audience": "Individual readers",
+      "minutes": "10–15 per day",
+      "description": "One passage a day. Read the text first, then the linked insight and card, then answer one question.",
+      "days": [
+        {
+          "title": "Day 1: The poem",
+          "passage": "Genesis 1:1–2:3",
+          "insights": ["sevens-in-genesis-1", "refrain-and-missing-good", "forming-and-filling"],
+          "cards": ["day-5-6-birds", "let-us-make"],
+          "question": "Which line of the refrain do you notice most as you read: ‘God said’, ‘it was good’, or ‘evening and morning’? What does it do?"
+        },
+        {
+          "title": "Day 2: The human and the garden",
+          "passage": "Genesis 2:4–17",
+          "insights": ["adam-adamah-arum", "garden-as-sanctuary"],
+          "cards": ["two-accounts", "work-as-curse", "paradise-word"],
+          "question": "The man is given a job and a limit before anything else. What does each one say about how God sees him?"
+        },
+        {
+          "title": "Day 3: Two become one",
+          "passage": "Genesis 2:18–25",
+          "insights": ["image-of-god-and-kings"],
+          "cards": ["wow-man", "ezer-helper", "rib"],
+          "question": "God names the first thing that is ‘not good’. What is it, and who solves it?"
+        },
+        {
+          "title": "Day 4: The serpent and the fruit",
+          "passage": "Genesis 3:1–7",
+          "insights": ["adam-adamah-arum"],
+          "cards": ["apple", "serpent-is-satan", "eve-adds-touch", "zakar-remember", "failure-to-lead"],
+          "question": "Read the serpent’s first question slowly. What does it change about what God said?"
+        },
+        {
+          "title": "Day 5: God’s questions and the verdicts",
+          "passage": "Genesis 3:8–24",
+          "insights": ["reverse-order", "desire-and-rule-echo"],
+          "cards": ["god-cursed-eve", "the-fall", "protoevangelium", "garments-of-skin"],
+          "question": "God asks before he sentences. Which of the questions would be hardest for you to answer?"
+        },
+        {
+          "title": "Day 6: Cain and Abel",
+          "passage": "Genesis 4:1–16",
+          "insights": ["abel-is-breath", "where-are-you-where-is-your-brother", "desire-and-rule-echo"],
+          "cards": ["cain-treasure", "abel-offering", "cain-repents", "mark-of-cain"],
+          "question": "God speaks to Cain before he acts. What exactly does God say to him, and what is left for Cain to decide?"
+        },
+        {
+          "title": "Day 7: Two families",
+          "passage": "Genesis 4:17–26",
+          "insights": ["two-lamechs"],
+          "cards": ["lamech-boast"],
+          "question": "Who do the last verses say begins to ‘call on the name of the LORD’, and why might the writer end here?",
+          "finish": "Take the quiz to review the week."
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "title": "Small group: four evenings",
+      "audience": "Groups and group leaders",
+      "minutes": "60–75 per session",
+      "description": "Each evening has a short reading, a ‘what we assumed’ round (the myth cards) and a ‘what we noticed’ round (the insights). The questions are open and do not need an expert leader.",
+      "days": [
+        {
+          "title": "Evening 1: Order and dignity",
+          "passage": "Genesis 1:1–2:3",
+          "insights": ["sevens-in-genesis-1", "forming-and-filling", "image-of-god-and-kings", "no-sun-no-moon"],
+          "cards": ["day-5-6-birds", "two-accounts"],
+          "question": "Open: what did you grow up hearing about Genesis 1? Then: what in the text surprised you? Finally: what does ‘image of God’ for every person change in how you meet someone this week?"
+        },
+        {
+          "title": "Evening 2: Two people, one garden",
+          "passage": "Genesis 2:4–25",
+          "insights": ["garden-as-sanctuary", "adam-adamah-arum"],
+          "cards": ["wow-man", "ezer-helper", "zakar-remember"],
+          "question": "Which claim about men and women have you heard ‘from the Hebrew’? Check it together against the cards. What does the text itself say, and what was added?",
+          "leaderNote": "This evening touches on how Genesis 2–3 is used in marriages. Read the safeguard note in the app first and be ready to point people to the help page. Do not ask anyone to share personal stories about their own relationship."
+        },
+        {
+          "title": "Evening 3: Blame and mercy",
+          "passage": "Genesis 3:1–24",
+          "insights": ["reverse-order", "desire-and-rule-echo"],
+          "cards": ["eve-adds-touch", "failure-to-lead", "garments-of-skin", "protoevangelium"],
+          "question": "Each person in the story points to someone else. Where do we do this today? What would it look like to answer God’s question ‘where are you?’ honestly?",
+          "leaderNote": "Do not use this evening to assign blame between the sexes. The cards show that the text gives no support for ranking blame."
+        },
+        {
+          "title": "Evening 4: Anger, violence and a different line",
+          "passage": "Genesis 4:1–26",
+          "insights": ["abel-is-breath", "where-are-you-where-is-your-brother", "two-lamechs"],
+          "cards": ["cain-treasure", "abel-offering", "cain-repents", "lamech-boast"],
+          "question": "God warns Cain before the deed. What are the early warnings in your life? Where does mercy without repentance trouble you, and where does it comfort you?",
+          "leaderNote": "Cain’s protection does not mean a victim must reconcile with an unrepentant person. Say so out loud if forgiveness comes up.",
+          "finish": "End with the quiz as a game, in teams."
+        }
+      ]
+    }
+  ]
+}

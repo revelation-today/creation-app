@@ -1,0 +1,11 @@
+{
+  "name": "Eden Check — Genesis 1–4",
+  "short_name": "Eden Check",
+  "description": "Genesis 1–4: what the text says, what tradition added, and what it means today.",
+  "start_url": "./index.html#/myths",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf8f4",
+  "theme_color": "#2f5d50",
+  "lang": "en"
+}

@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "id": "q1", "kind": "card", "ref": "day-5-6-birds",
+      "q": "On which day does Genesis 1 create the birds?",
+      "options": ["Day 4", "Day 5", "Day 6", "Day 7"],
+      "answer": 1,
+      "explain": "Birds are made on Day 5 with the sea creatures (1:20–23). Day 6 is land animals and humans."
+    },
+    {
+      "id": "q2", "kind": "card", "ref": "wow-man",
+      "q": "Which is the real Hebrew wordplay in Genesis 2:23?",
+      "options": ["Wow / woman", "Ish / ishah (man / woman)", "Adam / Eve", "Zakar / nekevah (male / female)"],
+      "answer": 1,
+      "explain": "The pun is ish / ishah. ‘Wow-man’ works only in English. The two Hebrew words are probably not related, so the pun works by sound."
+    },
+    {
+      "id": "q3", "kind": "card", "ref": "zakar-remember",
+      "q": "What is wrong with the argument ‘the Hebrew word for male is connected to ‘remember’, so men are to remember what God said’?",
+      "options": ["Nothing, it is a standard reading", "Word meaning comes from use in context, not from shared letters (the ‘root fallacy’)", "Hebrew has no word for ‘remember’", "The Bible never mentions remembering"],
+      "answer": 1,
+      "explain": "Even if the two words were related, meaning is set by use. Nothing in Genesis 3 says that the man’s task was memory."
+    },
+    {
+      "id": "q4", "kind": "card", "ref": "ezer-helper",
+      "q": "What does ezer (‘helper’) in Genesis 2:18 tell us?",
+      "options": ["The woman was weaker", "The woman was an assistant", "The word is often used of God as Israel’s help, so it does not imply a lower rank", "It is an error for ‘life-saver’"],
+      "answer": 2,
+      "explain": "Ezer means ‘help’. It is used of God (Psalm 121:2; Deuteronomy 33:26), so it carries no inferiority. ‘Life-saver’ is a gloss and not a translation."
+    },
+    {
+      "id": "q5", "kind": "card", "ref": "eve-adds-touch",
+      "q": "Who first adds ‘neither shall you touch it’ about the tree?",
+      "options": ["God, in 2:16–17", "The serpent", "The text does not say; Eve reports it in 3:3, and ancient readers blame Eve or Adam", "Cain"],
+      "answer": 2,
+      "explain": "God’s words in 2:16–17 have no ‘touch’. Genesis Rabbah blames Eve, while Avot de-Rabbi Natan and Rashi say that Adam added a ‘fence’."
+    },
+    {
+      "id": "q6", "kind": "card", "ref": "failure-to-lead",
+      "q": "Which statement about Genesis 3:6 is supported by the text?",
+      "options": ["The man was ‘with her’", "Eve was alone", "The word ‘headship’ appears", "God blames only Eve"],
+      "answer": 0,
+      "explain": "The Hebrew has ‘with her’ (immah). Whether it means he was at the scene is argued, but ‘headship’ and ‘leading’ do not appear and God questions both."
+    },
+    {
+      "id": "q7", "kind": "card", "ref": "garments-of-skin",
+      "q": "What does Genesis 3:21 say?",
+      "options": ["God killed animals as a sacrifice for sin", "God made garments of skin and clothed them", "Adam made garments of skin", "Angels brought the garments"],
+      "answer": 1,
+      "explain": "The verse names no altar, blood or sacrifice. Christian readers see a pointer to atonement, but that is reception, not the text."
+    },
+    {
+      "id": "q8", "kind": "card", "ref": "protoevangelium",
+      "q": "Who gives the earliest clear Christian reading of Genesis 3:15 as being about Christ in surviving texts?",
+      "options": ["Luther", "Irenaeus", "Augustine", "Paul in Romans"],
+      "answer": 1,
+      "explain": "Irenaeus (c. 180, Against Heresies 3.23.7 and 5.21.1). Luther made ‘first gospel’ the standard label. Targums read the verse differently, and scholars still argue about earlier Jewish views."
+    },
+    {
+      "id": "q9", "kind": "card", "ref": "cain-treasure",
+      "q": "What does the pun in Genesis 4:1 connect Cain’s name to?",
+      "options": ["Treasure", "Acquiring (qanah)", "Weeping", "Anger"],
+      "answer": 1,
+      "explain": "Eve says qanithi (‘I have acquired’). Many scholars also think the name itself means ‘smith’. ‘Treasure’ has no support."
+    },
+    {
+      "id": "q10", "kind": "card", "ref": "cain-repents",
+      "q": "In Genesis 4:13–14, Cain…",
+      "options": ["confesses his sin to Abel", "asks God’s forgiveness", "protests that the consequence is too much, and fears for his life", "refuses to speak"],
+      "answer": 2,
+      "explain": "No confession is recorded. The key word avon can mean ‘guilt’ or ‘punishment’, but Cain asks for nothing and God protects him anyway."
+    },
+    {
+      "id": "q11", "kind": "card", "ref": "abel-offering",
+      "q": "What is different about the descriptions of the two offerings in Genesis 4:3–4?",
+      "options": ["Only Abel’s offering is called ‘firstborn’ and ‘fat portions’", "Only Cain’s was burned", "Only Cain’s was on an altar", "Nothing is different"],
+      "answer": 0,
+      "explain": "Only Abel’s has these words. The text gives no reason, but Hebrews 11:4 says ‘by faith’."
+    },
+    {
+      "id": "q12", "kind": "card", "ref": "lamech-boast",
+      "q": "Which statement about Lamech’s poem (4:23–24) is safest?",
+      "options": ["He whispers it out of fear", "It is a boast about vengeance, and the first words can mean ‘I have killed’ or ‘I would kill’", "It is a prayer", "It is addressed to Cain"],
+      "answer": 1,
+      "explain": "The poem is a boast (the ‘Song of the Sword’). The grammar of the first clause is debated, and the text never says whom he killed."
+    },
+    {
+      "id": "q13", "kind": "card", "ref": "two-accounts",
+      "q": "Which is a visible difference between Genesis 1 and Genesis 2?",
+      "options": ["In chapter 1 humans are made last; in chapter 2 the man is made before the animals", "Only chapter 1 mentions God", "Only chapter 2 has a serpent and chapter 1 has none, so they are by different authors", "There is no difference"],
+      "answer": 0,
+      "explain": "The order differs, and so do the divine names (Elohim; YHWH Elohim). Scholars explain this as two sources or as a deliberate ‘zoom-in’, but the difference itself is not in dispute."
+    },
+    {
+      "id": "q21", "kind": "card", "ref": "apple",
+      "q": "What fruit does Genesis 3 name?",
+      "options": ["An apple", "A fig", "A pomegranate", "None. It says only ‘the fruit’"],
+      "answer": 3,
+      "explain": "Genesis never names the species. The apple is a later European picture, and the popular Latin-pun story about its origin is itself disputed."
+    },
+    {
+      "id": "q22", "kind": "card", "ref": "god-cursed-eve",
+      "q": "In Genesis 3, who or what does God call ‘cursed’?",
+      "options": ["Eve and Adam", "The serpent and the ground", "Only the serpent", "Eve, Adam and the serpent"],
+      "answer": 1,
+      "explain": "The serpent (3:14) and the ground (3:17). The man and woman receive consequences. Cain is later called cursed (4:11)."
+    },
+    {
+      "id": "q23", "kind": "card", "ref": "mark-of-cain",
+      "q": "What does Genesis say the sign on Cain was?",
+      "options": ["Dark skin", "A scar on his forehead", "It does not say; its purpose was to protect him", "The letter K"],
+      "answer": 2,
+      "explain": "The text gives no description. Its purpose is protection. The racial reading was added centuries later and has no basis in the verse."
+    },
+    {
+      "id": "q24", "kind": "card", "ref": "work-as-curse",
+      "q": "When does the man first get work to do?",
+      "options": ["After the fall, as punishment", "Before the fall (2:15): to work and keep the garden", "At the flood", "Never"],
+      "answer": 1,
+      "explain": "Work comes first, in 2:15. The fall makes it toil, with the ground cursed, but work itself is not the punishment."
+    },
+    {
+      "id": "q14", "kind": "insight", "ref": "sevens-in-genesis-1",
+      "q": "How many Hebrew words does Genesis 1:1 have?",
+      "options": ["Three", "Seven", "Twelve", "Fourteen"],
+      "answer": 1,
+      "explain": "Seven (and 1:2 has fourteen). Whether the count was planned is an inference, but the number seven shapes the whole passage."
+    },
+    {
+      "id": "q15", "kind": "insight", "ref": "no-sun-no-moon",
+      "q": "How does Genesis 1 refer to the sun and the moon?",
+      "options": ["By their divine names", "As ‘the greater light’ and ‘the lesser light’", "As angels", "It does not mention them"],
+      "answer": 1,
+      "explain": "Neither is named. In neighbouring cultures they were gods. Many readers see a quiet statement that they are only lamps."
+    },
+    {
+      "id": "q16", "kind": "insight", "ref": "adam-adamah-arum",
+      "q": "What does the Hebrew word play on ‘naked’ (2:25) and ‘crafty’ (3:1) rest on?",
+      "options": ["Both come from the same word, arum / arummim, with two senses", "Both words mean ‘snake’", "They are synonyms of ‘good’", "It is a Greek wordplay"],
+      "answer": 0,
+      "explain": "The two words sound alike (arummim and arum). The man and woman are exposed, and the serpent is clever."
+    },
+    {
+      "id": "q17", "kind": "insight", "ref": "reverse-order",
+      "q": "In what order does God investigate in Genesis 3?",
+      "options": ["Serpent, woman, man", "Man, then woman; the serpent is not asked", "Woman, then man", "He does not ask anything"],
+      "answer": 1,
+      "explain": "God asks the man (3:9) then the woman (3:13). The serpent is not questioned. The sentences then run serpent, woman, man."
+    },
+    {
+      "id": "q18", "kind": "insight", "ref": "desire-and-rule-echo",
+      "q": "Which verse shares the words ‘desire’ (teshuqah) and ‘rule’ (mashal) with Genesis 3:16?",
+      "options": ["Genesis 1:28", "Genesis 4:7", "Genesis 6:5", "Genesis 9:2"],
+      "answer": 1,
+      "explain": "God tells Cain that sin’s ‘desire is for you, but you must rule over it’. What the echo means for 3:16 is debated, and both verses describe, they do not command."
+    },
+    {
+      "id": "q19", "kind": "insight", "ref": "two-lamechs",
+      "q": "What does Lamech in Seth’s line (Genesis 5:29) do?",
+      "options": ["Boasts of vengeance", "Names his son Noah in hope of relief from work", "Builds a city", "Kills a man"],
+      "answer": 1,
+      "explain": "The Lamech of Cain’s line boasts of vengeance. The Lamech of Seth’s line names Noah (‘relief’) in hope."
+    },
+    {
+      "id": "q20", "kind": "insight", "ref": "garden-as-sanctuary",
+      "q": "Which pair of verbs in Genesis 2:15 also describes the Levites’ work at the tent of meeting?",
+      "options": ["Plant and harvest", "Work (abad) and keep (shamar)", "Name and rule", "Eat and drink"],
+      "answer": 1,
+      "explain": "‘To work it and keep it’ (la‘avdah ulshomrah) uses the same pair as Numbers 3:7–8 and 8:26. Scholars read this as a hint that Eden is a sanctuary. It is a proposal, not a settled fact."
+    }
+  ]
+}
