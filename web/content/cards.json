@@ -3,10 +3,26 @@
     "version": "0.1.0",
     "lastReview": "2026-11-16",
     "badges": {
-      "error": { "label": "Checkable error", "icon": "🔴", "help": "The text or the lexicons settle it." },
-      "contested": { "label": "Contested", "icon": "🟠", "help": "Serious scholars disagree. Both readings are shown." },
-      "tradition": { "label": "Tradition", "icon": "🟡", "help": "A legitimate reading, but one that is not in the text itself." },
-      "solid": { "label": "Solid", "icon": "🟢", "help": "Mainstream consensus." }
+      "error": {
+        "label": "Checkable error",
+        "icon": "🔴",
+        "help": "The text or the lexicons settle it."
+      },
+      "contested": {
+        "label": "Contested",
+        "icon": "🟠",
+        "help": "Serious scholars disagree. Both readings are shown."
+      },
+      "tradition": {
+        "label": "Tradition",
+        "icon": "🟡",
+        "help": "A legitimate reading, but one that is not in the text itself."
+      },
+      "solid": {
+        "label": "Solid",
+        "icon": "🟢",
+        "help": "Mainstream consensus."
+      }
     },
     "sourceKinds": {
       "text": "Biblical text: check in any translation",
@@ -30,7 +46,10 @@
       "confidence": "high",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "Genesis 1:20–31 (any translation)", "kind": "text" }
+        {
+          "label": "Genesis 1:20–31 (any translation)",
+          "kind": "text"
+        }
       ]
     },
     {
@@ -48,8 +67,16 @@
       "confidence": "high",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "NET Bible translator’s note on Gen 2:23 (not etymologically related; wordplay by sound and sense)", "url": "https://biblia.com/bible/gs-netbible/Ge2.23", "kind": "secondary" },
-        { "label": "Balashon / Hebrew-language blog discussion of ish–ishah (background only)", "url": "https://www.balashon.com/2008/?m=1", "kind": "secondary" }
+        {
+          "label": "NET Bible translator’s note on Gen 2:23 (not etymologically related; wordplay by sound and sense)",
+          "url": "https://biblia.com/bible/gs-netbible/Ge2.23",
+          "kind": "secondary"
+        },
+        {
+          "label": "Balashon / Hebrew-language blog discussion of ish–ishah (background only)",
+          "url": "https://www.balashon.com/2008/?m=1",
+          "kind": "secondary"
+        }
       ]
     },
     {
@@ -68,10 +95,24 @@
       "lastChecked": "2026-11-16",
       "safeguard": "Word-studies like this are used to assign men authority and women a supporting role. The text does not make that move.",
       "sources": [
-        { "label": "BDB entry for zakar (male) as quoted on Biblehub: relation to the verb ‘obscure’", "url": "https://biblehub.com/hebrew/2145.htm", "kind": "secondary" },
-        { "label": "Wiktionary: Proto-Semitic *ḏikar- (male) listed apart from *ḏakar- (remember)", "url": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Semitic/%E1%B8%8Fikar-", "kind": "secondary" },
-        { "label": "James Barr, The Semantics of Biblical Language (1961), on the root fallacy", "kind": "primary-todo" },
-        { "label": "HALOT, entry zākār", "kind": "primary-todo" }
+        {
+          "label": "BDB entry for zakar (male) as quoted on Biblehub: relation to the verb ‘obscure’",
+          "url": "https://biblehub.com/hebrew/2145.htm",
+          "kind": "secondary"
+        },
+        {
+          "label": "Wiktionary: Proto-Semitic *ḏikar- (male) listed apart from *ḏakar- (remember)",
+          "url": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Semitic/%E1%B8%8Fikar-",
+          "kind": "secondary"
+        },
+        {
+          "label": "James Barr, The Semantics of Biblical Language (1961), on the root fallacy",
+          "kind": "primary-todo"
+        },
+        {
+          "label": "HALOT, entry zākār",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -89,9 +130,20 @@
       "confidence": "medium",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "Logos blog ‘Did Yahweh Father Cain?’ on the et YHWH crux and the qanah pun", "url": "https://www.logos.com/grow/did-yahweh-father-cain/", "kind": "secondary" },
-        { "label": "Blue Letter Bible: Qayin (H7014), glossed ‘possession’", "url": "https://blueletterbible.org/lexicon/H7014/lsb", "kind": "secondary" },
-        { "label": "HALOT / BDB entry Qayin and the Kenite hypothesis", "kind": "primary-todo" }
+        {
+          "label": "Logos blog ‘Did Yahweh Father Cain?’ on the et YHWH crux and the qanah pun",
+          "url": "https://www.logos.com/grow/did-yahweh-father-cain/",
+          "kind": "secondary"
+        },
+        {
+          "label": "Blue Letter Bible: Qayin (H7014), glossed ‘possession’",
+          "url": "https://blueletterbible.org/lexicon/H7014/lsb",
+          "kind": "secondary"
+        },
+        {
+          "label": "HALOT / BDB entry Qayin and the Kenite hypothesis",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -110,9 +162,21 @@
       "lastChecked": "2026-11-16",
       "safeguard": "Mercy toward Cain is God’s decision. It is not a rule that a victim must forgive or return to someone who has harmed them without remorse.",
       "sources": [
-        { "label": "Genesis 4:13–15, compare translations (ESV footnote: ‘my guilt is too great to bear’)", "url": "https://www.biblestudytools.com/esv/genesis/4-13.html", "kind": "secondary" },
-        { "label": "John Gill on Gen 4:13 (impenitent complaint; alternative ‘is my sin greater than can be forgiven’)", "url": "https://johngill.thekingsbible.com/CommentaryVerse/1/4/13", "kind": "secondary" },
-        { "label": "Matthew Henry on Gen 4:13", "url": "https://mail.openbible.com/commentaries/genesis/4-13.htm", "kind": "secondary" }
+        {
+          "label": "Genesis 4:13–15, compare translations (ESV footnote: ‘my guilt is too great to bear’)",
+          "url": "https://www.biblestudytools.com/esv/genesis/4-13.html",
+          "kind": "secondary"
+        },
+        {
+          "label": "John Gill on Gen 4:13 (impenitent complaint; alternative ‘is my sin greater than can be forgiven’)",
+          "url": "https://johngill.thekingsbible.com/CommentaryVerse/1/4/13",
+          "kind": "secondary"
+        },
+        {
+          "label": "Matthew Henry on Gen 4:13",
+          "url": "https://mail.openbible.com/commentaries/genesis/4-13.htm",
+          "kind": "secondary"
+        }
       ]
     },
     {
@@ -131,9 +195,20 @@
       "lastChecked": "2026-11-16",
       "safeguard": "Do not use this verse to say that Eve was the careless or deceived one and that the man was not. The text puts both at the tree.",
       "sources": [
-        { "label": "Survey of rabbinic views: Gen. Rabbah 19:3, Avot de-Rabbi Natan, Rashi, Onkelos (secondary summary)", "url": "https://oztorah.com/2011/10/dont-touch-breshit/", "kind": "secondary" },
-        { "label": "Texts in Conversation: Rashi vs Onkelos and Saadiah on 3:3", "url": "https://intertextual.bible/p/4456", "kind": "secondary" },
-        { "label": "Genesis Rabbah 19:3 and Avot de-Rabbi Natan A1, primary text", "kind": "primary-todo" }
+        {
+          "label": "Survey of rabbinic views: Gen. Rabbah 19:3, Avot de-Rabbi Natan, Rashi, Onkelos (secondary summary)",
+          "url": "https://oztorah.com/2011/10/dont-touch-breshit/",
+          "kind": "secondary"
+        },
+        {
+          "label": "Texts in Conversation: Rashi vs Onkelos and Saadiah on 3:3",
+          "url": "https://intertextual.bible/p/4456",
+          "kind": "secondary"
+        },
+        {
+          "label": "Genesis Rabbah 19:3 and Avot de-Rabbi Natan A1, primary text",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -152,10 +227,25 @@
       "lastChecked": "2026-11-16",
       "safeguard": "Appeals to ‘helper’ and ‘headship’ are among the most common ways Genesis 2 is used to justify control. This card says only what the word does and does not mean.",
       "sources": [
-        { "label": "BAS Library, ‘Eve and Adam’ footnote 3: Freedman, ‘Woman, a Power Equal to Man’, BAR 9:1", "url": "https://library.biblicalarchaeology.org/footnote/footnote-3-eve-and-adam/", "kind": "secondary" },
-        { "label": "Oxford Academic: Carol Meyers, Discovering Eve", "url": "https://academic.oup.com/book/49680", "kind": "secondary" },
-        { "label": "CBMW review of Meyers’ Rediscovering Eve (critical)", "url": "https://cbmw.org/?p=53731", "kind": "secondary" },
-        { "label": "HALOT / BDB, entry ʿēzer", "kind": "primary-todo" }
+        {
+          "label": "BAS Library, ‘Eve and Adam’ footnote 3: Freedman, ‘Woman, a Power Equal to Man’, BAR 9:1",
+          "url": "https://library.biblicalarchaeology.org/footnote/footnote-3-eve-and-adam/",
+          "kind": "secondary"
+        },
+        {
+          "label": "Oxford Academic: Carol Meyers, Discovering Eve",
+          "url": "https://academic.oup.com/book/49680",
+          "kind": "secondary"
+        },
+        {
+          "label": "CBMW review of Meyers’ Rediscovering Eve (critical)",
+          "url": "https://cbmw.org/?p=53731",
+          "kind": "secondary"
+        },
+        {
+          "label": "HALOT / BDB, entry ʿēzer",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -174,10 +264,25 @@
       "lastChecked": "2026-11-16",
       "safeguard": "‘He should have led’ and ‘she led him astray’ are lines that are used inside abusive relationships to say who is to blame and who may rule. This text does not tell anyone to control, discipline or silence a partner. If this is familiar to you, see the help page.",
       "sources": [
-        { "label": "ABR note (E. Brasil de Souza): ‘with her’ in Gen 3:6 and Adam’s presence (Adam absent)", "url": "https://adventistbiblicalresearch.org/articles/was-adam-with-eve-at-the-scene-of-temptation-a-short-note-on-with-her-in-genesis-3-6", "kind": "secondary" },
-        { "label": "JBL 2013 article on ‘with her’ in Gen 3:6 (Adam present; argues many translations drop the word)", "url": "https://muse.jhu.edu/article/533973/pdf", "kind": "secondary" },
-        { "label": "ABR earlier article: the plural ‘you’ of the serpent and what it proves", "url": "https://adventistbiblicalresearch.org/articles/was-adam-with-eve-at-the-scene-of-temptation", "kind": "secondary" },
-        { "label": "Ray Ortlund on Genesis 3 (complementarian reading)", "kind": "primary-todo" }
+        {
+          "label": "ABR note (E. Brasil de Souza): ‘with her’ in Gen 3:6 and Adam’s presence (Adam absent)",
+          "url": "https://adventistbiblicalresearch.org/articles/was-adam-with-eve-at-the-scene-of-temptation-a-short-note-on-with-her-in-genesis-3-6",
+          "kind": "secondary"
+        },
+        {
+          "label": "JBL 2013 article on ‘with her’ in Gen 3:6 (Adam present; argues many translations drop the word)",
+          "url": "https://muse.jhu.edu/article/533973/pdf",
+          "kind": "secondary"
+        },
+        {
+          "label": "ABR earlier article: the plural ‘you’ of the serpent and what it proves",
+          "url": "https://adventistbiblicalresearch.org/articles/was-adam-with-eve-at-the-scene-of-temptation",
+          "kind": "secondary"
+        },
+        {
+          "label": "Ray Ortlund on Genesis 3 (complementarian reading)",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -195,10 +300,24 @@
       "confidence": "medium",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "Eitan Bar: nothing in 3:21 about blood, sacrifice or atonement (popular article)", "url": "https://eitan.bar/articles/is-genesis-3-really-about-god-sacrificing-an-animal-to-make-adam-and-eves-tunics/", "kind": "secondary" },
-        { "label": "‘Coats of skin’: rabbinic and patristic variants (‘light’, serpent’s skin)", "url": "https://en.wikipedia.org/wiki/Coats_of_skin", "kind": "secondary" },
-        { "label": "G. Wenham, Genesis 1–15 (WBC), on 3:21", "kind": "primary-todo" },
-        { "label": "J. Walton, Genesis (NIVAC), on 3:21", "kind": "primary-todo" }
+        {
+          "label": "Eitan Bar: nothing in 3:21 about blood, sacrifice or atonement (popular article)",
+          "url": "https://eitan.bar/articles/is-genesis-3-really-about-god-sacrificing-an-animal-to-make-adam-and-eves-tunics/",
+          "kind": "secondary"
+        },
+        {
+          "label": "‘Coats of skin’: rabbinic and patristic variants (‘light’, serpent’s skin)",
+          "url": "https://en.wikipedia.org/wiki/Coats_of_skin",
+          "kind": "secondary"
+        },
+        {
+          "label": "G. Wenham, Genesis 1–15 (WBC), on 3:21",
+          "kind": "primary-todo"
+        },
+        {
+          "label": "J. Walton, Genesis (NIVAC), on 3:21",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -216,10 +335,25 @@
       "confidence": "low-medium",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "J. Day on Gen 3:15 (excerpt quoted: Irenaeus; Targums collective)", "url": "https://scripturalmormonism.blogspot.com/2023/06/john-day-on-genesis-315.html", "kind": "secondary" },
-        { "label": "Zhakevich, ‘Genesis 3:15 in the NT and in the Pentateuchal Targums’, JBTS", "url": "https://jbtsonline.org/?p=2449", "kind": "secondary" },
-        { "label": "Wikipedia: Genesis 3:15 (overview of readings)", "url": "https://wikipedia.com/wiki/Genesis_3:15", "kind": "secondary" },
-        { "label": "Targum Pseudo-Jonathan and Targum Neofiti on Gen 3:15, primary text", "kind": "primary-todo" }
+        {
+          "label": "J. Day on Gen 3:15 (excerpt quoted: Irenaeus; Targums collective)",
+          "url": "https://scripturalmormonism.blogspot.com/2023/06/john-day-on-genesis-315.html",
+          "kind": "secondary"
+        },
+        {
+          "label": "Zhakevich, ‘Genesis 3:15 in the NT and in the Pentateuchal Targums’, JBTS",
+          "url": "https://jbtsonline.org/?p=2449",
+          "kind": "secondary"
+        },
+        {
+          "label": "Wikipedia: Genesis 3:15 (overview of readings)",
+          "url": "https://wikipedia.com/wiki/Genesis_3:15",
+          "kind": "secondary"
+        },
+        {
+          "label": "Targum Pseudo-Jonathan and Targum Neofiti on Gen 3:15, primary text",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -238,9 +372,20 @@
       "lastChecked": "2026-11-16",
       "safeguard": "Boasting about violence and claiming a right to punish are marks of abuse of power. If this is close to your own life, see the help page.",
       "sources": [
-        { "label": "Translation commentary on Gen 4:23–24 (boast; ki clause options)", "url": "https://tips.translation.bible/story/translation-commentary-on-genesis-423-424/", "kind": "secondary" },
-        { "label": "‘Song of the Sword’ background", "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Song_of_the_sword.html", "kind": "secondary" },
-        { "label": "Wenham, Westermann or Sarna on Gen 4:23–24", "kind": "primary-todo" }
+        {
+          "label": "Translation commentary on Gen 4:23–24 (boast; ki clause options)",
+          "url": "https://tips.translation.bible/story/translation-commentary-on-genesis-423-424/",
+          "kind": "secondary"
+        },
+        {
+          "label": "‘Song of the Sword’ background",
+          "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Song_of_the_sword.html",
+          "kind": "secondary"
+        },
+        {
+          "label": "Wenham, Westermann or Sarna on Gen 4:23–24",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -251,16 +396,35 @@
       "badge": "contested",
       "theme": "method",
       "verses": "Genesis 1:1–2:3; 2:4–4:26",
-      "text": "The two units differ in several visible ways. The divine name is Elohim in chapter 1 and YHWH Elohim in chapters 2–3. In chapter 1 the humans come last, after plants and animals. In chapter 2 the man comes first, then trees and animals, then the woman. The style differs too: a patterned liturgy, then a close-up story.",
-      "tradition": "Source criticism assigns chapter 1 to the Priestly source (P) and chapter 2 to the Yahwist (J). Others keep a single author or editor and read ‘These are the generations of…’ (2:4) as the heading of a new section rather than a second creation story, with chapter 2 as a ‘zoom-in’. Both camps agree that the two units say different things in different ways.",
-      "today": "A reader who says ‘the Bible says’ should know which voice is speaking. Naming the seam makes the case stronger: Genesis puts a cosmic overview and a human close-up next to each other on purpose.",
-      "weakestJoint": "The page results were mostly apologetic or popular sites. Nothing here replaces Sarna, Wenham or a source-critical introduction. The card claims only that the differences exist and the explanations compete.",
+      "text": "The two units differ in several visible ways. The divine name is Elohim in chapter 1 and YHWH Elohim in chapters 2–3. In chapter 1 the humans come last, after plants and animals. In chapter 2 the man comes first, then trees and animals, then the woman. The style differs too: a patterned liturgy, then a close-up story. There is also a difference of mood. In chapter 1 everything is ‘good’ and finished. In chapter 2 the first thing God calls ‘not good’ appears (2:18), because the man is alone.",
+      "tradition": "Three explanations are on offer, and they do not exclude each other. (1) Source criticism assigns chapter 1 to the Priestly source (P) and chapter 2 to the Yahwist (J). (2) Others keep a single author or editor and read ‘These are the generations of…’ (2:4) as the heading of a new section rather than a second creation story, with chapter 2 as a ‘zoom-in’. (3) A third reading looks at what each chapter is for: chapter 1 shows creation as a finished order, chapter 2 tells it as a story about a person, driven by a lack. On this reading the ‘good’ of chapter 1 and the ‘not good’ of chapter 2 do not collide, because they are not the same kind of statement. Versions of this third reading have been held by several scholars (recalled, not yet checked in the books: J. B. Soloveitchik, The Lonely Man of Faith; K. A. Kitchen on topical arrangement; G. Wenham on the chapters as complementary). Everyone agrees that the two units say different things in different ways.",
+      "today": "A reader who says ‘the Bible says’ should know which voice is speaking, and what that voice is doing. Genesis puts a cosmic overview and a human close-up next to each other, and each answers a different question: Is there an order? and Who am I in it?",
+      "weakestJoint": "The third reading is the most useful for readers but the least tested here. It explains why the chapters differ but not why both were kept, and it does not explain other doublets in Genesis (for example the two animal counts for the ark, 6:19 vs 7:2). It also means that the order in chapter 2 is not a timetable, which raises the same question for the order in chapter 1. The page results were mostly apologetic or popular sites. Nothing here replaces Sarna, Wenham or a source-critical introduction.",
       "confidence": "medium",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "Overview of the differences (divine names, order) and the documentary vs. complementary readings", "url": "https://bibleinterp.arizona.edu/sites/bibleinterp.arizona.edu/files/docs/Genesis%201%20and%202%20newest.4_0.pdf", "kind": "secondary" },
-        { "label": "TheTorah.com: ‘Differing conceptions of the divine creator’", "url": "https://TheTorah.Com/article/differing-conceptions-of-the-divine-creator", "kind": "secondary" },
-        { "label": "Sarna (JPS Genesis), Wenham (WBC) on the structure", "kind": "primary-todo" }
+        {
+          "label": "Overview of the differences (divine names, order) and the documentary vs. complementary readings",
+          "url": "https://bibleinterp.arizona.edu/sites/bibleinterp.arizona.edu/files/docs/Genesis%201%20and%202%20newest.4_0.pdf",
+          "kind": "secondary"
+        },
+        {
+          "label": "TheTorah.com: ‘Differing conceptions of the divine creator’",
+          "url": "https://TheTorah.Com/article/differing-conceptions-of-the-divine-creator",
+          "kind": "secondary"
+        },
+        {
+          "label": "Sarna (JPS Genesis), Wenham (WBC) on the structure",
+          "kind": "primary-todo"
+        },
+        {
+          "label": "J. B. Soloveitchik, The Lonely Man of Faith (1965), on two portraits of humanity (recalled; not checked)",
+          "kind": "primary-todo"
+        },
+        {
+          "label": "K. A. Kitchen, Ancient Orient and Old Testament (1966), on topical arrangement (recalled; not checked)",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -278,9 +442,20 @@
       "confidence": "medium",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "J. Lewis, JETS 37/4 (1994): history of interpretation of Cain and Abel’s offerings", "url": "https://etsjets.org/wp-content/uploads/2010/07/files_JETS-PDFs_37_37-4_JETS_37-4_481-496_Lewis.pdf", "kind": "secondary" },
-        { "label": "Genesis 4:3–7; Hebrews 11:4", "kind": "text" },
-        { "label": "Note on Gen 4:7, ‘crouching’ (robets) and the Akkadian rābiṣu parallel (Speiser): contested", "url": "https://biblia.com/bible/gs-netbible/Ge4.7", "kind": "secondary" }
+        {
+          "label": "J. Lewis, JETS 37/4 (1994): history of interpretation of Cain and Abel’s offerings",
+          "url": "https://etsjets.org/wp-content/uploads/2010/07/files_JETS-PDFs_37_37-4_JETS_37-4_481-496_Lewis.pdf",
+          "kind": "secondary"
+        },
+        {
+          "label": "Genesis 4:3–7; Hebrews 11:4",
+          "kind": "text"
+        },
+        {
+          "label": "Note on Gen 4:7, ‘crouching’ (robets) and the Akkadian rābiṣu parallel (Speiser): contested",
+          "url": "https://biblia.com/bible/gs-netbible/Ge4.7",
+          "kind": "secondary"
+        }
       ]
     },
     {
@@ -298,9 +473,20 @@
       "confidence": "high",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "Genesis 3:1–6 (any translation)", "kind": "text" },
-        { "label": "NPR: ‘Paradise Lost: How the Apple Became the Forbidden Fruit’ (the pun story)", "url": "https://www.npr.org/sections/thesalt/2017/04/30/526069512/paradise-lost-how-the-apple-became-the-for", "kind": "secondary" },
-        { "label": "Translation commentary: apples on the tree of knowledge (disputes the pun)", "url": "https://tips.translation.bible/story/apples-on-the-tree-of-the-knowledge-of-good-and-evil/", "kind": "secondary" }
+        {
+          "label": "Genesis 3:1–6 (any translation)",
+          "kind": "text"
+        },
+        {
+          "label": "NPR: ‘Paradise Lost: How the Apple Became the Forbidden Fruit’ (the pun story)",
+          "url": "https://www.npr.org/sections/thesalt/2017/04/30/526069512/paradise-lost-how-the-apple-became-the-for",
+          "kind": "secondary"
+        },
+        {
+          "label": "Translation commentary: apples on the tree of knowledge (disputes the pun)",
+          "url": "https://tips.translation.bible/story/apples-on-the-tree-of-the-knowledge-of-good-and-evil/",
+          "kind": "secondary"
+        }
       ]
     },
     {
@@ -318,10 +504,24 @@
       "confidence": "medium",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "Genesis 3:1–15; Revelation 12:9; 20:2", "kind": "text" },
-        { "label": "Survey: ‘The Serpent in the Garden of Eden and its Background’ (BibleInterp)", "url": "https://bibleinterp.arizona.edu/comment/1005", "kind": "secondary" },
-        { "label": "Löfstedt, ‘Separating the Devil from the Diabolos: A Fresh Reading of Wisdom of Solomon 2.24’", "url": "https://orion-bibliography.huji.ac.il/node/62313", "kind": "secondary" },
-        { "label": "D. Winston, The Wisdom of Solomon (Anchor Bible, 1979), on 2:24", "kind": "primary-todo" }
+        {
+          "label": "Genesis 3:1–15; Revelation 12:9; 20:2",
+          "kind": "text"
+        },
+        {
+          "label": "Survey: ‘The Serpent in the Garden of Eden and its Background’ (BibleInterp)",
+          "url": "https://bibleinterp.arizona.edu/comment/1005",
+          "kind": "secondary"
+        },
+        {
+          "label": "Löfstedt, ‘Separating the Devil from the Diabolos: A Fresh Reading of Wisdom of Solomon 2.24’",
+          "url": "https://orion-bibliography.huji.ac.il/node/62313",
+          "kind": "secondary"
+        },
+        {
+          "label": "D. Winston, The Wisdom of Solomon (Anchor Bible, 1979), on 2:24",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -340,9 +540,20 @@
       "lastChecked": "2026-11-16",
       "safeguard": "‘Eve’s curse’ is used to say that women are meant to be ruled. Genesis 3:16 does not use the word, and it describes consequences.",
       "sources": [
-        { "label": "Genesis 3:14, 17; 4:11 (Hebrew arur)", "kind": "text" },
-        { "label": "CBE: ‘Two Ways of Translating and Interpreting Genesis 3:16a’", "url": "https://www.cbeinternational.org/resource/two-ways-of-translating-and-interpreting-genesis-316/", "kind": "secondary" },
-        { "label": "Genesis 3:14–19 notes (NET Bible)", "url": "https://biblia.com/bible/gs-netbible/Gen.%203.14-19", "kind": "secondary" }
+        {
+          "label": "Genesis 3:14, 17; 4:11 (Hebrew arur)",
+          "kind": "text"
+        },
+        {
+          "label": "CBE: ‘Two Ways of Translating and Interpreting Genesis 3:16a’",
+          "url": "https://www.cbeinternational.org/resource/two-ways-of-translating-and-interpreting-genesis-316/",
+          "kind": "secondary"
+        },
+        {
+          "label": "Genesis 3:14–19 notes (NET Bible)",
+          "url": "https://biblia.com/bible/gs-netbible/Gen.%203.14-19",
+          "kind": "secondary"
+        }
       ]
     },
     {
@@ -360,10 +571,24 @@
       "confidence": "medium",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "NET Bible note on Gen 2:21 (‘rib’ literally ‘side’)", "url": "https://biblia.com/bible/gs-netbible/genesis/2/21", "kind": "secondary" },
-        { "label": "Open Bible Data interlinear on Gen 2:21 (both readings)", "url": "https://freely-given.org/OBD/ilr/GEN/C2V21.htm", "kind": "secondary" },
-        { "label": "Exodus 25:12; 26:26; 2 Samuel 16:13", "kind": "text" },
-        { "label": "HALOT / BDB, entry ṣēlāʿ", "kind": "primary-todo" }
+        {
+          "label": "NET Bible note on Gen 2:21 (‘rib’ literally ‘side’)",
+          "url": "https://biblia.com/bible/gs-netbible/genesis/2/21",
+          "kind": "secondary"
+        },
+        {
+          "label": "Open Bible Data interlinear on Gen 2:21 (both readings)",
+          "url": "https://freely-given.org/OBD/ilr/GEN/C2V21.htm",
+          "kind": "secondary"
+        },
+        {
+          "label": "Exodus 25:12; 26:26; 2 Samuel 16:13",
+          "kind": "text"
+        },
+        {
+          "label": "HALOT / BDB, entry ṣēlāʿ",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -381,10 +606,24 @@
       "confidence": "medium",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "St Andrews Encyclopaedia of Theology: ‘Sin’", "url": "https://www.saet.ac.uk/Christianity/Sin", "kind": "secondary" },
-        { "label": "Orthodox view: ‘Ancestral Sin: The Fall and Its Consequences’", "url": "https://www.saintjohnchurch.org/original-sin-vs-ancestral-sin/", "kind": "secondary" },
-        { "label": "E. Pagels, Adam, Eve, and the Serpent (1988)", "kind": "primary-todo" },
-        { "label": "Augustine, On the Merits and Forgiveness of Sins; Romans 5:12 in Greek", "kind": "primary-todo" }
+        {
+          "label": "St Andrews Encyclopaedia of Theology: ‘Sin’",
+          "url": "https://www.saet.ac.uk/Christianity/Sin",
+          "kind": "secondary"
+        },
+        {
+          "label": "Orthodox view: ‘Ancestral Sin: The Fall and Its Consequences’",
+          "url": "https://www.saintjohnchurch.org/original-sin-vs-ancestral-sin/",
+          "kind": "secondary"
+        },
+        {
+          "label": "E. Pagels, Adam, Eve, and the Serpent (1988)",
+          "kind": "primary-todo"
+        },
+        {
+          "label": "Augustine, On the Merits and Forgiveness of Sins; Romans 5:12 in Greek",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -402,8 +641,15 @@
       "confidence": "high",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "Genesis 2:15; 3:17–19; Ecclesiastes 3:13; 5:18–19", "kind": "text" },
-        { "label": "Survey: work before the fall and the cursed ground", "url": "https://www.scottlapierre.org/work-a-blessing-or-curse/", "kind": "secondary" }
+        {
+          "label": "Genesis 2:15; 3:17–19; Ecclesiastes 3:13; 5:18–19",
+          "kind": "text"
+        },
+        {
+          "label": "Survey: work before the fall and the cursed ground",
+          "url": "https://www.scottlapierre.org/work-a-blessing-or-curse/",
+          "kind": "secondary"
+        }
       ]
     },
     {
@@ -422,10 +668,24 @@
       "lastChecked": "2026-11-16",
       "safeguard": "This reading has been used to defend racism. It has no basis in Genesis.",
       "sources": [
-        { "label": "Genesis 4:15", "kind": "text" },
-        { "label": "Wikipedia: ‘Curse and mark of Cain’ (history of the racial reading)", "url": "https://en.wikipedia.org/wiki/Curse_and_mark_of_Cain", "kind": "secondary" },
-        { "label": "BibleHub: ‘What was Cain’s mark in Genesis 4:15?’", "url": "https://biblehub.com/q/What_was_Cain_s_mark_in_Genesis_4_15.htm", "kind": "secondary" },
-        { "label": "Rashi on Gen 4:15; Mishnah Sanhedrin 4:5", "kind": "primary-todo" }
+        {
+          "label": "Genesis 4:15",
+          "kind": "text"
+        },
+        {
+          "label": "Wikipedia: ‘Curse and mark of Cain’ (history of the racial reading)",
+          "url": "https://en.wikipedia.org/wiki/Curse_and_mark_of_Cain",
+          "kind": "secondary"
+        },
+        {
+          "label": "BibleHub: ‘What was Cain’s mark in Genesis 4:15?’",
+          "url": "https://biblehub.com/q/What_was_Cain_s_mark_in_Genesis_4_15.htm",
+          "kind": "secondary"
+        },
+        {
+          "label": "Rashi on Gen 4:15; Mishnah Sanhedrin 4:5",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -443,9 +703,19 @@
       "confidence": "medium",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "Genesis 2:8; Song of Songs 4:13; Ecclesiastes 2:5; Nehemiah 2:8; Luke 23:43; Revelation 2:7", "kind": "text" },
-        { "label": "Wikipedia: ‘Paradise’ (Old Iranian origin, pardes, Septuagint)", "url": "https://en.wikipedia.org/wiki/Paradise", "kind": "secondary" },
-        { "label": "HALOT, entry pardēs", "kind": "primary-todo" }
+        {
+          "label": "Genesis 2:8; Song of Songs 4:13; Ecclesiastes 2:5; Nehemiah 2:8; Luke 23:43; Revelation 2:7",
+          "kind": "text"
+        },
+        {
+          "label": "Wikipedia: ‘Paradise’ (Old Iranian origin, pardes, Septuagint)",
+          "url": "https://en.wikipedia.org/wiki/Paradise",
+          "kind": "secondary"
+        },
+        {
+          "label": "HALOT, entry pardēs",
+          "kind": "primary-todo"
+        }
       ]
     },
     {
@@ -463,10 +733,23 @@
       "confidence": "low-medium",
       "lastChecked": "2026-11-16",
       "sources": [
-        { "label": "Genesis 1:26–27; 3:22; 11:7; Psalm 82:1", "kind": "text" },
-        { "label": "Survey of views on Genesis 1:26 (divine council, majesty, Trinity)", "url": "https://biblehub.com/q/Genesis_1_26_and_the_Trinity_link_2.htm", "kind": "secondary" },
-        { "label": "V. Hamilton, The Book of Genesis 1–17 (NICOT), on 1:26", "kind": "primary-todo" },
-        { "label": "G. Wenham, Genesis 1–15 (WBC), on 1:26", "kind": "primary-todo" }
+        {
+          "label": "Genesis 1:26–27; 3:22; 11:7; Psalm 82:1",
+          "kind": "text"
+        },
+        {
+          "label": "Survey of views on Genesis 1:26 (divine council, majesty, Trinity)",
+          "url": "https://biblehub.com/q/Genesis_1_26_and_the_Trinity_link_2.htm",
+          "kind": "secondary"
+        },
+        {
+          "label": "V. Hamilton, The Book of Genesis 1–17 (NICOT), on 1:26",
+          "kind": "primary-todo"
+        },
+        {
+          "label": "G. Wenham, Genesis 1–15 (WBC), on 1:26",
+          "kind": "primary-todo"
+        }
       ]
     }
   ]

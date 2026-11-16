@@ -8,6 +8,8 @@ A small, offline-capable web app (PWA). It has:
 - **Insights**: 12 notes on language, poetic structure, ancient background and echoes
   elsewhere in the Bible.
 - **Plans**: a 7-day personal plan and a 4-evening small-group plan.
+- **Languages**: English and German (Settings → Language). Interface strings are in `web/i18n.js`; German content is in `web/content/de/`. `node scripts/validate.mjs` checks that a translation mirrors the English ids, references, answers and care notes.
+- **Settings** (gear in the header): language, text size, light/dark, links to privacy and support, and “clear my progress”.
 - **Quiz**: 24 questions, played 10 at a time.
 - **Help**: a care page with support lines and what these chapters do not say.
 

@@ -1,0 +1,475 @@
+{
+  "meta": {
+    "version": "0.1.0",
+    "lastReview": "2026-11-16",
+    "badges": {
+      "error": { "label": "Nachprüfbarer Irrtum", "icon": "🔴", "help": "Der Text oder die Wörterbücher entscheiden die Frage." },
+      "contested": { "label": "Umstritten", "icon": "🟠", "help": "Ernsthafte Forscher sind uneins. Beide Lesarten werden gezeigt." },
+      "tradition": { "label": "Tradition", "icon": "🟡", "help": "Eine berechtigte Lesart, die aber nicht im Text selbst steht." },
+      "solid": { "label": "Gesichert", "icon": "🟢", "help": "Allgemeiner Konsens in der Forschung." }
+    },
+    "sourceKinds": {
+      "text": "Bibeltext: in jeder Übersetzung nachprüfbar",
+      "secondary": "Bei der Recherche (16.11.2026) in Sekundärliteratur gesehen; Primärquelle noch zu prüfen",
+      "primary-todo": "Genannter Forscher oder genanntes Lexikon; noch NICHT direkt geprüft. Nicht ohne Prüfung veröffentlichen."
+    }
+  },
+  "cards": [
+    {
+      "id": "day-5-6-birds",
+      "order": 1,
+      "title": "An welchem Tag erschienen die Vögel?",
+      "claim": "Die ersten drei Tage schaffen „Häuser“, und die nächsten drei füllen sie mit „Sonne, Mond und Sternen; Fischen; Land- und Lufttieren“.",
+      "badge": "error",
+      "theme": "creation",
+      "verses": "1. Mose 1,20–31",
+      "text": "Die Vögel gehören zum fünften Tag, zusammen mit den Meerestieren (1,20–23: „Vögel sollen über der Erde fliegen, unter der Wölbung des Himmels“). Der sechste Tag bringt die Landtiere und dann den Menschen (1,24–31). „Lufttiere“ am sechsten Tag ist also schlicht ein Versehen. Die schöne Zuordnung von „Haus und Bewohnern“ funktioniert trotzdem: Der zweite Tag (Himmel und Wasser) wird am fünften Tag gefüllt (Vögel und Fische).",
+      "tradition": "Die Zuordnung 1↔4, 2↔5, 3↔6 (die „Rahmen-Lesart“) ist eine moderne literarische Beobachtung und steht nicht im Text. Sie steht neben anderen Lesarten (24-Stunden-Tage, Tag-Zeitalter-Lesart und weitere).",
+      "today": "Beim Weitererzählen verschiebt sich manches, und meist merkt es niemand. Wenn du eine Bibelgeschichte aus dem Gedächtnis weitergibst, kannst du die kleinen Einzelheiten prüfen. Das kostet zwei Minuten und schafft Vertrauen.",
+      "weakestJoint": "Der Fehler betrifft nur den Tag, an dem die Vögel erscheinen. Der Rahmen als Ganzes ist eine Lesart, keine Tatsache.",
+      "confidence": "hoch",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "1. Mose 1,20–31 (jede Übersetzung)", "kind": "text" }
+      ]
+    },
+    {
+      "id": "wow-man",
+      "order": 2,
+      "title": "„Wow-man“: steht das im Hebräischen?",
+      "claim": "Der Mann war überwältigt und nannte sie „Wow-man“.",
+      "badge": "error",
+      "theme": "woman-man",
+      "verses": "1. Mose 2,23",
+      "text": "„Wow-man“ ist ein englischer Klangwitz. Das Hebräische hat sein eigenes, echtes Wortspiel: Sie soll ischah (Frau) heißen, weil sie vom isch (Mann) genommen ist. Das Staunen des Mannes ist echt, denn der Vers ist ein dichterischer Ausruf („Bein von meinem Bein, Fleisch von meinem Fleisch“), aber das Wortspiel ist isch/ischah.",
+      "tradition": "Mittelalterliche jüdische Ausleger (zum Beispiel Raschi und Ibn Esra) sahen isch und ischah als eine Wortfamilie. Moderne Forscher halten die beiden meist für sprachgeschichtlich nicht verwandt. Das Wortspiel wirkt über Klang und Sinn, als Volksetymologie.",
+      "today": "Ein Wortspiel kann einen Gedanken einprägsam machen, aber es kann ihn nicht beweisen. Bevor du eine „hebräische Bedeutung“ zitierst, frag, woher sie stammt.",
+      "weakestJoint": "Die vorgeschlagene Wurzel von ischah (meist anasch) ist selbst nur ein Vorschlag der Forschung. Sicher ist nur, dass „Wow-man“ nicht hebräisch ist.",
+      "confidence": "hoch",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Anmerkung der NET-Bibel zu 1. Mose 2,23 (nicht sprachgeschichtlich verwandt; Wortspiel nach Klang und Sinn)", "url": "https://biblia.com/bible/gs-netbible/Ge2.23", "kind": "secondary" },
+        { "label": "Balashon / Hebräisch-Blog zu isch–ischah (nur als Hintergrund)", "url": "https://www.balashon.com/2008/?m=1", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "zakar-remember",
+      "order": 3,
+      "title": "Heißt „männlich“ „der sich erinnert“?",
+      "claim": "Das hebräische Wort für „männlich“ enthält den Sinn „erinnern“, also soll der Mann sich daran erinnern, was Gott gesagt hat.",
+      "badge": "error",
+      "theme": "woman-man",
+      "verses": "1. Mose 3,6 (und 1,27)",
+      "text": "Das Argument scheitert, wie auch immer die Sprachgeschichte ausfällt. Die Bedeutung eines Wortes ergibt sich aus seinem Gebrauch im Zusammenhang, nicht aus Konsonanten, die es mit einem anderen Wort teilt (James Barrs „Wurzel-Trugschluss“). Nirgends in 1. Mose 3 wird das Wort sachar (männlich) gebraucht, um zu sagen, die Aufgabe des Mannes sei das Erinnern. Der Text sagt, dass der Mann „bei ihr“ war (3,6) und nichts sagte.",
+      "tradition": "Manche Lexika verbinden Substantiv und Verb (der Mann als der „Erwähnte“ oder „Genannte“ und Fortsetzer des Familiennamens). Andere behandeln sie als zwei getrennte Wörter. Das Lexikon BDB nennt das Verhältnis selbst „dunkel“, und rekonstruierte urtsemitische Formen führen die beiden getrennt auf. Es als gesichert hinzustellen, in welche Richtung auch immer, ist also falsch.",
+      "today": "Sei misstrauisch bei jedem „das hebräische Wort bedeutet eigentlich …“, das einer Gruppe eine eingebaute Aufgabe zuweist. Wenn eine Wortstudie nur bestätigt, was der Sprecher ohnehin sagen wollte, prüfe sie doppelt.",
+      "weakestJoint": "Ich konnte HALOT nicht direkt einsehen. Ob die beiden Wörter verwandt sind, ist in den gefundenen Quellen ungeklärt. Der Einwand des Wurzel-Trugschlusses hängt davon nicht ab.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "safeguard": "Wortstudien wie diese werden benutzt, um Männern Autorität und Frauen eine dienende Rolle zuzuweisen. Der Text vollzieht diesen Schritt nicht.",
+      "sources": [
+        { "label": "BDB-Eintrag zu sachar (männlich), zitiert auf Biblehub: Verhältnis zum Verb „dunkel“", "url": "https://biblehub.com/hebrew/2145.htm", "kind": "secondary" },
+        { "label": "Wiktionary: urtsemitisch *ḏikar- (männlich) getrennt von *ḏakar- (erinnern) aufgeführt", "url": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Semitic/%E1%B8%8Fikar-", "kind": "secondary" },
+        { "label": "James Barr, The Semantics of Biblical Language (1961), zum Wurzel-Trugschluss", "kind": "primary-todo" },
+        { "label": "HALOT, Eintrag sachar", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "cain-treasure",
+      "order": 4,
+      "title": "Was bedeutet „Kain“?",
+      "claim": "Kain bedeutet „Schatz“, und das zeigt Evas Hoffnung.",
+      "badge": "contested",
+      "theme": "sin-violence",
+      "verses": "1. Mose 4,1",
+      "text": "Evas Worte sind ein gewolltes Wortspiel: kanithi („ich habe erworben“) klingt an Kajin (Kain) an. Der Vers verbindet den Namen also mit „Erwerben“. „Schatz“ ist keine gängige Wiedergabe. Üblich sind „der Erworbene“ oder „Besitz“. Viele Forscher meinen außerdem, dass kajin selbst von einem Wort für „Schmied“ oder „Speer“ kommt (vergleiche Tubal-Kain, den Metallarbeiter, in 4,22, und das Volk der Keniter). Die zweite Satzhälfte (et JHWH) ist eine berühmte Schwierigkeit, und „mit Hilfe des HERRN“ ist ein Zusatz der Übersetzer, der nicht im Hebräischen steht.",
+      "tradition": "Eine Lesart, nach der Eva meint, sie habe den verheißenen Retter geboren („Ich habe einen Mann erworben, den HERRN“), ist alt und bekannt, aber spekulativ. Sie erzählt, was Eva gehofft haben könnte, nicht, was der Vers sagt.",
+      "today": "Namen in der Bibel wirken oft wie Schlagzeilen über einer Geschichte. Eine Namensdeutung ist aber ein Hinweis und kein Beweis, besonders wenn zwei Bedeutungen („erworben“ und „Schmied“) konkurrieren.",
+      "weakestJoint": "Ob der Name „erworben“, „Schmied“ oder beides bedeuten sollte (das Wortspiel arbeitet mit dem Klang), lässt sich aus dem Text nicht entscheiden. Sagen lässt sich nur: „Schatz“ ist nicht belegt.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Logos-Blog „Did Yahweh Father Cain?“ zur Schwierigkeit et JHWH und zum Wortspiel mit kana", "url": "https://www.logos.com/grow/did-yahweh-father-cain/", "kind": "secondary" },
+        { "label": "Blue Letter Bible: Kajin (H7014), wiedergegeben mit „Besitz“", "url": "https://blueletterbible.org/lexicon/H7014/lsb", "kind": "secondary" },
+        { "label": "HALOT / BDB, Eintrag Kajin und die Keniter-These", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "cain-repents",
+      "order": 5,
+      "title": "Hat Kain bereut?",
+      "claim": "Als Kain zur Rede gestellt wird, bereut er, und Gott setzt ein schützendes Zeichen auf ihn.",
+      "badge": "contested",
+      "theme": "sin-violence",
+      "verses": "1. Mose 4,13–15",
+      "text": "In der Passage steht kein Bekenntnis: Kain sagt nie „ich habe gesündigt“. Seine Worte in 4,13–14 handeln davon, was ihm geschehen wird („wer mich findet, wird mich erschlagen“). Das Wort awon in 4,13 kann „Schuld“ oder „Strafe“ bedeuten, darum lesen manche Übersetzungen „meine Schuld ist zu groß, als dass ich sie tragen könnte“ (Anmerkung der ESV), die meisten aber „meine Strafe ist zu schwer, als dass ich sie tragen könnte“. Selbst bei der Lesart „Schuld“ bittet Kain um nichts und gesteht weder Abel noch Gott etwas ein. Die überraschende Tatsache bleibt: Gott schützt ihn trotzdem.",
+      "tradition": "Viele Ausleger (etwa Matthew Henry, John Gill) lesen den Vers als reuelose Klage. Eine Minderheit liest Verzweiflung an der Vergebung. Einige Leser sehen ein erstes Zeichen von Reue.",
+      "today": "Gnade ist nicht dasselbe wie ein Neuanfang für die Opfer des Reuelosen. Gottes Barmherzigkeit gegenüber Kain nimmt die Folgen nicht weg (er bleibt ein Flüchtling), und sie sagt nicht, dass wir uns mit jemandem versöhnen müssen, der sich nicht geändert hat.",
+      "weakestJoint": "„Falsche Tatsache“ war zu stark. Zutreffend ist: Der Text berichtet keine Reue, und sein Schlüsselwort hat zwei mögliche Bedeutungen.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "safeguard": "Die Barmherzigkeit gegenüber Kain ist Gottes Entscheidung. Sie ist keine Regel, dass ein Opfer jemandem vergeben oder zu ihm zurückkehren müsse, der ihm ohne Reue geschadet hat.",
+      "sources": [
+        { "label": "1. Mose 4,13–15, Übersetzungen vergleichen (ESV-Fußnote: „meine Schuld ist zu groß, um sie zu tragen“)", "url": "https://www.biblestudytools.com/esv/genesis/4-13.html", "kind": "secondary" },
+        { "label": "John Gill zu 1. Mose 4,13 (reuelose Klage; Alternative „ist meine Sünde größer, als dass sie vergeben werden könnte“)", "url": "https://johngill.thekingsbible.com/CommentaryVerse/1/4/13", "kind": "secondary" },
+        { "label": "Matthew Henry zu 1. Mose 4,13", "url": "https://mail.openbible.com/commentaries/genesis/4-13.htm", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "eve-adds-touch",
+      "order": 6,
+      "title": "War Eva „sorgfältig“, als sie „rührt es nicht an“ hinzufügte?",
+      "claim": "Eva zeigt Sorgfalt, indem sie „auch rührt sie nicht an“ hinzufügt und das Gebot für den Mann schützt.",
+      "badge": "contested",
+      "theme": "sin-violence",
+      "verses": "1. Mose 2,16–17; 3,2–3",
+      "text": "Gottes Gebot (2,16–17) sagt nichts vom Berühren und wurde gegeben, bevor die Frau existierte (2,22). In 3,3 gibt sie eine längere Fassung wieder. Wer „berühren“ hinzufügte und warum, steht nicht da. Der nächste Zug der Schlange (3,4) erwähnt das Berühren überhaupt nicht.",
+      "tradition": "Die antiken Ausleger sind gespalten. Bereschit Rabba wertet Evas Zusatz als Fehler. Awot de-Rabbi Natan und Raschi sagen, Adam habe ihn als „Zaun“ hinzugefügt und ohne Erklärung weitergegeben. Targum Onkelos ändert „berühren“ in „sich nähern“, was die Frage beseitigt. Für die „sorgfältige“ Lesart des Artikels gibt es keinen starken antiken Rückhalt, und die spätere Behauptung, der Zusatz „biete keinen wirklichen Schutz“, widerspricht ihr.",
+      "today": "Eine Regel, die zum Schutz vor Versuchung hinzugefügt wird, kann anfangen, den eigentlichen Grund zu ersetzen. Wenn eine Schutzregel zitiert wird, als hätte Gott sie gesagt, sollten wir fragen, ob sie ihrem Zweck noch dient.",
+      "weakestJoint": "„Verfälschung“ und „Adams Zaun“ sind beide nur Lesarten. Der Text sagt nicht, wer die Worte hinzugefügt hat.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "safeguard": "Benutze diesen Vers nicht, um zu sagen, Eva sei die Nachlässige oder Getäuschte gewesen und der Mann nicht. Der Text stellt beide an den Baum.",
+      "sources": [
+        { "label": "Überblick über rabbinische Sichtweisen: Bereschit Rabba 19,3, Awot de-Rabbi Natan, Raschi, Onkelos (Zusammenfassung aus zweiter Hand)", "url": "https://oztorah.com/2011/10/dont-touch-breshit/", "kind": "secondary" },
+        { "label": "Texts in Conversation: Raschi gegen Onkelos und Saadja zu 3,3", "url": "https://intertextual.bible/p/4456", "kind": "secondary" },
+        { "label": "Bereschit Rabba 19,3 und Awot de-Rabbi Natan A1, Primärtext", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "ezer-helper",
+      "order": 7,
+      "title": "„Hilfe“: schwach oder stark?",
+      "claim": "„Gehilfin“ (eser) lässt sich besser mit „Lebensretterin“ übersetzen, also wurde die Frau stark geschaffen.",
+      "badge": "contested",
+      "theme": "woman-man",
+      "verses": "1. Mose 2,18.20",
+      "text": "Das Wort eser bedeutet „Hilfe“. „Helferin“ zu schreiben ist keine Fehlübersetzung. Aber das Wort bedeutet nicht „Assistentin“. Im Alten Testament wird es oft von Gott als der Hilfe Israels gebraucht (zum Beispiel Psalm 121,1–2; 5. Mose 33,26.29), darum bedeutet „Hilfe sein“ nicht, niedriger zu stehen. Die Wendung in 2,18 ist eser kenegdo, „eine Hilfe, die ihm entspricht“, und das zweite Wort fügt Entsprechung hinzu, etwa „ihm gegenüber“. Die vorsichtige Aussage betrifft also Gebrauch und Nebenbedeutung. „Lebensretterin“ ist eine Umschreibung, keine Übersetzung.",
+      "tradition": "R. David Freedman (Biblical Archaeology Review, 1983) vertrat „eine dem Mann gleiche Kraft“. Carol Meyers (Discovering Eve, 1988) vertritt eine „starke Helferin“ und Gleichgestellte. Kritiker entgegnen, das überfordere die Belege (eine Rezension der überarbeiteten Ausgabe von Meyers sagt das zu ihrer Lesart von 3,16). Komplementaristische Forscher akzeptieren den Beleg „Gott als Helfer“, meinen aber, Rollenunterschiede blieben bestehen.",
+      "today": "Eine Wortstudie sollte nie die einzige Stütze dafür sein, wie zwei Menschen ihr Leben teilen. Wie immer du über Rollen entscheidest: Der Text gibt keinen Grund, die Frau als geringer zu behandeln. Dass sie „die Hilfe“ ist, ist in der Sprache der Erzählung selbst ein Kompliment.",
+      "weakestJoint": "Freedmans Zwei-Wurzeln-Vorschlag und Meyers’ Argument wurden hier nur aus Sekundärquellen zusammengefasst. Die Aussage „eser deutet Stärke an“ ist eine Nebenbedeutung, keine lexikalische Bedeutung.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "safeguard": "Der Verweis auf „Gehilfin“ und „Haupt-Sein“ gehört zu den häufigsten Arten, 1. Mose 2 zur Rechtfertigung von Kontrolle zu benutzen. Diese Karte sagt nur, was das Wort bedeutet und was nicht.",
+      "sources": [
+        { "label": "BAS Library, „Eve and Adam“, Fußnote 3: Freedman, „Woman, a Power Equal to Man“, BAR 9:1", "url": "https://library.biblicalarchaeology.org/footnote/footnote-3-eve-and-adam/", "kind": "secondary" },
+        { "label": "Oxford Academic: Carol Meyers, Discovering Eve", "url": "https://academic.oup.com/book/49680", "kind": "secondary" },
+        { "label": "CBMW-Rezension zu Meyers’ Rediscovering Eve (kritisch)", "url": "https://cbmw.org/?p=53731", "kind": "secondary" },
+        { "label": "HALOT / BDB, Eintrag eser", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "failure-to-lead",
+      "order": 8,
+      "title": "War die Sünde des Mannes, „nicht geführt“ zu haben?",
+      "claim": "Der Mann hat die Frau nie zu Gott geführt; er wartete darauf, dass sie führt, „eine Rolle, die ihr nie gegeben war“, und so wurde sie von der Schlange geführt.",
+      "badge": "contested",
+      "theme": "woman-man",
+      "verses": "1. Mose 3,1–6.9.12.17",
+      "text": "Im Text stehen drei Dinge. (1) Vers 6 sagt, der Mann war „bei ihr“ (immah). (2) Gott spricht zuerst den Mann an (3,9) und sagt, er habe auf die Stimme seiner Frau gehört und gegessen (3,17). (3) Beide essen, beide verstecken sich, beide werden befragt, und beide schieben die Schuld auf jemand anderen. Das Wort „führen“ oder „Haupt-Sein“ kommt in diesen Versen nirgends vor. Ob der Mann beim Gespräch körperlich anwesend war, ist selbst umstritten: Das „ihr“ der Schlange in 3,1–5 steht im Plural, was manche als Zeichen seiner Anwesenheit nehmen. Andere (zum Beispiel eine Notiz von Elias Brasil de Souza) argumentieren, „bei ihr“ beweise nicht die Anwesenheit am Ort.",
+      "tradition": "Eine komplementaristische Lesart (zum Beispiel Ray Ortlund) sieht in Gottes erster Frage an Adam ein Zeichen dafür, dass er die Hauptverantwortung trug. Egalitäre Lesarten verweisen auf die gemeinsame Herrschaft in 1,26–28 und sagen, die Herrschaft „über“ die Frau werde in 3,16 als Folge des Sündenfalls angekündigt und nicht als Schöpfungsordnung. Beide lesen Gedanken in den Text, die er in diesen Worten nicht ausspricht.",
+      "today": "Das gemeinsame Muster kennt jedes Zuhause: Wenn etwas schiefgeht, zeigt jeder auf den anderen (3,12–13). Der Text taugt besser als Spiegel denn als Regelbuch dafür, wer entscheidet.",
+      "weakestJoint": "Diese Karte kann die Debatte zwischen Komplementaristen und Egalitären nicht entscheiden und versucht es nicht. Sie weist nur darauf hin, dass der Artikel eine Seite so dargestellt hat, als wäre sie der Text.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "safeguard": "„Er hätte führen sollen“ und „sie hat ihn verführt“ sind Sätze, die in missbräuchlichen Beziehungen benutzt werden, um zu sagen, wer schuld ist und wer herrschen darf. Dieser Text fordert niemanden auf, einen Partner zu kontrollieren, zu züchtigen oder zum Schweigen zu bringen. Wenn dir das bekannt vorkommt, sieh dir die Hilfeseite an.",
+      "sources": [
+        { "label": "ABR-Notiz (E. Brasil de Souza): „bei ihr“ in 1. Mose 3,6 und Adams Anwesenheit (Adam abwesend)", "url": "https://adventistbiblicalresearch.org/articles/was-adam-with-eve-at-the-scene-of-temptation-a-short-note-on-with-her-in-genesis-3-6", "kind": "secondary" },
+        { "label": "JBL-Artikel 2013 zu „bei ihr“ in 1. Mose 3,6 (Adam anwesend; viele Übersetzungen lassen das Wort weg)", "url": "https://muse.jhu.edu/article/533973/pdf", "kind": "secondary" },
+        { "label": "Früherer ABR-Artikel: das „ihr“ im Plural bei der Schlange und was es beweist", "url": "https://adventistbiblicalresearch.org/articles/was-adam-with-eve-at-the-scene-of-temptation", "kind": "secondary" },
+        { "label": "Ray Ortlund zu 1. Mose 3 (komplementaristische Lesart)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "garments-of-skin",
+      "order": 9,
+      "title": "Starben Tiere „an ihrer Stelle“?",
+      "claim": "Gott lässt Tiere sterben, um die Scham von Mann und Frau zu bedecken. Diese Tiere sterben an ihrer Stelle.",
+      "badge": "tradition",
+      "theme": "sin-violence",
+      "verses": "1. Mose 3,21",
+      "text": "Der Vers sagt nur: „Gott, der HERR, machte Adam und seiner Frau Röcke aus Fell und bekleidete sie.“ Er erwähnt keinen Altar, kein Blut, keinen Priester und kein Wort für Opfer oder Sühne. Er sagt nicht einmal ausdrücklich, dass ein Tier getötet wurde, obwohl Felle das nahelegen. Die Deutung als Stellvertretung kam später hinzu.",
+      "tradition": "Viele christliche Autoren sehen in den Fellen einen Vorgriff auf Opfer und auf Christi Bedeckung der Sünde (etwa mit dem Motiv des „Gewandes der Gerechtigkeit“, Jesaja 61,10). Andere betonen Gottes praktische Fürsorge. Manche alten jüdischen Quellen sagen sogar, die „Haut“ sei „Licht“ gewesen (or/’or) oder die abgestreifte Haut der Schlange. All das ist Rezeption, nicht Text.",
+      "today": "Es ist fair zu sagen: „Christen haben hier lange einen Hinweis gesehen.“ Es ist nicht fair zu sagen: „1. Mose sagt uns.“ Wer beides trennt, lässt dem Vers seine eigene Pointe: Gott bekleidet Menschen, die ihn gerade enttäuscht haben.",
+      "weakestJoint": "Ich habe die Kommentare von Wenham oder Walton, die laut den Recherche-Notizen sagen, der Text stütze kein Opfer, nicht gefunden. Diese Zuschreibung entfällt, bis sie in den Büchern geprüft ist.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Eitan Bar: in 3,21 steht nichts von Blut, Opfer oder Sühne (populärer Artikel)", "url": "https://eitan.bar/articles/is-genesis-3-really-about-god-sacrificing-an-animal-to-make-adam-and-eves-tunics/", "kind": "secondary" },
+        { "label": "„Coats of skin“: rabbinische und patristische Varianten („Licht“, Haut der Schlange)", "url": "https://en.wikipedia.org/wiki/Coats_of_skin", "kind": "secondary" },
+        { "label": "G. Wenham, Genesis 1–15 (WBC), zu 3,21", "kind": "primary-todo" },
+        { "label": "J. Walton, Genesis (NIVAC), zu 3,21", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "protoevangelium",
+      "order": 10,
+      "title": "Ist 1. Mose 3,15 eine Verheißung des Messias?",
+      "claim": "Gott richtet die Schlange und verheißt, dass die Frau den Retter hervorbringen wird, der sie vernichtet.",
+      "badge": "tradition",
+      "theme": "sin-violence",
+      "verses": "1. Mose 3,15",
+      "text": "Der Vers spricht von „Feindschaft“ zwischen der Schlange und der Frau, zwischen „deinem Samen“ und „ihrem Samen“: „Er wird dir den Kopf zertreten, und du wirst ihn in die Ferse stechen.“ Er nennt keine einzelne Person, und „Same“ ist ein Sammelbegriff. Ob „er“ eine Person ist oder die ganze Linie ihrer Nachkommen, ist Sache der Lesart.",
+      "tradition": "Die erste klare christologische Lesart in erhaltenen Texten stammt von Irenäus (um 180, Gegen die Häresien 3,23,7 und 5,21,1), und Luther machte „Urevangelium“ (Protoevangelium) zur gängigen Bezeichnung. Die jüdische Seite ist komplizierter als „nicht messianisch“. Die palästinischen Targume sprechen von Heilung „in den Tagen des Königs Messias“, aber der Vers wird sonst kollektiv und moralisch gelesen (wer die Tora hält, dessen Nachkommen treffen die Schlange; wer sie verlässt, den beißt die Schlange). Ob es vor dem Christentum eine messianische Lesart gab, ist weiter umstritten (Zhakevich sagt ja, John Day argumentiert das Gegenteil).",
+      "today": "Als „Same der Frau“ gelesen, spricht der Vers jeden an, dem Unrecht geschehen ist: Das Böse bekommt ein Urteil, und der Schaden ist nicht das letzte Wort. Das kann man glauben, ohne zu behaupten, dass der Vers Jesus nennt.",
+      "weakestJoint": "Die Quellen zu den Targumen widersprechen einander, und die meisten gefundenen Seiten waren Blogs. Diese Karte braucht die Primärtexte der Targume und Days Kapitel, bevor sie veröffentlicht werden kann.",
+      "confidence": "niedrig bis mittel",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "J. Day zu 1. Mose 3,15 (zitierter Auszug: Irenäus; Targume kollektiv)", "url": "https://scripturalmormonism.blogspot.com/2023/06/john-day-on-genesis-315.html", "kind": "secondary" },
+        { "label": "Zhakevich, „Genesis 3:15 in the NT and in the Pentateuchal Targums“, JBTS", "url": "https://jbtsonline.org/?p=2449", "kind": "secondary" },
+        { "label": "Wikipedia: Genesis 3:15 (Überblick über Lesarten)", "url": "https://wikipedia.com/wiki/Genesis_3:15", "kind": "secondary" },
+        { "label": "Targum Pseudo-Jonathan und Targum Neofiti zu 1. Mose 3,15, Primärtext", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "lamech-boast",
+      "order": 11,
+      "title": "Lamech: ein Flüstern oder eine Prahlerei?",
+      "claim": "Lamech prahlt, einen Mann getötet zu haben, wagt es aber nicht, diese Prahlerei der Welt zu verkünden, nur seinen Frauen, im Privaten.",
+      "badge": "contested",
+      "theme": "sin-violence",
+      "verses": "1. Mose 4,19–24",
+      "text": "Lamech spricht zu seinen Frauen Ada und Zilla in einem kurzen Gedicht, und der Text gibt kein Zeichen, dass er sich fürchtet. Das Publikum innerhalb der Erzählung sind seine Frauen, doch das Gedicht stellt eine „siebenundsiebzigfache“ Rache gegen Kains siebenfache. Zwei Einzelheiten sind offen: Das erste Wort seiner Aussage (ki haragti) kann „ich habe getötet“ oder „ich würde töten (wenn)“ gelesen werden, und der Text sagt nie, wen er getötet hat. Das „schon getötet“ des Artikels ist also eine Lesart.",
+      "tradition": "Das Gedicht wird oft „Schwertlied“ genannt, mit Tubal-Kains Metallarbeit in 4,22 verbunden und als Prahlerei zum Lob der Gewalt gelesen. Origenes soll es als unerklärlich aufgegeben haben. „Er wagt es nur im Privaten zu sagen“ ist eine Geschichte, die der Artikel hinzufügt.",
+      "today": "Gewalt, die sich steigert (von „siebenfach“ zu „siebenundsiebzigfach“) und dann damit prahlt, ist ein Muster, das man in Familien und in der Politik erkennen kann. Jesus kehrt die Zahl um (Matthäus 18,21–22).",
+      "weakestJoint": "Ich konnte nicht bestätigen, dass die Behauptung der Kritik vom „öffentlichen Register“ (das Gedicht sei öffentliche Sippen-Ehrendichtung) durch benannte Forscher gestützt wird. Bestätigt wurden nur die Gattung „Prahlerei“ und der Streit um den ki-Satz.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "safeguard": "Mit Gewalt zu prahlen und ein Recht auf Strafe zu beanspruchen sind Kennzeichen des Machtmissbrauchs. Wenn dir das aus deinem eigenen Leben nahe ist, sieh dir die Hilfeseite an.",
+      "sources": [
+        { "label": "Übersetzungskommentar zu 1. Mose 4,23–24 (Prahlerei; Möglichkeiten für den ki-Satz)", "url": "https://tips.translation.bible/story/translation-commentary-on-genesis-423-424/", "kind": "secondary" },
+        { "label": "„Schwertlied“: Hintergrund", "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Song_of_the_sword.html", "kind": "secondary" },
+        { "label": "Wenham, Westermann oder Sarna zu 1. Mose 4,23–24", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "two-accounts",
+      "order": 12,
+      "title": "Eine Geschichte oder zwei?",
+      "claim": "1. Mose 1–4 ist eine nahtlose Geschichte, von einer Stimme erzählt, also kann die Gleichheit in 1. Mose 1 die „Gehilfin“ in 1. Mose 2 erklären.",
+      "badge": "contested",
+      "theme": "method",
+      "verses": "1. Mose 1,1–2,3; 2,4–4,26",
+      "text": "Die beiden Einheiten unterscheiden sich auf mehrere sichtbare Weisen. Der Gottesname ist in Kapitel 1 Elohim und in den Kapiteln 2–3 JHWH Elohim. In Kapitel 1 kommen die Menschen zuletzt, nach Pflanzen und Tieren. In Kapitel 2 kommt zuerst der Mann, dann Bäume und Tiere, dann die Frau. Auch der Stil ist verschieden: erst eine geformte Liturgie, dann eine Nahaufnahme. Dazu kommt ein Unterschied der Stimmung. In Kapitel 1 ist alles „gut“ und vollendet. In Kapitel 2 erscheint das erste „nicht gut“ aus Gottes Mund (2,18), weil der Mann allein ist.",
+      "tradition": "Drei Erklärungen stehen zur Wahl, und sie schließen einander nicht aus. (1) Die Quellenkritik ordnet Kapitel 1 der Priesterschrift (P) und Kapitel 2 dem Jahwisten (J) zu. (2) Andere behalten einen einzigen Verfasser oder Redaktor bei und lesen „Dies ist die Geschichte von …“ (2,4) als Überschrift eines neuen Abschnitts und nicht als zweite Schöpfungserzählung, mit Kapitel 2 als „Heranzoomen“. (3) Eine dritte Lesart fragt, wozu jedes Kapitel da ist: Kapitel 1 zeigt die Schöpfung als vollendete Ordnung, Kapitel 2 erzählt sie als Geschichte über einen Menschen, die von einem Mangel getrieben wird. Nach dieser Lesart stoßen das „gut“ aus Kapitel 1 und das „nicht gut“ aus Kapitel 2 nicht zusammen, weil sie nicht dieselbe Art von Aussage sind. Fassungen dieser dritten Lesart haben mehrere Forscher vertreten (aus dem Gedächtnis, noch nicht in den Büchern geprüft: J. B. Soloveitchik, The Lonely Man of Faith; K. A. Kitchen zur thematischen Anordnung; G. Wenham zu den Kapiteln als einander ergänzend). Alle sind sich einig, dass die beiden Einheiten Verschiedenes auf verschiedene Weise sagen.",
+      "today": "Wer sagt „die Bibel sagt“, sollte wissen, welche Stimme spricht und was diese Stimme tut. 1. Mose stellt einen kosmischen Überblick und eine menschliche Nahaufnahme nebeneinander, und jede beantwortet eine andere Frage: Gibt es eine Ordnung? und Wer bin ich darin?",
+      "weakestJoint": "Die dritte Lesart ist für Leser die nützlichste, aber hier die am wenigsten geprüfte. Sie erklärt, warum sich die Kapitel unterscheiden, aber nicht, warum beide aufbewahrt wurden, und sie erklärt keine anderen Dubletten in 1. Mose (zum Beispiel die zwei Tierzahlen für die Arche, 6,19 gegen 7,2). Sie bedeutet auch, dass die Reihenfolge in Kapitel 2 kein Zeitplan ist, was dieselbe Frage für die Reihenfolge in Kapitel 1 aufwirft. Die gefundenen Seiten waren meist apologetische oder populäre Seiten. Nichts hier ersetzt Sarna, Wenham oder eine quellenkritische Einführung.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Überblick über die Unterschiede (Gottesnamen, Reihenfolge) und die dokumentarische gegenüber der ergänzenden Lesart", "url": "https://bibleinterp.arizona.edu/sites/bibleinterp.arizona.edu/files/docs/Genesis%201%20and%202%20newest.4_0.pdf", "kind": "secondary" },
+        { "label": "TheTorah.com: „Differing conceptions of the divine creator“", "url": "https://TheTorah.Com/article/differing-conceptions-of-the-divine-creator", "kind": "secondary" },
+        { "label": "Sarna (JPS Genesis), Wenham (WBC) zum Aufbau", "kind": "primary-todo" },
+        { "label": "J. B. Soloveitchik, The Lonely Man of Faith (1965), zu zwei Bildern des Menschen (aus dem Gedächtnis; nicht geprüft)", "kind": "primary-todo" },
+        { "label": "K. A. Kitchen, Ancient Orient and Old Testament (1966), zur thematischen Anordnung (aus dem Gedächtnis; nicht geprüft)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "abel-offering",
+      "order": 13,
+      "title": "Warum wurde Abels Opfer angenommen?",
+      "claim": "Abel brachte sein Opfer vielleicht in Erinnerung an das, was Gott in Eden getan hatte, um die Scham seiner Eltern zu bedecken.",
+      "badge": "contested",
+      "theme": "sin-violence",
+      "verses": "1. Mose 4,3–7; Hebräer 11,4",
+      "text": "Der Text nennt keinen Grund. Er beschreibt die beiden Gaben aber unterschiedlich: Kain bringt „von den Früchten des Ackers“ (4,3), Abel bringt „von den Erstlingen seiner Herde und von ihrem Fett“ (4,4). Die Wörter „Erstlinge“ und „Fett“ stehen nur bei Abel. Danach spricht Gott zu Kain über das Gutes-Tun und über die Sünde, die „vor der Tür lauert“ (4,6–7).",
+      "tradition": "Hebräer 11,4 sagt, Abel habe „im Glauben“ ein „besseres“ Opfer gebracht. Philo las „Erstlinge“ und „Fett“ als das Beste der Seele. Ältere Ausleger sahen bei Kain Stolz und Unglauben. Die Verbindung zu 1. Mose 3,21 (Erinnerung an Eden) ist eine moderne Vermutung, und nichts in Kapitel 4 weist darauf hin.",
+      "today": "Sein Bestes zu geben und ein Nein zu empfangen, ist eine schwere Lage. Der Text begegnet Kain in diesem Augenblick: Gott spricht zuerst, mit einer Frage und einer Warnung, bevor irgendetwas geschehen ist. In der Pause zwischen Gefühl und Tat verortet die Erzählung die Entscheidung.",
+      "weakestJoint": "„Bestes Opfer im Glauben“ ist die stärkste Lesart, aber immer noch ein Schluss aus dem Kontrast und aus dem Hebräerbrief. Der Grund wird nirgends genannt.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "J. Lewis, JETS 37/4 (1994): Auslegungsgeschichte der Opfer von Kain und Abel", "url": "https://etsjets.org/wp-content/uploads/2010/07/files_JETS-PDFs_37_37-4_JETS_37-4_481-496_Lewis.pdf", "kind": "secondary" },
+        { "label": "1. Mose 4,3–7; Hebräer 11,4", "kind": "text" },
+        { "label": "Notiz zu 1. Mose 4,7, „lauert“ (robez) und die akkadische Parallele rābiṣu (Speiser): umstritten", "url": "https://biblia.com/bible/gs-netbible/Ge4.7", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "apple",
+      "order": 14,
+      "title": "War die verbotene Frucht ein Apfel?",
+      "claim": "Eva aß einen Apfel.",
+      "badge": "error",
+      "theme": "creation",
+      "verses": "1. Mose 3,3.6",
+      "text": "1. Mose nennt die Frucht nie. Es sagt nur „die Frucht des Baumes“ (peri). Der Apfel ist ein späteres europäisches Bild.",
+      "tradition": "Eine beliebte Geschichte sagt, Hieronymus’ lateinische Übersetzung habe den Apfel hervorgebracht: malum bedeutet sowohl „böse“ als auch „Apfel“. Diese Geschichte ist umstritten. Eine übersetzungswissenschaftliche Quelle sagt, die Vulgata und die älteren lateinischen Fassungen gebrauchten in 1. Mose 3 fructus („Frucht“) und die Vokale der beiden lateinischen Wörter unterschieden sich. Autoren wie Milton halfen, den Apfel in der Vorstellung zu verankern. Die jüdische Überlieferung nennt andere Kandidaten: Feige, Weintraube, Dattel oder Weizen.",
+      "today": "Das Bild in deinem Kopf ist wahrscheinlich älter als der Text. Wenn sich eine Einzelheit sicher anfühlt, du sie aber im Vers nicht findest, frag, woher sie kommt.",
+      "weakestJoint": "Dass der Text die Frucht nie nennt, ist gesichert. Wie der Apfel die Oberhand gewann, ist umstritten, und die Karte hängt nicht davon ab.",
+      "confidence": "hoch",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "1. Mose 3,1–6 (jede Übersetzung)", "kind": "text" },
+        { "label": "NPR: „Paradise Lost: How the Apple Became the Forbidden Fruit“ (die Wortspiel-Geschichte)", "url": "https://www.npr.org/sections/thesalt/2017/04/30/526069512/paradise-lost-how-the-apple-became-the-for", "kind": "secondary" },
+        { "label": "Übersetzungskommentar: Äpfel am Baum der Erkenntnis (bestreitet das Wortspiel)", "url": "https://tips.translation.bible/story/apples-on-the-tree-of-the-knowledge-of-good-and-evil/", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "serpent-is-satan",
+      "order": 15,
+      "title": "Ist die Schlange der Satan?",
+      "claim": "Die Schlange in Eden ist der Satan.",
+      "badge": "tradition",
+      "theme": "sin-violence",
+      "verses": "1. Mose 3,1–15",
+      "text": "1. Mose 3 nennt sie „die Schlange“, „listiger (arum) als alle Tiere des Feldes“. Es sagt nie Satan, Teufel, Engel oder gefallenes Wesen. Die Schlange wird verflucht und dazu verurteilt zu kriechen, und die Erzählung behandelt sie als Geschöpf.",
+      "tradition": "Die Gleichsetzung erscheint in späteren Texten. Weisheit Salomos 2,24 („durch den Neid des Teufels kam der Tod in die Welt“) ist der übliche frühe Kandidat, doch manche Forscher bestreiten, ob es dort um die Schlange oder überhaupt um den Teufel geht. Andere jüdische Texte (Leben Adams und Evas, 2. Henoch) sagen, der Teufel habe Eva verführt. Offenbarung 12,9 und 20,2 nennen „die alte Schlange, die der Teufel und Satan ist“. Die Verbindung ist also alt und im Christentum weit verbreitet, aber eine Lesart und steht nicht in 1. Mose.",
+      "today": "1. Mose verlegt die Stimme, die das Vertrauen untergräbt, in die Schöpfung hinein, unter die Dinge, die Gott gemacht hat, statt sie in einen fernen kosmischen Bösewicht zu schieben. So oder so tragen die Menschen die Verantwortung, die ihnen die Erzählung gibt.",
+      "weakestJoint": "Datierung und Bedeutung von Weisheit 2,24 sind umstritten, und die gefundenen Quellen waren meist Blog-Wiederholungen wissenschaftlicher Arbeiten. Ich habe weder Winstons noch Löfstedts Behandlung gelesen.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "1. Mose 3,1–15; Offenbarung 12,9; 20,2", "kind": "text" },
+        { "label": "Überblick: „The Serpent in the Garden of Eden and its Background“ (BibleInterp)", "url": "https://bibleinterp.arizona.edu/comment/1005", "kind": "secondary" },
+        { "label": "Löfstedt, „Separating the Devil from the Diabolos: A Fresh Reading of Wisdom of Solomon 2.24“", "url": "https://orion-bibliography.huji.ac.il/node/62313", "kind": "secondary" },
+        { "label": "D. Winston, The Wisdom of Solomon (Anchor Bible, 1979), zu 2,24", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "god-cursed-eve",
+      "order": 16,
+      "title": "Hat Gott Adam und Eva verflucht?",
+      "claim": "Gott verfluchte Eva (und Adam) für die erste Sünde.",
+      "badge": "error",
+      "theme": "woman-man",
+      "verses": "1. Mose 3,14–19; 4,11",
+      "text": "Das Wort „verflucht“ (arur) wird von der Schlange gebraucht (3,14) und vom Erdboden „um deinetwillen“ (3,17). Von der Frau und vom Mann wird es nicht gebraucht. Beide erhalten Folgen (Schmerz, Mühsal, Tod). Später in der Erzählung wird auch Kain verflucht genannt (4,11). Die Wortwahl ist genau: Mann und Frau stehen nicht unter dem Fluch.",
+      "tradition": "Im Volksmund heißt es „Evas Fluch“ und „Adams Fluch“. Die Übersetzungen von 3,16 unterscheiden sich, und der hebräische Satz an die Frau ist umstritten, aber „verflucht“ steht nicht darin.",
+      "today": "Not ist nicht immer Strafe. 1. Mose benennt das Zerbrochene (Mühsal, Schmerz, Herrschaft übereinander), ohne die Menschen verflucht zu nennen, und die nächste Szene zeigt, wie Gott sie bekleidet (3,21).",
+      "weakestJoint": "Das hängt am hebräischen Wort arur. Die Bedeutung von 3,16 selbst ist umstritten (siehe die Einsicht zu „Verlangen“).",
+      "confidence": "hoch",
+      "lastChecked": "2026-11-16",
+      "safeguard": "„Evas Fluch“ wird benutzt, um zu sagen, Frauen seien dazu bestimmt, beherrscht zu werden. 1. Mose 3,16 gebraucht das Wort nicht und beschreibt Folgen.",
+      "sources": [
+        { "label": "1. Mose 3,14.17; 4,11 (hebräisch arur)", "kind": "text" },
+        { "label": "CBE: „Two Ways of Translating and Interpreting Genesis 3:16a“", "url": "https://www.cbeinternational.org/resource/two-ways-of-translating-and-interpreting-genesis-316/", "kind": "secondary" },
+        { "label": "Anmerkungen zu 1. Mose 3,14–19 (NET-Bibel)", "url": "https://biblia.com/bible/gs-netbible/Gen.%203.14-19", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "rib",
+      "order": 17,
+      "title": "Wurde Eva aus einer Rippe gemacht?",
+      "claim": "Gott nahm eine von Adams Rippen und machte daraus Eva.",
+      "badge": "contested",
+      "theme": "woman-man",
+      "verses": "1. Mose 2,21–22",
+      "text": "Das hebräische Wort ist zela. Anderswo bedeutet es fast immer „Seite“: die Seite der Stiftshütte (2. Mose 26,26), die Seiten der Lade (2. Mose 25,12), ein Berghang (2. Samuel 16,13). Darum lesen viele Übersetzer und Forscher 2,21 als „eine seiner Seiten“ oder „einen Teil seiner Seite“. Der Vers sagt, Gott „nahm eine von seinen Zelaot“ und „baute“ sie zu einer Frau.",
+      "tradition": "Die griechische Übersetzung verwendete pleura (Seite oder Rippe), und die lateinische Vulgata costa (Rippe), womit das deutsche „Rippe“ vorgegeben war. Manche Leser argumentieren, „Rippe“ bleibe in diesem einen Vers als Sinn von zela möglich. Die rabbinische Überlieferung las es auch als „Seite“, eine Hälfte eines zweiseitigen ersten Menschen, doch das habe ich hier nicht geprüft.",
+      "today": "Ob Rippe oder Seite: Die Pointe der Erzählung ist, dass die Frau aus demselben Stoff gemacht ist wie der Mann („Bein von meinem Bein“) und nicht wie die Tiere aus Staub. Das ist eine Aussage über Verwandtschaft, nicht über Rang.",
+      "weakestJoint": "„Seite“ ist die übliche Bedeutung von zela, doch der einzelne Vers ist mehrdeutig. Die verbreitete Behauptung, zela bedeute „nie“ Rippe, ließ sich nicht bestätigen, und ich habe kein Lexikon direkt gelesen.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "Anmerkung der NET-Bibel zu 1. Mose 2,21 („Rippe“ wörtlich „Seite“)", "url": "https://biblia.com/bible/gs-netbible/genesis/2/21", "kind": "secondary" },
+        { "label": "Open Bible Data Interlinear zu 1. Mose 2,21 (beide Lesarten)", "url": "https://freely-given.org/OBD/ilr/GEN/C2V21.htm", "kind": "secondary" },
+        { "label": "2. Mose 25,12; 26,26; 2. Samuel 16,13", "kind": "text" },
+        { "label": "HALOT / BDB, Eintrag zela", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "the-fall",
+      "order": 18,
+      "title": "Steht „der Sündenfall“ in 1. Mose?",
+      "claim": "1. Mose lehrt den Sündenfall und die Erbsünde: Adams Sünde machte alle Menschen schuldig.",
+      "badge": "tradition",
+      "theme": "sin-violence",
+      "verses": "1. Mose 3; vergleiche Römer 5,12–19",
+      "text": "1. Mose 3 erzählt, wie zwei Menschen ungehorsam sind, sich verstecken, die Schuld abschieben und aus dem Garten geschickt werden. Es gebraucht kein Wort für „Fall“ und sagt nicht, dass ihre Schuld auf die Nachkommen übergeht. Die nächste Geschichte (Kain) zeigt, wie sich die Sünde ausbreitet, aber wie das geschieht, wird nicht erklärt.",
+      "tradition": "Augustinus entwickelte die Lehre von der Erbsünde, nach der alle Menschen sowohl Adams Verderbnis als auch seine Schuld erben, zum Teil aus seiner Lesart von Römer 5 im Lateinischen. Die ostkirchliche Lehre spricht von „ahnenhafter Sünde“: Die Menschen erben Sterblichkeit und Schwäche, nicht persönliche Schuld. Das rabbinische Judentum liest 1. Mose 3 als erste Sünde und nicht als Fall der menschlichen Natur und spricht vom Jetzer ha-ra (dem Hang zum Bösen) als Teil der Schöpfung. Auch Christen sind sich also nicht einig, was die Erzählung nahelegt.",
+      "today": "Du kannst die Erzählung als Diagnose ernst nehmen (wir verstecken uns, schieben Schuld ab und vertuschen), ohne eine bestimmte Vererbungstheorie. Viele Leser finden die Geschichte am nützlichsten als Spiegel dessen, was wir alle tun.",
+      "weakestJoint": "Die Zusammenfassung von Augustinus, der orthodoxen und der jüdischen Sicht stammt aus Zusammenfassungen aus zweiter Hand. Augustinus’ eigener Text und Römer 5,12 im Griechischen (die Frage „in dem / weil alle sündigten“) sind zu prüfen.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "St Andrews Encyclopaedia of Theology: „Sin“", "url": "https://www.saet.ac.uk/Christianity/Sin", "kind": "secondary" },
+        { "label": "Orthodoxe Sicht: „Ancestral Sin: The Fall and Its Consequences“", "url": "https://www.saintjohnchurch.org/original-sin-vs-ancestral-sin/", "kind": "secondary" },
+        { "label": "E. Pagels, Adam, Eve, and the Serpent (1988)", "kind": "primary-todo" },
+        { "label": "Augustinus, Über Verdienst und Vergebung der Sünden; Römer 5,12 im Griechischen", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "work-as-curse",
+      "order": 19,
+      "title": "Ist Arbeit eine Strafe für die Sünde?",
+      "claim": "Arbeit gehört zum Fluch.",
+      "badge": "error",
+      "theme": "creation",
+      "verses": "1. Mose 2,15; 3,17–19",
+      "text": "Die Arbeit kommt zuerst. In 2,15 wird der Mann in den Garten gesetzt, „damit er ihn bebaue und bewahre“, bevor etwas schiefgeht. Was sich in Kapitel 3 ändert, ist der Erdboden (verflucht „um deinetwillen“) und die Art der Arbeit: Mühsal, Dornen, Disteln, Schweiß. Arbeit ist also eine Gabe, und die Plackerei in der Arbeit ist die Folge.",
+      "tradition": "Manche Übersetzungen geben das Schlüsselwort in 3,17 mit „unter Kummer“ wieder, andere mit „unter Mühsal“. Neuere Fassungen bevorzugen meist „Mühsal“. Der Prediger (3,13; 5,18–19) nennt Arbeit und ihren Ertrag eine Gabe Gottes.",
+      "today": "Arbeit ist keine Strafe, die man erdulden muss. Und die Frustration (die sinnlose Stelle, die Dornen) ist ein wirklicher Teil des Lebens, aber nicht das ganze Bild der Arbeit.",
+      "weakestJoint": "Die Quellen dazu waren erbauliche Texte und Kommentare. Die Abfolge (Arbeit in 2,15, Mühsal in 3,17) steht im Text und hängt nicht von ihnen ab.",
+      "confidence": "hoch",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "1. Mose 2,15; 3,17–19; Prediger 3,13; 5,18–19", "kind": "text" },
+        { "label": "Überblick: Arbeit vor dem Fall und der verfluchte Erdboden", "url": "https://www.scottlapierre.org/work-a-blessing-or-curse/", "kind": "secondary" }
+      ]
+    },
+    {
+      "id": "mark-of-cain",
+      "order": 20,
+      "title": "Was war das Kainszeichen?",
+      "claim": "Das Kainszeichen war dunkle Haut, oder es kennzeichnet ein verfluchtes Volk.",
+      "badge": "error",
+      "theme": "sin-violence",
+      "verses": "1. Mose 4,15",
+      "text": "1. Mose sagt nur, Gott „machte ein Zeichen (ot) an Kain, damit ihn niemand erschlüge, der ihn fände“. Es sagt nicht, was das Zeichen war. Sein Zweck ist Schutz. Nichts im Text verbindet es mit Hautfarbe, einem Volk oder einer späteren Rasse.",
+      "tradition": "Ausleger haben vieles vorgeschlagen: einen Buchstaben des Gottesnamens (Raschi), eine Warnung an andere (Sanhedrin-Überlieferung, nach der Zusammenfassung einer Sekundärquelle), eine Narbe oder eine Tätowierung. Seit dem 18. und 19. Jahrhundert behaupteten manche Prediger und Schreiber, das Zeichen sei dunkle Haut gewesen, um Sklaverei und Rassentrennung zu rechtfertigen. Das Argument hat im Text keinen Rückhalt und scheitert auch an seiner eigenen Logik, da von Kains Linie nicht gesagt wird, dass sie die Sintflut überlebt.",
+      "today": "Hier wurde ein Vers eindeutig verbogen, um zu schaden. Die Prüfung ist einfach: Frag, was der Text tatsächlich sagt. Das Zeichen ist Gottes Schutz für jemanden, der gerade getötet hat, eine unbequeme Barmherzigkeit und kein Stempel der Minderwertigkeit für irgendjemanden.",
+      "weakestJoint": "Die Liste der vorgeschlagenen Deutungen stammt aus einem Überblick aus zweiter Hand. Die Kernaussage, dass der Text nicht sagt, was das Zeichen war, ergibt sich eindeutig aus dem Vers.",
+      "confidence": "hoch",
+      "lastChecked": "2026-11-16",
+      "safeguard": "Diese Lesart wurde benutzt, um Rassismus zu verteidigen. Sie hat in 1. Mose keine Grundlage.",
+      "sources": [
+        { "label": "1. Mose 4,15", "kind": "text" },
+        { "label": "Wikipedia: „Curse and mark of Cain“ (Geschichte der rassistischen Lesart)", "url": "https://en.wikipedia.org/wiki/Curse_and_mark_of_Cain", "kind": "secondary" },
+        { "label": "BibleHub: „What was Cain’s mark in Genesis 4:15?“", "url": "https://biblehub.com/q/What_was_Cain_s_mark_in_Genesis_4_15.htm", "kind": "secondary" },
+        { "label": "Raschi zu 1. Mose 4,15; Mischna Sanhedrin 4,5", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "paradise-word",
+      "order": 21,
+      "title": "Ist „Paradies“ ein biblisches Wort für Eden?",
+      "claim": "Die Bibel nennt Eden „Paradies“.",
+      "badge": "error",
+      "theme": "creation",
+      "verses": "1. Mose 2,8–15",
+      "text": "Das hebräische Wort in 1. Mose ist gan, „Garten“ (der „Garten in Eden“). Das Wort „Paradies“ steht dort nicht. Es kommt von einem altiranischen Wort für ein umfriedetes Gelände oder einen königlichen Park. Das Hebräische übernahm es als pardes, das nur in späten Büchern vorkommt: Hoheslied 4,13, Prediger 2,5 und Nehemia 2,8, jeweils mit der Bedeutung Park oder Obstgarten.",
+      "tradition": "Die griechische Übersetzung des Alten Testaments (die Septuaginta) gebrauchte paradeisos sowohl für pardes als auch für den Garten Eden. Von dort gelangte das Wort in den christlichen Gebrauch: Lukas 23,43 („heute wirst du mit mir im Paradies sein“) und Offenbarung 2,7 (der Baum des Lebens „im Paradies Gottes“) verwenden es. „Paradies“ ist also ein biblisches Wort, aber nicht im Hebräisch von 1. Mose.",
+      "today": "Das Wort erinnert im Kleinen daran, dass die Bibel, die du liest, durch Übersetzung gegangen ist. Wenn ein Wort aufgeladen wirkt, frag, was es im Original war und woher die Übersetzung es nahm.",
+      "weakestJoint": "Die Wortgeschichte stammt aus Wikipedia und Enzyklopädie-Einträgen. Ein wissenschaftliches Wörterbuch (zum Beispiel HALOT zu pardes oder ein iranisches etymologisches Wörterbuch) sollte geprüft werden.",
+      "confidence": "mittel",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "1. Mose 2,8; Hoheslied 4,13; Prediger 2,5; Nehemia 2,8; Lukas 23,43; Offenbarung 2,7", "kind": "text" },
+        { "label": "Wikipedia: „Paradise“ (altiranischer Ursprung, pardes, Septuaginta)", "url": "https://en.wikipedia.org/wiki/Paradise", "kind": "secondary" },
+        { "label": "HALOT, Eintrag pardes", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "let-us-make",
+      "order": 22,
+      "title": "Beweist „Lasst uns Menschen machen“ die Dreieinigkeit?",
+      "claim": "„Lasst uns Menschen machen nach unserem Bild“ zeigt, dass Gott schon in 1. Mose 1 ein dreieiniger Gott ist.",
+      "badge": "contested",
+      "theme": "creation",
+      "verses": "1. Mose 1,26; auch 3,22; 11,7",
+      "text": "Gott spricht in 1,26 im Plural („Lasst uns Menschen machen nach unserem Bild“), ebenso in 3,22 und 11,7. Der nächste Vers kehrt zum Singular zurück („Gott schuf den Menschen nach seinem Bilde“). Der Text sagt nicht, wer angesprochen wird.",
+      "tradition": "Zu den Lesarten gehören: (1) die Dreieinigkeit (der Vater spricht zu Sohn und Geist), vertreten von vielen christlichen Autoren seit der alten Kirche; (2) Gott spricht zu seinem himmlischen Hofstaat aus Engeln, was viele jüdische Ausleger vertraten und was Forscher mit Stellen wie Psalm 82,1 verbinden; (3) ein Plural der Majestät oder der Selbstberatung (ein König sagt „lasst uns“ und handelt dann allein). Trinitarische Leser sehen eine spätere Lehre, die den Vers erhellt. Kritiker sagen, eine voll ausgebildete Lehre in den Text zurückzulesen sei anachronistisch. Beide können festhalten, dass der Vers Vielheit in Gottes Gegenwart zeigt.",
+      "today": "Ein Text kann so reich sein, dass man ihn auf mehrere Weisen lesen kann, die seine ersten Leser nicht meinen konnten. Dieser Vers taugt besser als Einladung zum Nachdenken denn als Beweis.",
+      "weakestJoint": "Ich habe in dieser Runde keine wissenschaftliche Quelle gefunden, nur Zusammenfassungen der Positionen. Hamiltons Genesis 1–17 (NICOT) oder Wenham zu 1,26 prüfen.",
+      "confidence": "niedrig bis mittel",
+      "lastChecked": "2026-11-16",
+      "sources": [
+        { "label": "1. Mose 1,26–27; 3,22; 11,7; Psalm 82,1", "kind": "text" },
+        { "label": "Überblick über Sichtweisen zu 1. Mose 1,26 (Götterrat, Majestät, Dreieinigkeit)", "url": "https://biblehub.com/q/Genesis_1_26_and_the_Trinity_link_2.htm", "kind": "secondary" },
+        { "label": "V. Hamilton, The Book of Genesis 1–17 (NICOT), zu 1,26", "kind": "primary-todo" },
+        { "label": "G. Wenham, Genesis 1–15 (WBC), zu 1,26", "kind": "primary-todo" }
+      ]
+    }
+  ]
+}

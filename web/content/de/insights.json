@@ -1,0 +1,204 @@
+{
+  "categories": {
+    "poetry": "Dichtung und Muster",
+    "structure": "Aufbau",
+    "language": "Sprache",
+    "background": "Alter Hintergrund",
+    "intertext": "Echos in der Bibel",
+    "narrative": "Erzählkunst"
+  },
+  "insights": [
+    {
+      "id": "sevens-in-genesis-1",
+      "order": 1,
+      "category": "poetry",
+      "title": "Die Zahl Sieben",
+      "verses": "1. Mose 1,1–2,3",
+      "insight": "1. Mose 1,1 hat sieben hebräische Wörter, und 1,2 hat vierzehn. Die Beschreibung des siebten Tages (2,1–3) hat fünfunddreißig (7 × 5). Ob die Zählung geplant war oder sich so ergab: Der Abschnitt ist um die Zahl Sieben herum geschrieben, und der siebte Tag ist der Ort, an dem er ankommt.",
+      "whyItMatters": "Das erste Kapitel ist kein Laborbericht. Es ist eine sorgfältig gebaute Liturgie, und ihre Form sagt, wozu sie da ist: eine Welt mit Ordnung und Ruhe zu lehren, nicht einen Zeitplan zu liefern.",
+      "today": "Achte darauf, wie deine eigenen Wochen gebaut sind. Der Text gibt dem Rhythmus einen letzten Tag, der nicht der Produktion dient.",
+      "confidence": "mittel",
+      "caveat": "Die Wortzählungen lassen sich im Hebräischen leicht nachprüfen. Dass sie beabsichtigt waren, ist ein Schluss (U. Cassuto). Beachte auch, dass die Zahlen davon abhängen, wie man zusammengesetzte Wörter zählt.",
+      "sources": [
+        { "label": "1. Mose 1,1–2,3 im Hebräischen (zähle die Wörter selbst)", "kind": "text" },
+        { "label": "U. Cassuto, A Commentary on the Book of Genesis, Teil 1 (1961)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "refrain-and-missing-good",
+      "order": 2,
+      "category": "poetry",
+      "title": "Ein Refrain und ein fehlendes „gut“",
+      "verses": "1. Mose 1,3–31",
+      "insight": "Jeder Tag folgt einem Muster: „Gott sprach … und es geschah so … Gott sah, dass es gut war … da ward aus Abend und Morgen …“. Das Muster ist nicht mechanisch. Im hebräischen Text sagt der zweite Tag nie „gut“, der dritte sagt es zweimal, und der sechste endet mit „sehr gut“. (Einige alte Übersetzungen fügen dem zweiten Tag „gut“ hinzu.)",
+      "whyItMatters": "Dichter variieren einen Refrain, um etwas anzuzeigen. Der dritte Tag hat zwei Werke (Land und Pflanzen), darum bekommt er zwei „gut“. Der zweite Tag trennt Wasser, und das Wasser war in der alten Welt die Heimat des Chaos.",
+      "today": "Wenn du in der Bibel ein wiederkehrendes Muster liest, frag, wo es sich biegt. Der Bruch ist oft die Stelle, an der die Aussage liegt.",
+      "confidence": "mittel",
+      "caveat": "Das fehlende „gut“ ist eine Tatsache des Textes. Warum es fehlt, ist eine alte Vermutung (das Wasser) und nicht geklärt.",
+      "sources": [
+        { "label": "1. Mose 1,6–8 im Vergleich mit 1,10.12.18.21.25.31", "kind": "text" },
+        { "label": "G. Wenham, Genesis 1–15 (WBC), zum zweiten Tag", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "forming-and-filling",
+      "order": 3,
+      "category": "structure",
+      "title": "Formen und Füllen",
+      "verses": "1. Mose 1,3–31",
+      "insight": "Die Tage 1–3 formen Räume, die Tage 4–6 füllen sie. Dem Licht (1) antworten die Lichter am Himmel (4). Himmel und Meer (2) werden beantwortet durch Vögel und Fische (5). Land und Pflanzen (3) werden beantwortet durch Landtiere und Menschen (6). Tag 3 und Tag 6 haben außerdem eine doppelte Handlung gemeinsam (zwei „gut“ am dritten Tag; Tiere und Menschen am sechsten).",
+      "whyItMatters": "Der Entwurf lässt 1. Mose sagen, dass die Schöpfung geordnet und dann bewohnt ist und dass die Abfolge als Muster gelesen werden soll. Das ist ein Grund, warum viele Forscher die Tage als literarisch und nicht als zeitlichen Bericht lesen.",
+      "today": "Ein gutes Zuhause wird sowohl gebaut als auch gefüllt. Der Aufbau hier schafft Raum, bevor er Bewohner schafft.",
+      "confidence": "mittel",
+      "caveat": "Die Zuordnung ist weit verbreitet, aber nicht alle sind einig, was sie über die Tage bedeutet (wörtliche Tage, Tag-Zeitalter- und Rahmen-Lesart benutzen sie alle).",
+      "sources": [
+        { "label": "1. Mose 1 (Tage 1–3 mit Tagen 4–6 vergleichen)", "kind": "text" },
+        { "label": "M. Kline, „Because It Had Not Rained“ (1958) und C. Blocher, In the Beginning (1984), zur Rahmen-Lesart", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "no-sun-no-moon",
+      "order": 4,
+      "category": "background",
+      "title": "Sonne und Mond haben keine Namen",
+      "verses": "1. Mose 1,14–18",
+      "insight": "In den umgebenden Kulturen waren Sonne und Mond Götter mit Namen (zum Beispiel Schamasch und Sin in Mesopotamien). 1. Mose nennt sie nie. Sie sind „das große Licht“ und „das kleine Licht“, an den Himmel gesetzt, um zu dienen, Zeiten zu markieren und Licht zu geben. Das Wort für „Tiefe“ (tehom) ist ebenfalls ein schlichtes Hauptwort.",
+      "whyItMatters": "Viele Leser sehen hier ein leises Argument: Die Mächte, die die Nachbarn anbeteten, sind Gegenstände in Gottes Schöpfung. Darum kann 1. Mose so ruhig klingen. Es liegt nicht im Kampf mit diesen Mächten.",
+      "today": "Vieles, was wir für ultimativ halten (ein Markt, eine Karriere, ein Bild von uns selbst), ist ein „kleines Licht“. 1. Mose gibt die Erlaubnis, es als Lampe zu sehen.",
+      "confidence": "mittel",
+      "caveat": "Dass das Fehlen der Namen Absicht ist, ist eine Deutung. Die hebräischen Wörter für Sonne (schemesch) und Mond (jareach) gibt es und werden anderswo gebraucht. Ob 1. Mose 1 an die babylonische Kampferzählung anklingt, ist umstritten: Gunkel sagte ja (tehom von Tiamat), Tsumura leitet tehom von einem allgemeinen Wort für Ozean ab, und Levenson nennt 1. Mose 1 „Schöpfung ohne Widerstand“.",
+      "sources": [
+        { "label": "1. Mose 1,14–18", "kind": "text" },
+        { "label": "J. Walton, Ancient Near Eastern Thought and the Old Testament (2006)", "kind": "primary-todo" },
+        { "label": "J. Levenson, Creation and the Persistence of Evil (1988)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "image-of-god-and-kings",
+      "order": 5,
+      "category": "background",
+      "title": "Jeder Mensch als „Bild Gottes“",
+      "verses": "1. Mose 1,26–28",
+      "insight": "In Ägypten und Mesopotamien war der König das Bild des Gottes. 1. Mose sagt das von jedem Menschen, Mann und Frau, und gibt allen die Aufgabe zu herrschen, statt sie einem König vorzubehalten. In der mesopotamischen Erzählung Atrachasis werden die Menschen gemacht, um die Arbeit der Götter zu übernehmen. In 1. Mose werden Menschen gemacht, um Gott zu vertreten und für die Welt zu sorgen.",
+      "whyItMatters": "Darum ist die Aussage „beide gleich geschaffen“ in ihrem Umfeld eine starke Aussage, und darum lässt sich 1. Mose 1 nicht leicht benutzen, um einen Menschen über einen anderen zu stellen.",
+      "today": "Würde wird nicht verdient oder verloren. Der Text legt sie an den Anfang, bevor jemand etwas getan hat.",
+      "confidence": "mittel",
+      "caveat": "Ich habe diese Angaben nicht in Primärausgaben des Atrachasis oder der ägyptischen Quellen geprüft.",
+      "sources": [
+        { "label": "1. Mose 1,26–28", "kind": "text" },
+        { "label": "J. R. Middleton, The Liberating Image (2005)", "kind": "primary-todo" },
+        { "label": "Atrachasis (Übers. W. G. Lambert und A. R. Millard, 1969)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "adam-adamah-arum",
+      "order": 6,
+      "category": "language",
+      "title": "Erdling, nackt und listig",
+      "verses": "1. Mose 2,7.25; 3,1",
+      "insight": "Das Hebräische spielt hier mit Klängen, und das Deutsche verbirgt es. Der Mensch (adam) wird aus dem Erdboden (adamah) geformt, der Name sagt also „Erdling“. Mann und Frau sind „nackt“ (arummim, 2,25), und im nächsten Vers heißt es, die Schlange war „listig“ (arum, 3,1). Ein Wort, zwei Bedeutungen: bloß und klug.",
+      "whyItMatters": "Der Verfasser verbindet die beiden Verse absichtlich. Die Nacktheit ohne Scham in 2,25 ist die Stelle, an der die „List“ der Schlange zuschlagen wird, und 3,7 zeigt das Ergebnis: Sie erkennen, dass sie nackt sind (ejrummim).",
+      "today": "Was in der Erzählung wie eine Schwäche aussieht (bloß zu sein), war der Sinn der Geborgenheit. Die Kunst der Schlange besteht darin, Offenheit in Angst zu verwandeln.",
+      "confidence": "hoch",
+      "caveat": "Die Wörter sind echtes Hebräisch. Ein beabsichtigtes Wortspiel ist die übliche Lesart, keine Gewissheit.",
+      "sources": [
+        { "label": "1. Mose 2,7; 2,25; 3,1; 3,7 (Hebräisch oder eine Interlinear-Ausgabe)", "kind": "text" }
+      ]
+    },
+    {
+      "id": "reverse-order",
+      "order": 7,
+      "category": "structure",
+      "title": "Gott kehrt die Reihenfolge der Sünde um",
+      "verses": "1. Mose 3,1–19",
+      "insight": "Die Versuchung geht von der Schlange zur Frau zum Mann (3,1–6). Als Gott nachforscht, fragt er zuerst den Mann (3,9), dann die Frau (3,13), und die Schlange wird überhaupt nicht befragt. Die Urteile folgen dann der Reihenfolge der Tat: Schlange (3,14), Frau (3,16), Mann (3,17).",
+      "whyItMatters": "Die Szene ist wie ein Gericht gebaut: Untersuchung vom Ende der Kette zurück zu ihrem Anfang, dann das Urteil. Sie zeigt Gott als sorgfältigen Richter und nicht als zornigen und beantwortet „wer ist schuld“ mit drei Personen und einer Schlange statt mit einer.",
+      "today": "Echte Verantwortung beginnt mit Fragen. Gott fragt und gibt jedem die Gelegenheit zu sprechen, bevor er eine Folge nennt.",
+      "confidence": "hoch",
+      "caveat": "Die Reihenfolge ist im Text eindeutig. Die „Gerichts“-Lesart ist eine verbreitete Deutung.",
+      "sources": [
+        { "label": "1. Mose 3,1–19", "kind": "text" }
+      ]
+    },
+    {
+      "id": "garden-as-sanctuary",
+      "order": 8,
+      "category": "background",
+      "title": "Eden sieht aus wie ein Tempel",
+      "verses": "1. Mose 2,8–15; 3,8.24",
+      "insight": "Der Mann wird dort eingesetzt, „damit er ihn bebaue und bewahre“ (leawdah uleschomrah, 2,15). Dieselben zwei Verben stehen später zusammen für die Aufgaben der Leviten am Zelt der Begegnung (4. Mose 3,7–8; 8,26; 18,5–6). Gott „wandelt“ im Garten (3,8) mit dem Verb, das sein Gehen unter seinem Volk in 3. Mose 26,12 beschreibt. Nach der Vertreibung bewachen Cherubim die Ostseite (3,24), und in Israels Heiligtum lag der Eingang im Osten, und Cherubim waren in den Vorhang gewebt.",
+      "whyItMatters": "Wenn Eden ein erstes Heiligtum ist, dann ist die Aufgabe des Mannes eher die eines „Priester-Gärtners“, und der Verlust Edens ist der Verlust des Zugangs zu Gottes Gegenwart. Darum lassen sich 1. Mose, die Stiftshütte und die Offenbarung zusammen lesen, und der Baum des Lebens kehrt in Offenbarung 2,7 und 22,2.14 wieder.",
+      "today": "Arbeit und Gottesdienst sind in diesem Bild nicht getrennt. „Hüter“ eines Ortes zu sein, kann eine Form der Aufmerksamkeit für Gott sein.",
+      "confidence": "mittel",
+      "caveat": "Das ist ein weit verbreiteter Vorschlag, aber immer noch ein Vorschlag. Die Wortverbindungen stehen im Text, während die Behauptung, Eden sei ein Tempel gewesen, von Forschern (Wenham, Beale, Walton) vertreten und von anderen angefragt wird.",
+      "sources": [
+        { "label": "1. Mose 2,15; 4. Mose 3,7–8; 8,26; 18,5–6; 3. Mose 26,12; Offenbarung 22,2.14", "kind": "text" },
+        { "label": "G. Wenham, „Sanctuary Symbolism in the Garden of Eden Story“ (1986)", "kind": "primary-todo" },
+        { "label": "G. K. Beale, The Temple and the Church’s Mission (2004)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "desire-and-rule-echo",
+      "order": 9,
+      "category": "intertext",
+      "title": "„Verlangen“ und „herrschen“: zwei Verse, die einander spiegeln",
+      "verses": "1. Mose 3,16; 4,7",
+      "insight": "Zwei Verse teilen ein seltenes Wortpaar. Zur Frau (3,16): „Dein Verlangen (teschuka) soll nach deinem Mann sein, und er soll über dich herrschen (maschal).“ Zu Kain (4,7): „Die Sünde lauert vor der Tür. Ihr Verlangen (teschuka) steht nach dir, du aber sollst über sie herrschen (maschal).“ Der Wortlaut ist fast derselbe, und die einzige andere Stelle mit teschuka ist Hoheslied 7,11.",
+      "whyItMatters": "Manche Forscher (zum Beispiel Susan Foh) lesen 3,16 von 4,7 her: „Verlangen“ sei ein Trieb zu kontrollieren, und der Vers beschreibe einen Kampf. Andere lesen es als Sehnsucht oder als Sog der Abhängigkeit. Der Spiegel ist echt, und was er bedeutet, ist umstritten.",
+      "today": "Beide Verse beschreiben, was in einer zerbrochenen Welt schiefgeht, und sind keine Anweisungen. 4,7 endet mit dem Aufruf, die Sünde zu beherrschen, was zeigt, dass Beschreibung nicht Bestimmung ist.",
+      "confidence": "mittel",
+      "caveat": "Der gemeinsame Wortschatz ist nachprüfbar. Die Bedeutung von teschuka in 3,16 ist eine lange Debatte, und diese Karte entscheidet sie nicht. Der Satz in 3,16 beschreibt eine Folge, und niemand sollte ihn als Befehl behandeln.",
+      "safeguard": "„Er wird über dich herrschen“ beschreibt, was zerbricht, und ist keine Erlaubnis. Der Satz wurde zitiert, um Herrschaft zu entschuldigen, was der Text nicht tut.",
+      "sources": [
+        { "label": "1. Mose 3,16; 4,7; Hoheslied 7,11", "kind": "text" },
+        { "label": "S. T. Foh, „What Is the Woman’s Desire?“, Westminster Theological Journal 37 (1975)", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "where-are-you-where-is-your-brother",
+      "order": 10,
+      "category": "narrative",
+      "title": "Gottes Fragen: „Wo bist du?“ und „Wo ist dein Bruder?“",
+      "verses": "1. Mose 3,9; 4,9–10",
+      "insight": "In 1. Mose 3 fragt Gott den Mann: „Wo bist du?“ In 1. Mose 4 fragt er Kain: „Wo ist dein Bruder Abel?“ In beiden Fällen kennt Gott die Antwort und gibt dem Menschen die Gelegenheit zu sprechen. In 4,10 „schreit“ Abels Blut (hebräisch „Blute“, Plural) vom Erdboden, und der Boden selbst wird Kain nicht mehr seinen Ertrag geben (4,12). Die Erde, aus der der Mensch gemacht wurde (2,7), trägt jetzt die Stimme des Ermordeten.",
+      "whyItMatters": "Die beiden Szenen sind ein Paar. Die erste Frage gilt der Beziehung eines Menschen zu Gott, die zweite seiner Beziehung zu anderen. Die Bibel hält die beiden Fragen zusammen.",
+      "today": "Welche der beiden Fragen fällt dir leichter zu beantworten? Viele Menschen bekommen nur eine von beiden gestellt.",
+      "confidence": "hoch",
+      "caveat": "Das „Blute“ im Plural ist eine Tatsache des Hebräischen. Seine rabbinische Deutung (es schließt Abels Nachkommen ein, die nie geboren werden würden) ist spätere Überlieferung.",
+      "sources": [
+        { "label": "1. Mose 3,9; 4,9–12", "kind": "text" }
+      ]
+    },
+    {
+      "id": "two-lamechs",
+      "order": 11,
+      "category": "structure",
+      "title": "Zwei Stammbäume und zwei Lamechs",
+      "verses": "1. Mose 4,17–24; 5,1–32",
+      "insight": "Kains Linie (4,17–24) und Sets Linie (Kapitel 5) teilen ähnlich klingende Namen: Henoch, Irad/Jered, Mehujael/Mahalalel, Metuschael/Metuschelach und Lamech in beiden. Kains Linie läuft sieben Generationen und endet mit einem Lamech, der mit Rache prahlt und zwei Frauen hat. Sets Linie hat zehn Generationen, und ihr Lamech nennt seinen Sohn voll Hoffnung Noah: „Der wird uns trösten in unserer Mühe“ (5,29).",
+      "whyItMatters": "Der Verfasser stellt zwei Familien nebeneinander: eine, die Städte, Künste und Waffen baut, und eine, die den HERRN anruft (4,26). Derselbe Name kann zwei Wege gehen, und Noah ist die Wende.",
+      "today": "Zwei Familien können ähnlich klingen und sich darin unterscheiden, was sie mit Macht tun. Die Wahl wiederholt sich in jeder Generation.",
+      "confidence": "mittel",
+      "caveat": "Die ähnlichen Namen sind im Hebräischen sichtbar. Quellenkritiker erklären sie als zwei Fassungen einer Liste, andere lesen sie als bewussten Gegensatz. Beide Erklärungen behalten den Gegensatz.",
+      "sources": [
+        { "label": "1. Mose 4,17–26; 5,1–32", "kind": "text" },
+        { "label": "G. Wenham, Genesis 1–15 (WBC), zu den beiden Stammbäumen", "kind": "primary-todo" }
+      ]
+    },
+    {
+      "id": "abel-is-breath",
+      "order": 12,
+      "category": "language",
+      "title": "Abel ist „Hauch“",
+      "verses": "1. Mose 4,2; Prediger 1,2",
+      "insight": "Der Name Abel ist hebel, das Wort, das der Prediger für die Flüchtigkeit des Lebens gebraucht, die einem Dampf gleicht („Hebel der Hebel“). In der Erzählung hat er das kürzeste Leben und keine Kinder. 1. Mose sagt nicht, warum Eva den Namen wählte, aber wer Hebräisch konnte, hörte den Klang von „Atem“.",
+      "whyItMatters": "Ein Name wirkt in einer hebräischen Erzählung als Signal. Ein Leser hört im Voraus, dass Abels Rolle kurz sein wird. Das heißt nicht, dass Eva von ihrem ersten Sohn enttäuscht war: Der Text sagt das nie.",
+      "today": "Ein kurzes Leben ist kein kleines Leben. Abel ist der erste Mensch, den die Bibel gerecht nennt (Matthäus 23,35), und der erste, der noch nach dem Tod spricht (Hebräer 11,4).",
+      "confidence": "hoch",
+      "caveat": "Die Verbindung zwischen Name und Wort ist gesichert. Warum Eva ihn wählte, wird nie gesagt.",
+      "sources": [
+        { "label": "1. Mose 4,2; Prediger 1,2; Matthäus 23,35; Hebräer 11,4", "kind": "text" }
+      ]
+    }
+  ]
+}

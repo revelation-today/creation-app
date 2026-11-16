@@ -76,8 +76,17 @@
             ]
           },
           "quickCheck": "If you retell the days from memory, birds belong to Day 5 with the sea creatures, not to Day 6.",
-          "insights": ["sevens-in-genesis-1", "refrain-and-missing-good", "forming-and-filling", "no-sun-no-moon", "image-of-god-and-kings"],
-          "cards": ["day-5-6-birds", "let-us-make"]
+          "insights": [
+            "sevens-in-genesis-1",
+            "refrain-and-missing-good",
+            "forming-and-filling",
+            "no-sun-no-moon",
+            "image-of-god-and-kings"
+          ],
+          "cards": [
+            "day-5-6-birds",
+            "let-us-make"
+          ]
         },
         {
           "title": "Day 2: The garden",
@@ -103,9 +112,11 @@
           },
           "discoveries": [
             {
-              "heading": "A second voice",
+              "heading": "Two ways of telling creation",
               "text": [
-                "In chapter 1 the name is Elohim. Here it is the LORD God (YHWH Elohim). In chapter 1 the humans come last, after the plants and animals. Here the man comes first, then the trees, the animals and the woman. The style changes from a patterned liturgy to a close-up story. Source critics explain this as two sources, the Priestly and the Yahwist. Others keep one author or editor and read 2:4 as the heading of a new section, with chapter 2 as a zoom-in. Both agree that the two units say different things in different ways, which is a good reason to let each speak for itself."
+                "In chapter 1 the name is Elohim. Here it is the LORD God (YHWH Elohim). In chapter 1 the humans come last. Here the man comes first, then the trees, the animals and the woman. The style changes from a patterned liturgy to a close-up story.",
+                "Notice also the mood. In chapter 1 everything is ‘good’ and finished. Chapter 2 holds the first thing God calls ‘not good’, which you will meet tomorrow. One way to read the difference is by what each chapter is for: chapter 1 shows creation as a finished order, and chapter 2 tells it as a story about a person, driven by a lack. On that reading the two chapters do not contradict each other, because they do different jobs.",
+                "Scholars explain the doubling in other ways too. Source critics see two sources (Priestly and Yahwist). Others see one author or editor, with 2:4 as the heading of a new section and chapter 2 as a zoom-in. These readings do not exclude each other, and all agree that the two units say different things in different ways. It is good to know which voice is speaking, and what it is doing."
               ]
             },
             {
@@ -138,8 +149,15 @@
             ]
           },
           "quickCheck": "The word in Genesis is ‘garden’ (gan). ‘Paradise’ comes from an Old Iranian word for a walled park that reached the Bible through the Greek translation. And work comes before the curse, not after it.",
-          "insights": ["adam-adamah-arum", "garden-as-sanctuary"],
-          "cards": ["two-accounts", "work-as-curse", "paradise-word"]
+          "insights": [
+            "adam-adamah-arum",
+            "garden-as-sanctuary"
+          ],
+          "cards": [
+            "two-accounts",
+            "work-as-curse",
+            "paradise-word"
+          ]
         },
         {
           "title": "Day 3: Two become one",
@@ -207,8 +225,14 @@
             ]
           },
           "quickCheck": "‘Wow-man’ is an English sound-joke and is not in the Hebrew. ‘Life-saver’ is a gloss, not a translation of ezer. And a Hebrew word-study should never be the only support for how two people share a life.",
-          "insights": ["adam-adamah-arum"],
-          "cards": ["wow-man", "ezer-helper", "rib"]
+          "insights": [
+            "adam-adamah-arum"
+          ],
+          "cards": [
+            "wow-man",
+            "ezer-helper",
+            "rib"
+          ]
         },
         {
           "title": "Day 4: A question that shrinks",
@@ -278,8 +302,16 @@
           },
           "quickCheck": "The fruit is never named, and the apple is a later European picture. The claim that the Hebrew word for ‘male’ (zakar) means ‘the one who remembers’ fails whatever the etymology, since a word’s meaning comes from its use and not from shared consonants.",
           "safeguard": "Genesis 3 is often used to say who should lead, or who is to blame. If you have been told that this story makes you responsible for another person’s behaviour, or that you must submit, the text does not say so.",
-          "insights": ["adam-adamah-arum"],
-          "cards": ["apple", "serpent-is-satan", "eve-adds-touch", "zakar-remember", "failure-to-lead"]
+          "insights": [
+            "adam-adamah-arum"
+          ],
+          "cards": [
+            "apple",
+            "serpent-is-satan",
+            "eve-adds-touch",
+            "zakar-remember",
+            "failure-to-lead"
+          ]
         },
         {
           "title": "Day 5: Questions before verdicts",
@@ -353,8 +385,17 @@
           },
           "quickCheck": "Neither the man nor the woman is called cursed. The word ‘fall’ is not in the chapter, and Augustine, the Orthodox churches and rabbinic Judaism read it in different ways. The skins are not described as a sacrifice.",
           "safeguard": "Verses like 3:16 have been used to excuse control and harm in relationships. The text announces a consequence of a broken world and gives no command to dominate or to submit to abuse.",
-          "insights": ["reverse-order", "desire-and-rule-echo", "garden-as-sanctuary"],
-          "cards": ["god-cursed-eve", "the-fall", "protoevangelium", "garments-of-skin"]
+          "insights": [
+            "reverse-order",
+            "desire-and-rule-echo",
+            "garden-as-sanctuary"
+          ],
+          "cards": [
+            "god-cursed-eve",
+            "the-fall",
+            "protoevangelium",
+            "garments-of-skin"
+          ]
         },
         {
           "title": "Day 6: Before the deed",
@@ -424,8 +465,17 @@
           },
           "quickCheck": "‘Treasure’ is not a standard rendering of Cain. The sign on Cain is never described and has nothing to do with skin colour. And God’s mercy to Cain does not remove his consequences, nor does it say that anyone must reconcile with a person who has not changed.",
           "safeguard": "God’s mercy to Cain does not tell anyone to forgive or reconcile with a person who has harmed them and has not changed.",
-          "insights": ["abel-is-breath", "where-are-you-where-is-your-brother", "desire-and-rule-echo"],
-          "cards": ["cain-treasure", "abel-offering", "cain-repents", "mark-of-cain"]
+          "insights": [
+            "abel-is-breath",
+            "where-are-you-where-is-your-brother",
+            "desire-and-rule-echo"
+          ],
+          "cards": [
+            "cain-treasure",
+            "abel-offering",
+            "cain-repents",
+            "mark-of-cain"
+          ]
         },
         {
           "title": "Day 7: Two families",
@@ -487,8 +537,12 @@
             ]
           },
           "quickCheck": "The claim that Lamech boasts only in private is not in the text, and it is one reading of an unclear verb.",
-          "insights": ["two-lamechs"],
-          "cards": ["lamech-boast"],
+          "insights": [
+            "two-lamechs"
+          ],
+          "cards": [
+            "lamech-boast"
+          ],
           "finish": "Take the quiz to review the week."
         }
       ]
@@ -553,8 +607,18 @@
             ]
           },
           "quickCheck": "Birds are on Day 5, with the sea creatures. A retelling from memory often moves them to Day 6.",
-          "insights": ["sevens-in-genesis-1", "forming-and-filling", "image-of-god-and-kings", "no-sun-no-moon", "refrain-and-missing-good"],
-          "cards": ["day-5-6-birds", "two-accounts", "let-us-make"]
+          "insights": [
+            "sevens-in-genesis-1",
+            "forming-and-filling",
+            "image-of-god-and-kings",
+            "no-sun-no-moon",
+            "refrain-and-missing-good"
+          ],
+          "cards": [
+            "day-5-6-birds",
+            "two-accounts",
+            "let-us-make"
+          ]
         },
         {
           "title": "Evening 2: Two people, one garden",
@@ -610,8 +674,18 @@
             ]
           },
           "quickCheck": "The Hebrew word in Genesis is ‘garden’ (gan). ‘Paradise’ is a later word that reached the Bible through the Greek translation.",
-          "insights": ["garden-as-sanctuary", "adam-adamah-arum"],
-          "cards": ["wow-man", "ezer-helper", "rib", "zakar-remember", "paradise-word", "work-as-curse"]
+          "insights": [
+            "garden-as-sanctuary",
+            "adam-adamah-arum"
+          ],
+          "cards": [
+            "wow-man",
+            "ezer-helper",
+            "rib",
+            "zakar-remember",
+            "paradise-word",
+            "work-as-curse"
+          ]
         },
         {
           "title": "Evening 3: Blame and mercy",
@@ -674,8 +748,21 @@
           },
           "quickCheck": "The apple is a later picture, and the fruit is never named.",
           "safeguard": "Verses from Genesis 3 are sometimes used to justify control in a relationship. The text announces consequences of a broken world and gives no command to dominate or to submit to abuse.",
-          "insights": ["reverse-order", "desire-and-rule-echo", "adam-adamah-arum"],
-          "cards": ["apple", "serpent-is-satan", "eve-adds-touch", "failure-to-lead", "god-cursed-eve", "garments-of-skin", "protoevangelium", "the-fall"]
+          "insights": [
+            "reverse-order",
+            "desire-and-rule-echo",
+            "adam-adamah-arum"
+          ],
+          "cards": [
+            "apple",
+            "serpent-is-satan",
+            "eve-adds-touch",
+            "failure-to-lead",
+            "god-cursed-eve",
+            "garments-of-skin",
+            "protoevangelium",
+            "the-fall"
+          ]
         },
         {
           "title": "Evening 4: Anger, violence and a different line",
@@ -739,8 +826,19 @@
           "quickCheck": "‘Treasure’ is not a standard rendering of Cain’s name. The sign on Cain has no link to skin colour.",
           "safeguard": "God’s mercy to Cain does not tell anyone to forgive or reconcile with a person who has harmed them and has not changed.",
           "finish": "End with the quiz as a game, in teams.",
-          "insights": ["abel-is-breath", "where-are-you-where-is-your-brother", "two-lamechs", "desire-and-rule-echo"],
-          "cards": ["cain-treasure", "abel-offering", "cain-repents", "mark-of-cain", "lamech-boast"]
+          "insights": [
+            "abel-is-breath",
+            "where-are-you-where-is-your-brother",
+            "two-lamechs",
+            "desire-and-rule-echo"
+          ],
+          "cards": [
+            "cain-treasure",
+            "abel-offering",
+            "cain-repents",
+            "mark-of-cain",
+            "lamech-boast"
+          ]
         }
       ]
     }

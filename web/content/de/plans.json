@@ -1,0 +1,751 @@
+{
+  "plans": [
+    {
+      "id": "week",
+      "title": "1. Mose 1–4 in sieben Tagen",
+      "audience": "Einzelne Leser",
+      "minutes": "10–15 Minuten pro Tag",
+      "description": "Sieben kurze Andachten. Jede beginnt mit einer Geschichte, legt den Abschnitt aus, zeigt, was sich in ihm zu entdecken lohnt, und endet mit etwas, das du in deinen Tag mitnehmen kannst. Die Mythenkarten und Einsichten stehen am Ende für alle, die die Quellen sehen wollen.",
+      "days": [
+        {
+          "title": "Tag 1: Die erste Woche",
+          "passage": "1. Mose 1,1–2,3",
+          "summary": "Ein Gedicht über eine Welt, die bereitet, mit Freude angesehen und in Ruhe beendet wird.",
+          "story": {
+            "title": "Das Zimmer",
+            "text": [
+              "Marta hat sechs Abende, bevor das Baby kommt, und das Gästezimmer ist leer. Am ersten Abend zieht sie die Vorhänge auf und lässt das Licht herein. Sie bleibt in der Tür stehen und schaut. Am zweiten stellt sie die Wände und die Decke fertig. Am dritten legt sie den Boden und stellt eine Pflanze hinein. Jeden Abend sagt sie, was sie als Nächstes tun wird, tut es, tritt zurück und betrachtet es. Jeden Abend derselbe stille Gedanke: gut.",
+              "Am vierten Abend hängt sie eine Lampe auf. Am fünften befestigt sie ein Vogelmobile über dem Kinderbett, und am sechsten trägt sie das Bett hinein. Dann geht sie, den abzuholen, der dort wohnen wird.",
+              "Am siebten Abend ist nichts mehr zu tun. Sie setzt sich in das fertige Zimmer und geht nicht mehr weg.",
+              "Jemand hat einmal ein Gedicht über die ganze Welt in genau diesem Rhythmus geschrieben. Es ist die erste Seite der Bibel."
+            ]
+          },
+          "layout": {
+            "text": [
+              "Lies 1. Mose 1,1–2,3 zuerst laut, etwa fünf Minuten lang. Es wurde für das Ohr geschrieben. Dann sieh dir seine Gestalt an."
+            ],
+            "bullets": [
+              "Tag 1–3 schaffen die Räume: Licht und Dunkel; Himmel und Meer; Land und Pflanzen.",
+              "Tag 4–6 füllen sie: die Lichter am Himmel; Vögel und Fische; Landtiere und Menschen.",
+              "Tag 7 ruht.",
+              "Jeder Tag folgt einem Refrain: „Gott sprach … und es geschah so … Gott sah, dass es gut war … da ward aus Abend und Morgen …“",
+              "Der erste Satz hat sieben hebräische Wörter und der zweite vierzehn. Die Beschreibung des siebten Tages hat fünfunddreißig. Ob der Verfasser die Zählung geplant hat, ist offen, aber das Gedicht ist um die Sieben herum gebaut."
+            ]
+          },
+          "discoveries": [
+            {
+              "heading": "Die Welt wird angesehen, bevor sie gebraucht wird",
+              "text": [
+                "Sechsmal spricht Gott und hält dann inne, um hinzusehen. In diesem Gedicht kommt die Freude vor dem Gebrauch. Achte jetzt darauf, wo sich der Refrain biegt. Tag 3 sagt zweimal „gut“, und der sechste Tag endet mit „sehr gut“. Tag 2 sagt es gar nicht, und niemand weiß, warum. Lass das Schweigen offen."
+              ]
+            },
+            {
+              "heading": "Ein Haus, das bereitet wird",
+              "text": [
+                "Das Gedicht formt Räume, bevor es jemanden hineinsetzt: Licht, dann Lichter; Himmel und Meer, dann Vögel und Fische; Land, dann Tiere und Menschen. Viele Forscher lesen das als literarischen Rahmen, was ein Grund ist, warum sie die Tage nicht als Zeitplan lesen. Andere lesen sie als wörtliche Tage oder als Zeitalter, und alle diese Lesarten benutzen dieselbe Zuordnung."
+              ]
+            },
+            {
+              "heading": "Die Lampen",
+              "text": [
+                "Sonne und Mond werden nie genannt. Sie sind „das große Licht“ und „das kleine Licht“, an den Himmel gehängt, um Licht zu geben und Zeiten zu bestimmen. In der Welt ringsum waren sie Götter mit Namen, etwa Schamasch und Sin in Mesopotamien. Viele Leser hören hier eine leise Freiheit: Die größten Dinge am Himmel sind Lampen. Dass die ungenannten Lichter eine bewusste Entscheidung sind, ist eine Deutung, denn die hebräischen Wörter für Sonne und Mond gibt es."
+              ]
+            },
+            {
+              "heading": "Der Letzte im Raum",
+              "text": [
+                "Jeder Mensch, Mann und Frau, ist nach Gottes Bild gemacht. In Ägypten und Mesopotamien gehörte dieser Titel dem König, der für den Gott herrschte. Hier wird er allen gegeben, und es ist das Erste, was über Menschen gesagt wird, bevor sie irgendetwas getan haben. (Gottes „Lasst uns machen“ in 1,26 wurde als Dreieinigkeit gelesen, als Gott, der zum himmlischen Hofstaat spricht, oder als König, der mit sich selbst berät. Der Text sagt nicht, wer angesprochen wird.)"
+              ]
+            },
+            {
+              "heading": "Eine Woche, die in Ruhe endet",
+              "text": [
+                "Der siebte Tag hat kein „Abend und Morgen“, und an ihm wird nichts gemacht. Nach sechs Tagen des Machens ist der Höhepunkt der Woche ein Tag ohne Arbeit."
+              ]
+            }
+          ],
+          "apply": {
+            "bullets": [
+              "Schau, bevor du gebrauchst. Nimm heute einen gewöhnlichen Gegenstand, eine Tasse, ein Fenster oder einen Menschen, und sag „gut“, bevor du ihn benutzt.",
+              "Nenne eine Lampe. Was behandelst du als riesig, das eine Lampe sein könnte: eine Frist, eine Zahl, eine Meinung über dich?",
+              "Würde zuerst. Bevor du heute jemanden beurteilst oder ihm hilfst, denk daran, was das Gedicht über ihn sagt.",
+              "Halte diese Woche eine freie Stunde, in der du nichts hervorbringen musst."
+            ],
+            "questions": [
+              "Wo wurde dir etwas gegeben, bevor du etwas getan hast?"
+            ]
+          },
+          "quickCheck": "Wenn du die Tage aus dem Gedächtnis nacherzählst: Die Vögel gehören zum fünften Tag, zu den Meerestieren, nicht zum sechsten.",
+          "insights": ["sevens-in-genesis-1", "refrain-and-missing-good", "forming-and-filling", "no-sun-no-moon", "image-of-god-and-kings"],
+          "cards": ["day-5-6-birds", "let-us-make"]
+        },
+        {
+          "title": "Tag 2: Der Garten",
+          "passage": "1. Mose 2,4–17",
+          "summary": "Eine Nahaufnahme: ein Mensch, ein Garten, eine Aufgabe und eine Grenze.",
+          "story": {
+            "title": "Die Schlüssel",
+            "text": [
+              "Tomás hat gerade die Schlüssel zu einem Schrebergarten bekommen. Der bisherige Besitzer geht mit ihm die Beete entlang. „Gieß ihn abends. Pass darauf auf. Iss, was du willst, Bohnen, Tomaten, alles. Nur das eine Beet gehört mir nicht, das ich dir überlassen könnte, also lass es in Ruhe.“",
+              "Tomás hat eine Aufgabe bekommen, einen Ort und viel Freiheit, und nur eine Grenze. Er steht am Tor, die Schlüssel in der Hand, und merkt etwas Eigenartiges: Er denkt gar nicht an die Grenze. Er denkt daran, dass ihm jemand das hier anvertraut hat."
+            ]
+          },
+          "layout": {
+            "text": [
+              "Lies 1. Mose 2,4–17. Kapitel 2 erzählt die Geschichte noch einmal, aus der Nähe. Dir wird auffallen, dass sich etwas geändert hat."
+            ],
+            "bullets": [
+              "2,4–7: Die Erde ist trocken, und Gott, der HERR, formt den Menschen aus dem Erdboden und haucht ihm in die Nase.",
+              "2,8–14: Gott pflanzt einen Garten, und vier Flüsse gehen von ihm aus.",
+              "2,15: Der Mann wird in den Garten gesetzt, „damit er ihn bebaue und bewahre“.",
+              "2,16–17: Er darf von allen Bäumen essen, außer von einem."
+            ]
+          },
+          "discoveries": [
+            {
+              "heading": "Zwei Arten, von der Schöpfung zu erzählen",
+              "text": [
+                "In Kapitel 1 heißt der Name Elohim. Hier heißt er Gott, der HERR (JHWH Elohim). In Kapitel 1 kommen die Menschen zuletzt. Hier kommt zuerst der Mann, dann die Bäume, die Tiere und die Frau. Der Stil wechselt von einer geformten Liturgie zu einer Erzählung aus der Nähe.",
+                "Achte auch auf die Stimmung. In Kapitel 1 ist alles „gut“ und vollendet. Kapitel 2 enthält das Erste, was Gott „nicht gut“ nennt, dem du morgen begegnest. Eine Weise, den Unterschied zu lesen, ist danach zu fragen, wozu jedes Kapitel da ist: Kapitel 1 zeigt die Schöpfung als vollendete Ordnung, und Kapitel 2 erzählt sie als Geschichte über einen Menschen, die von einem Mangel getrieben wird. Nach dieser Lesart widersprechen sich die beiden Kapitel nicht, weil sie verschiedene Aufgaben haben.",
+                "Forscher erklären die Doppelung auch auf andere Weise. Quellenkritiker sehen zwei Quellen (Priesterschrift und Jahwist). Andere sehen einen Verfasser oder Redaktor, mit 2,4 als Überschrift eines neuen Abschnitts und Kapitel 2 als Heranzoomen. Diese Lesarten schließen einander nicht aus, und alle sind sich einig, dass die beiden Einheiten Verschiedenes auf verschiedene Weise sagen. Es ist gut zu wissen, welche Stimme spricht und was sie tut."
+              ]
+            },
+            {
+              "heading": "Erdling",
+              "text": [
+                "Der erste Mensch heißt adam, was nach adamah klingt, „Erdboden“. Das Deutsche verbirgt das Wortspiel, aber hebräische Hörer hörten es: Der Mensch ist ein Erdling, aus dem Boden geformt, um den er sich kümmern wird."
+              ]
+            },
+            {
+              "heading": "Eine Aufgabe, bevor etwas schiefgeht",
+              "text": [
+                "Der Mann wird in den Garten gesetzt, „damit er ihn bebaue und bewahre“ (2,15). Das geschieht, bevor die Erzählung irgendeine Schwierigkeit enthält, die Arbeit gehört also zum guten Anfang. Was sich in Kapitel 3 ändert, sind der Boden und die Art der Arbeit, mit Mühsal, Dornen und Schweiß. Dieselben zwei Verben, „bebauen“ und „bewahren“, stehen später zusammen für die Aufgaben der Leviten am Zelt der Begegnung (4. Mose 3,7–8). Das ist ein Grund, warum viele Forscher den Garten als erstes Heiligtum lesen und den Mann als Priester-Gärtner. Es ist ein weit verbreiteter Vorschlag, den andere anfragen."
+              ]
+            },
+            {
+              "heading": "Zuerst Großzügigkeit",
+              "text": [
+                "Das Gebot beginnt mit einem weiten Ja: „Von allen Bäumen des Gartens darfst du essen.“ Die Grenze kommt danach und ist ein einziger Baum. Beachte auch, dass sie gegeben wird, bevor die Frau existiert. Behalte das für Tag 4 im Kopf."
+              ]
+            }
+          ],
+          "apply": {
+            "bullets": [
+              "Denk daran, was dir anvertraut wurde: ein Zuhause, ein Team, ein Garten, ein Kind. Sag heute Danke dafür, in Worten.",
+              "Betrachte deine heutige Arbeit als etwas Gegebenes und nicht nur als Last. Wo steckt noch etwas Gutes darin?",
+              "Wo hast du eine einzige Grenze behandelt, als wäre sie die ganze Geschichte?"
+            ],
+            "questions": [
+              "Der Mann bekommt vor allem anderen eine Aufgabe und eine Grenze. Was sagt jedes davon darüber, wie Gott ihn sieht?"
+            ]
+          },
+          "quickCheck": "Das Wort in 1. Mose ist „Garten“ (gan). „Paradies“ kommt von einem altiranischen Wort für einen umfriedeten Park, das durch die griechische Übersetzung in die Bibel gelangte. Und die Arbeit kommt vor dem Fluch, nicht danach.",
+          "insights": ["adam-adamah-arum", "garden-as-sanctuary"],
+          "cards": ["two-accounts", "work-as-curse", "paradise-word"]
+        },
+        {
+          "title": "Tag 3: Zwei werden eins",
+          "passage": "1. Mose 2,18–25",
+          "summary": "Das Erste, was Gott „nicht gut“ nennt, und ein Gedicht des Erkennens.",
+          "story": {
+            "title": "Der leere Tisch",
+            "text": [
+              "Jonas ist für die Arbeit in eine neue Stadt gezogen. Die Wohnung ist sauber, die Stelle ist gut, der Kühlschrank ist voll. Am ersten Sonntag deckt er den Tisch für eine Person und isst mit Blick auf die Wand. Nichts ist falsch. Und er merkt, dass bei aller Ordnung eines fehlt, und es ist kein Ding.",
+              "Eine Woche später klopft eine Nachbarin, um sich eine Leiter zu leihen, und sie reden eine Stunde auf dem Flur. Es ist keine Rettung. Es ist nur das erste Mal in dieser Stadt, dass ihn jemand ansieht, als wäre er schon bekannt."
+            ]
+          },
+          "layout": {
+            "text": [
+              "Lies 1. Mose 2,18–25. Nach sieben „gut“ in Kapitel 1 steht hier das erste „nicht gut“."
+            ],
+            "bullets": [
+              "2,18: „Es ist nicht gut, dass der Mensch allein sei.“",
+              "2,19–20: Die Tiere werden zum Mann gebracht, und er benennt sie, aber ein Gegenüber wird nicht gefunden.",
+              "2,21–22: Gott lässt einen tiefen Schlaf auf den Mann fallen und baut aus „einer seiner Zelaot“ eine Frau.",
+              "2,23: Das Gedicht des Mannes.",
+              "2,24–25: Verlassen, anhangen und nackt sein ohne Scham."
+            ]
+          },
+          "discoveries": [
+            {
+              "heading": "Das erste „nicht gut“",
+              "text": [
+                "Das Problem, das die Erzählung benennt, ist nicht, dass der Mann ein schlechter Arbeiter wäre. Es ist, dass er allein ist. Gottes Antwort ist, ein Gegenüber zu suchen, und er bringt zuerst die Tiere. Das Benennen zeigt, dass keines von ihnen ein Gegenüber ist."
+              ]
+            },
+            {
+              "heading": "Eine Hilfe „ihm gegenüber“",
+              "text": [
+                "Gott sagt, er wolle einen eser kenegdo machen, „eine Hilfe, die ihm entspricht“. „Helferin“ ist eine faire Übersetzung, aber das Wort bedeutet nicht „Assistentin“. Im Alten Testament wird es oft von Gott als der Hilfe Israels gebraucht (zum Beispiel Psalm 121,1–2; 5. Mose 33,26.29), darum bedeutet „Hilfe sein“ nicht, niedriger zu stehen. Das zweite Wort fügt Entsprechung hinzu, wie zu wie. Forscher sind uneins, wie viel man darauf bauen darf, und die maßvolle Lesart ist die, die auf allen Seiten hält: Der Text gibt keinen Grund, die Frau als geringer zu behandeln."
+              ]
+            },
+            {
+              "heading": "Aus seiner Seite gemacht",
+              "text": [
+                "Das hebräische Wort zela bedeutet anderswo fast immer „Seite“, wie in den Seiten der Lade oder einem Berghang, darum lesen viele Übersetzer „eine seiner Seiten“. Das lateinische costa („Rippe“) prägte die deutsche Tradition, und ob „Rippe“ in diesem Vers noch möglich ist, ist umstritten. Die Pointe der Erzählung ist so oder so klar: Sie ist aus demselben Stoff gemacht wie der Mann, nicht aus Staub wie die Tiere. Das ist Verwandtschaft, nicht Rang."
+              ]
+            },
+            {
+              "heading": "Ein Gedicht des Erkennens",
+              "text": [
+                "Die ersten Worte des Mannes sind ein Gedicht: „Das ist endlich Bein von meinem Bein und Fleisch von meinem Fleisch.“ „Endlich“ ist der Klang der Erleichterung. Dann folgt ein Wortspiel mit dem Klang: Sie soll ischah (Frau) heißen, weil sie vom isch (Mann) genommen ist. Das Staunen ist echt, aber das Wortspiel ist isch und ischah. Ein Wortspiel kann einen Gedanken einprägsam machen, aber es kann ihn nicht beweisen."
+              ]
+            },
+            {
+              "heading": "Nackt und ohne Scham",
+              "text": [
+                "Die Szene endet damit, dass beide „nackt waren und sich nicht schämten“. Das Wort für nackt, arummim, klingt wie arum, „listig“, womit das nächste Kapitel beginnt. Behalte das Wort im Kopf, denn dort setzt die Schlange morgen an."
+              ]
+            }
+          ],
+          "apply": {
+            "bullets": [
+              "Wer in deinem Leben ist keine Hilfe im Sinne von „nützlich“, sondern jemand, der dich ansieht, als wärst du schon bekannt? Sag es ihm heute.",
+              "Wenn du der Alleinstehende bist, sag es jemandem. Die Erzählung sagt, dass Alleinsein das Erste ist, was nicht gut ist.",
+              "Achte darauf, wie du die Menschen in deiner Nähe beschreibst. Beschreibst du sie als Assistenten oder als Menschen „dir gegenüber“?"
+            ],
+            "questions": [
+              "Gott nennt das Erste, was „nicht gut“ ist. Was ist es, und wer löst es?"
+            ]
+          },
+          "quickCheck": "„Wow-man“ ist ein englischer Klangwitz und steht nicht im Hebräischen. „Lebensretterin“ ist eine Umschreibung und keine Übersetzung von eser. Und eine hebräische Wortstudie sollte nie die einzige Stütze dafür sein, wie zwei Menschen ihr Leben teilen.",
+          "insights": ["adam-adamah-arum"],
+          "cards": ["wow-man", "ezer-helper", "rib"]
+        },
+        {
+          "title": "Tag 4: Eine Frage, die schrumpft",
+          "passage": "1. Mose 3,1–7",
+          "summary": "Ein Gespräch, in dem eine großzügige Regel Stück für Stück verbogen wird.",
+          "story": {
+            "title": "Die blaue Dose",
+            "text": [
+              "Lenas Mutter sagt: „Nimm dir alles aus der Küche. Nur nicht die Kekse in der blauen Dose, die hebe ich für Sonntag auf.“ Später fragt Lenas Freundin ganz beiläufig: „Echt? Deine Mama hat gesagt, du darfst nichts zu essen nehmen?“",
+              "Lena sagt: „Nein, nur die blaue Dose.“ Dann, weil die Freundin zweifelnd schaut: „Wir dürfen sie nicht mal anfassen.“ Das hat ihre Mutter nie gesagt, aber es fühlt sich sicherer an.",
+              "Die Freundin zuckt mit den Schultern. „Sie würde es ja nicht merken.“ Lena schaut in die Küche. Zum ersten Mal sieht sie darin nur eine einzige Sache."
+            ]
+          },
+          "layout": {
+            "text": [
+              "Lies 1. Mose 3,1–7. Es ist ein kurzes Gespräch mit schnellem Ende, also lies langsam."
+            ],
+            "bullets": [
+              "3,1: Die Frage der Schlange.",
+              "3,2–3: Die Antwort der Frau.",
+              "3,4–5: Die Erwiderung der Schlange.",
+              "3,6: Sie sieht, nimmt und isst und gibt ihrem Mann, der „bei ihr“ (immah) ist.",
+              "3,7: Ihnen gehen die Augen auf, sie erkennen, dass sie nackt sind, und nähen sich Schurze."
+            ]
+          },
+          "discoveries": [
+            {
+              "heading": "Ein Geschöpf mit einem Wortspiel",
+              "text": [
+                "Die Schlange war „listiger (arum) als alle Tiere des Feldes, die Gott, der HERR, gemacht hatte“: Sie ist eines der Tiere. Das Wort arum klingt wie arummim, „nackt“, aus 2,25. Ein Klang, zwei Bedeutungen: bloß und klug. Die Kunst der Schlange besteht darin, Offenheit in Angst zu verwandeln. Die spätere christliche Lesart, dass die Schlange der Satan ist (zum Beispiel Offenbarung 12,9), ist alt und weit verbreitet, aber eine Lesart und steht nicht in diesem Kapitel."
+              ]
+            },
+            {
+              "heading": "Hör auf die erste Frage",
+              "text": [
+                "„Hat Gott wirklich gesagt: Ihr sollt von keinem Baum im Garten essen?“ Vergleiche sie mit dem, was Gott in 2,16–17 sagte, nämlich ein weites Ja und eine Ausnahme. Die Frage lässt die Großzügigkeit weg und macht die Grenze zur ganzen Geschichte. So schrumpft eine Regel: nicht durch eine Lüge, sondern durch eine Verschiebung der Betonung."
+              ]
+            },
+            {
+              "heading": "Ein kleiner Zusatz",
+              "text": [
+                "Die Antwort der Frau ist größtenteils genau, aber sie fügt hinzu: „rührt sie auch nicht an“. Gottes Gebot enthielt das nicht, und es wurde gegeben, bevor sie existierte. Der Text sagt nicht, wer die Worte hinzugefügt hat und warum. Bereschit Rabba wertet es als Fehler, während Raschi und Awot de-Rabbi Natan sagen, Adam habe es als schützenden „Zaun“ hinzugefügt. Die Lesart, dass Eva es aus Sorgfalt hinzufügte, hat keinen starken antiken Rückhalt. Welche du auch wählst: Eine Schutzregel, die zitiert wird, als hätte Gott sie gesagt, kann beginnen, den Grund zu ersetzen."
+              ]
+            },
+            {
+              "heading": "Die Frucht, und der, der bei ihr war",
+              "text": [
+                "1. Mose nennt die Frucht nie. Es sagt nur „die Frucht des Baumes“. Der Text sagt, der Mann war „bei ihr“. Ob er beim Gespräch war, ist umstritten: Das „ihr“ der Schlange in den Versen 1–5 steht im Plural, was manche als Zeichen nehmen, dass er dabei war, während andere sagen, „bei ihr“ beweise keine Anwesenheit. Die Wörter „führen“ und „Haupt-Sein“ kommen in diesen Versen nirgends vor. Der Abschnitt kann den Streit zwischen komplementaristischer und egalitärer Lesart nicht entscheiden und sollte nicht als Waffe darin benutzt werden."
+              ]
+            },
+            {
+              "heading": "Augen geöffnet",
+              "text": [
+                "Beide essen. Beide entdecken, dass sie nackt sind. Beide nähen sich Schurze. Die Offenheit, die Geborgenheit war, hat sich in Scham verwandelt, und das ist die Leistung der Schlange."
+              ]
+            }
+          ],
+          "apply": {
+            "bullets": [
+              "Hör diese Woche auf die Frage, die schrumpft: „Haben sie wirklich gesagt …?“ „Darfst du wirklich nicht …?“ Achte darauf, was sie weglässt.",
+              "Denk an eine Regel, die du zitierst und die ein bisschen länger ist als das Original. Dient sie noch ihrem Zweck, oder hat sie den Grund ersetzt?",
+              "Wenn du dich an eine Geschichte erinnerst, prüfe eine kleine Einzelheit an der Quelle. Das dauert zwei Minuten und schafft Vertrauen."
+            ],
+            "questions": [
+              "Lies die erste Frage der Schlange langsam. Was ändert sie an dem, was Gott gesagt hat?"
+            ]
+          },
+          "quickCheck": "Die Frucht wird nie genannt, und der Apfel ist ein späteres europäisches Bild. Die Behauptung, das hebräische Wort für „männlich“ (sachar) bedeute „der sich erinnert“, scheitert, wie auch immer die Sprachgeschichte ausfällt, denn die Bedeutung eines Wortes ergibt sich aus seinem Gebrauch und nicht aus gemeinsamen Konsonanten.",
+          "safeguard": "1. Mose 3 wird oft benutzt, um zu sagen, wer führen soll oder wer schuld ist. Wenn dir gesagt wurde, diese Geschichte mache dich verantwortlich für das Verhalten eines anderen Menschen oder du müsstest dich unterordnen: Der Text sagt das nicht.",
+          "insights": ["adam-adamah-arum"],
+          "cards": ["apple", "serpent-is-satan", "eve-adds-touch", "zakar-remember", "failure-to-lead"]
+        },
+        {
+          "title": "Tag 5: Fragen vor dem Urteil",
+          "passage": "1. Mose 3,8–24",
+          "summary": "Ein Gericht, das mit Fragen beginnt, und eine Schlussszene, in der Gott Menschen bekleidet, die versagt haben.",
+          "story": {
+            "title": "Hinter dem Sofa",
+            "text": [
+              "Die Vase liegt in Scherben auf dem Boden, und die achtjährige Noor versteckt sich hinter dem Sofa, als sie den Schlüssel in der Tür hört. Ihr Vater kommt herein, sieht das Chaos und schimpft zu ihrer Überraschung nicht. Er sagt: „Noor, wo bist du?“",
+              "Sie kommt hervor. „Hast du sie kaputt gemacht?“ „Es war der Hund.“ Der Hund wedelt mit dem Schwanz, als er seinen Namen hört. Ihr Vater muss fast lächeln. Von Strafe sagt er noch nichts. Er kniet sich hin und beginnt, die Scherben aufzusammeln, und er sagt ihr, sie solle ihre Hausschuhe holen, damit sie sich nicht die Füße schneidet."
+            ]
+          },
+          "layout": {
+            "text": [
+              "Lies 1. Mose 3,8–24. Es ist die längste Szene bisher, also lies sie in vier Teilen."
+            ],
+            "bullets": [
+              "3,8–13: Gott geht im Garten und stellt drei Fragen.",
+              "3,14–15: Das Urteil über die Schlange.",
+              "3,16–19: Die Folgen für die Frau und den Mann.",
+              "3,20–24: Evas Name, die Röcke aus Fell und der Auszug."
+            ]
+          },
+          "discoveries": [
+            {
+              "heading": "Ein Spaziergang und eine Frage",
+              "text": [
+                "Sie hören Gott im Garten „wandeln“. Dasselbe Verb steht für Gottes Gegenwart unter seinem Volk in 3. Mose 26,12. Der Mann versteckt sich. Gottes erste Worte sind keine Anklage, sondern eine Frage: „Wo bist du?“ Dann „Wer hat dir gesagt, dass du nackt bist?“ und „Was hast du getan?“"
+              ]
+            },
+            {
+              "heading": "Ein Gericht, das rückwärts läuft",
+              "text": [
+                "Gott fragt zuerst den Mann (3,9), dann die Frau (3,13), und die Schlange wird überhaupt nicht befragt. Dann folgen die Urteile in der Reihenfolge der Tat: Schlange, Frau, Mann. Die Szene ist wie ein Gericht gebaut, mit Untersuchung vom Ende der Kette zurück zu ihrem Anfang und dann dem Urteil. Alle zeigen auf jemand anderen: der Mann auf die Frau, „die du mir gegeben hast“, die Frau auf die Schlange. Jedes ist zum Teil wahr, und jedes weicht der Frage aus. Die Szene ist nützlicher als Spiegel denn als Entscheidung darüber, wer schuld ist, und sie gibt keinen Anhalt, Schuld zwischen den Geschlechtern zu gewichten."
+              ]
+            },
+            {
+              "heading": "Wer verflucht genannt wird",
+              "text": [
+                "Achte auf das Wort „verflucht“ (arur). Gott sagt es zur Schlange (3,14) und zum Erdboden „um deinetwillen“ (3,17). Zur Frau oder zum Mann sagt er es nicht. Sie erhalten Folgen: Schmerz, Mühsal und die Rückkehr zum Staub. Not ist hier eine Folge und nicht dasselbe wie ein Fluch über die Person."
+              ]
+            },
+            {
+              "heading": "Vers 15",
+              "text": [
+                "Gott sagt der Schlange, es werde Feindschaft sein zwischen ihrem Samen und dem Samen der Frau: „Er wird dir den Kopf zertreten, und du wirst ihn in die Ferse stechen.“ „Same“ ist ein Sammelbegriff, und niemand wird genannt. Die erste erhaltene christliche Lesart, die den Vers mit Christus verbindet, stammt von Irenäus (um 180). Jüdische Lesarten sind vielfältiger als „nicht messianisch“: Die palästinischen Targume sprechen von Heilung in den Tagen des Messias, und der Vers wird sonst moralisch und kollektiv gelesen. Wem Unrecht geschehen ist, kann darin hören, dass das Böse ein Urteil bekommt und der Schaden nicht das letzte Wort ist, und das kann man glauben, ohne zu behaupten, dass der Vers Jesus nennt."
+              ]
+            },
+            {
+              "heading": "Vers 16",
+              "text": [
+                "Zur Frau: „Dein Verlangen (teschuka) soll nach deinem Mann sein, und er soll über dich herrschen.“ Das ist ein schwerer Vers, und seine Bedeutung ist umstritten. Er kündigt eine Folge einer zerbrochenen Welt an und gibt keine Anweisung. Dem seltenen Wort teschuka begegnest du morgen wieder, an anderer Stelle."
+              ]
+            },
+            {
+              "heading": "Kleider und eine Tür",
+              "text": [
+                "Die Szene endet mit einer Tat: „Gott, der HERR, machte Adam und seiner Frau Röcke aus Fell und bekleidete sie.“ Der Vers erwähnt keinen Altar, kein Blut und keine Sühne. Viele Christen haben darin einen Hinweis auf Opfer und auf Christi Bedeckung der Sünde gesehen, und das ist eine lange und achtbare Rezeption. Was der Vers sagt, ist, dass Gott Menschen bekleidet, die ihn gerade enttäuscht haben. Dann schickt er sie hinaus, mit Cherubim an der Ostseite."
+              ]
+            }
+          ],
+          "apply": {
+            "bullets": [
+              "Achte auf den Satz, nach dem du greifst, wenn man dich fragt „Was ist passiert?“ Ist es eine Tatsache oder ein Zeigen auf jemand anderen?",
+              "Wenn jemand, der dir am Herzen liegt, etwas falsch gemacht hat, versuche es mit Fragen, bevor du urteilst. Lass ihn antworten.",
+              "Denk an das letzte Mal, als dich jemand bedeckt hat, als du versagt hast. Danke ihm."
+            ],
+            "questions": [
+              "Gott fragt, bevor er verurteilt. Welche der Fragen wäre für dich am schwersten zu beantworten?"
+            ]
+          },
+          "quickCheck": "Weder der Mann noch die Frau wird verflucht genannt. Das Wort „Fall“ steht nicht im Kapitel, und Augustinus, die orthodoxen Kirchen und das rabbinische Judentum lesen es verschieden. Die Felle werden nicht als Opfer beschrieben.",
+          "safeguard": "Verse wie 3,16 wurden benutzt, um Kontrolle und Schaden in Beziehungen zu entschuldigen. Der Text kündigt eine Folge einer zerbrochenen Welt an und gibt keinen Befehl, zu herrschen oder sich Missbrauch zu unterwerfen.",
+          "insights": ["reverse-order", "desire-and-rule-echo", "garden-as-sanctuary"],
+          "cards": ["god-cursed-eve", "the-fall", "protoevangelium", "garments-of-skin"]
+        },
+        {
+          "title": "Tag 6: Vor der Tat",
+          "passage": "1. Mose 4,1–16",
+          "summary": "Gott spricht zu Kain, bevor etwas geschehen ist, und die Entscheidung ist noch offen.",
+          "story": {
+            "title": "Die Treppe",
+            "text": [
+              "Beim Preisabend der Schule wird Sams Freund Joe für das Projekt auf die Bühne gerufen, das die beiden zusammen gemacht haben. Sams Name wird nicht aufgerufen. Er klatscht, und dann geht er hinaus und setzt sich auf die Treppe, mit heißem Gesicht.",
+              "Seine Lehrerin, Frau Adler, findet ihn. Sie sagt nicht „das ist unfair“ und sie sagt nicht „beruhige dich“. Sie setzt sich zwei Stufen unter ihn und sagt: „Du siehst wütend aus. Das ist erlaubt. Aber ich möchte, dass du nachdenkst, bevor du wieder hineingehst, denn das Nächste, was du tust, gehört dir.“",
+              "Sam sagt nichts. Aber er geht noch nicht wieder hinein."
+            ]
+          },
+          "layout": {
+            "text": [
+              "Lies 1. Mose 4,1–16. Die Geschichte geht schnell, achte also darauf, was Gott sagt."
+            ],
+            "bullets": [
+              "4,1–2: Zwei Geburten und zwei Namen.",
+              "4,3–5: Zwei Gaben und Kains Zorn.",
+              "4,6–7: Gott spricht zu Kain.",
+              "4,8–10: Die Tat und Gottes Frage.",
+              "4,11–16: Das Urteil, das Zeichen und Kains Weggang."
+            ]
+          },
+          "discoveries": [
+            {
+              "heading": "Zwei Namen",
+              "text": [
+                "Eva sagt „Ich habe einen Mann erworben (kanithi) …“, und das Klangspiel mit Kajin (Kain) ist sicher. „Schatz“ ist keine übliche Wiedergabe, und die gängigen Wiedergaben sind „der Erworbene“ oder „Besitz“. Viele Forscher verbinden kajin auch mit einem Wort für „Schmied“ (vergleiche Tubal-Kain in 4,22). Der zweite Sohn ist Hebel, Abel, das Wort, das der Prediger für die atemgleiche Kürze des Lebens gebraucht. Ein hebräischer Hörer hörte, dass seine Rolle kurz sein würde. Der Text sagt nicht, warum Eva den Namen wählte."
+              ]
+            },
+            {
+              "heading": "Zwei Gaben, kein Grund genannt",
+              "text": [
+                "Kain bringt „von den Früchten des Ackers“. Abel bringt „von den Erstlingen seiner Herde und von ihrem Fett“. Diese beiden Wörter stehen nur bei Abel. Hebräer 11,4 liest sein Opfer als Tat des Glaubens, was die stärkste Lesart ist, aber immer noch ein Schluss. Der Text nennt keinen Grund für Gottes Reaktion."
+              ]
+            },
+            {
+              "heading": "Gott spricht zuerst",
+              "text": [
+                "Als Kain zornig ist, wartet Gott nicht. Er fragt: „Warum bist du zornig?“ und sagt: „Ist’s nicht so: Wenn du Gutes im Sinn hast, kannst du frei den Blick erheben? Wenn du aber nichts Gutes im Sinn hast, lauert die Sünde vor der Tür. Ihr Verlangen (teschuka) steht nach dir, du aber sollst über sie herrschen (maschal).“ Das sind dieselben zwei seltenen Wörter wie in 3,16. Beide Verse beschreiben, was in einer zerbrochenen Welt schiefgeht, und keiner ist eine Anweisung. 4,7 endet mit dem Aufruf, die Sünde zu beherrschen, was zeigt, dass Beschreibung nicht Bestimmung ist. Zwischen dem Gefühl und der Tat stellt die Erzählung eine Pause und legt die Entscheidung dorthin."
+              ]
+            },
+            {
+              "heading": "Die zweite Frage",
+              "text": [
+                "Nach der Tat fragt Gott wieder: „Wo ist dein Bruder Abel?“ Es hallt „Wo bist du?“ aus Kapitel 3 wider. Die erste Frage galt der Beziehung zu Gott, die zweite der Beziehung zu anderen. Kain antwortet mit einer Frage, „Soll ich meines Bruders Hüter sein?“, und benutzt dasselbe Verb (schamar), das dem Mann für den Garten gegeben wurde. Abels Blut (das Hebräische steht im Plural, „Blute“) schreit vom Erdboden, und der Boden, aus dem der erste Mensch gemacht wurde, wird Kain keinen Ertrag mehr geben."
+              ]
+            },
+            {
+              "heading": "Barmherzigkeit, die keine Reue ist",
+              "text": [
+                "Der Text berichtet kein Bekenntnis von Kain. Sein Wort awon in 4,13 kann „Schuld“ oder „Strafe“ bedeuten, und die meisten Übersetzungen lesen „meine Strafe ist zu schwer, als dass ich sie tragen könnte“. Seine Furcht ist, dass er erschlagen wird. Gott macht ein Zeichen (ot) an Kain, „damit ihn niemand erschlüge, der ihn fände“. 1. Mose sagt nicht, was das Zeichen war, und sein Zweck ist Schutz. Nichts im Text verbindet es mit Hautfarbe oder einem Volk."
+              ]
+            }
+          ],
+          "apply": {
+            "bullets": [
+              "Benenne deine Frühwarnzeichen: Was geschieht in deinem Körper oder deinen Gedanken, bevor Zorn zur Tat wird? Schreib zwei auf.",
+              "Wenn du die Pause spürst, behandle sie als Geschenk, wie in der Geschichte. Nimm dir eine Minute, bevor du antwortest.",
+              "Beide Fragen Gottes sind es wert, gestellt zu werden: „Wo bist du?“ und „Wo ist dein Bruder?“ Welcher bist du ausgewichen?"
+            ],
+            "questions": [
+              "Gott spricht zu Kain, bevor er handelt. Was genau sagt Gott ihm, und was bleibt Kain zu entscheiden?"
+            ]
+          },
+          "quickCheck": "„Schatz“ ist keine übliche Wiedergabe von Kain. Das Zeichen an Kain wird nie beschrieben und hat nichts mit Hautfarbe zu tun. Und Gottes Barmherzigkeit gegenüber Kain nimmt seine Folgen nicht weg und sagt auch nicht, dass sich jemand mit einem Menschen versöhnen müsse, der sich nicht geändert hat.",
+          "safeguard": "Gottes Barmherzigkeit gegenüber Kain fordert niemanden auf, jemandem zu vergeben oder sich mit jemandem zu versöhnen, der ihm geschadet hat und sich nicht geändert hat.",
+          "insights": ["abel-is-breath", "where-are-you-where-is-your-brother", "desire-and-rule-echo"],
+          "cards": ["cain-treasure", "abel-offering", "cain-repents", "mark-of-cain"]
+        },
+        {
+          "title": "Tag 7: Zwei Familien",
+          "passage": "1. Mose 4,17–26",
+          "summary": "Zwei Linien, ein Name, und eine Wahl, die sich in jeder Generation wiederholt.",
+          "story": {
+            "title": "Derselbe Name",
+            "text": [
+              "Zwei Cousins sind nach demselben Großvater benannt. Der eine wächst in einem Haus auf, in dem die Regel gilt: „Lass dir nie etwas antun, ohne dass es bezahlt wird.“ Bei seiner eigenen Hochzeit hält er eine Rede darüber, und alle lachen ein wenig zu laut.",
+              "Der andere wächst in einem Haus auf, in dem die Großmutter bei jeder Geburt sagt: „Der wird uns ein wenig Erleichterung bringen.“ Als sein eigener Sohn geboren wird, sagt er es auch, und er meint es so.",
+              "Derselbe Name, dieselbe Familie, zwei Richtungen."
+            ]
+          },
+          "layout": {
+            "text": [
+              "Lies 1. Mose 4,17–26 und dann zum Vergleich 5,28–29."
+            ],
+            "bullets": [
+              "4,17–22: Kains Linie, sieben Generationen: eine Stadt, Herden, Musik und Metallarbeit.",
+              "4,23–24: Lamechs Lied.",
+              "4,25–26: Set wird geboren, dann Enosch, und man beginnt, den Namen des HERRN anzurufen.",
+              "5,28–29: Ein anderer Lamech, in Sets Linie, nennt seinen Sohn Noah."
+            ]
+          },
+          "discoveries": [
+            {
+              "heading": "Eine Familie, die Dinge macht",
+              "text": [
+                "Kain baut eine Stadt. Jabal hält Herden, Jubal spielt Leier und Flöte, und Tubal-Kain schmiedet Werkzeuge aus Bronze und Eisen. Nichts im Text verurteilt diese Künste. Die Linie endet mit Lamech, der zwei Frauen nimmt und ihnen ein Gedicht singt."
+              ]
+            },
+            {
+              "heading": "Lamechs Lied",
+              "text": [
+                "„Einen Mann erschlug ich für meine Wunde … Wird Kain siebenfach gerächt, so Lamech siebenundsiebzigfach.“ Sein Gedicht stellt seine eigene Rache gegen Kains Schutz und vervielfacht sie. Zwei Einzelheiten sind offen. Das erste Verb (ki haragti) kann „ich habe getötet“ oder „ich würde töten (wenn)“ gelesen werden, und der Text sagt nie, wen er getötet hat. Viele Leser nennen das Gedicht ein „Schwertlied“ und verbinden es mit Tubal-Kains Metallarbeit. Der Text gibt kein Zeichen von Furcht und keines dafür, dass er es privat hält: Sein Publikum innerhalb der Erzählung sind seine Frauen. Gewalt, die sich steigert und dann prahlt, ist überall wiederzuerkennen, und Jesus kehrt die Zahl um, als Petrus fragt, wie oft er vergeben soll: nicht siebenmal, sondern siebenundsiebzigmal (Matthäus 18,21–22)."
+              ]
+            },
+            {
+              "heading": "Der andere Lamech",
+              "text": [
+                "Lies jetzt Kapitel 5. Die Namen in Sets Linie klingen wie die in Kains: Henoch, Jered und Irad, Mahalalel und Mehujael, Metuschelach und Metuschael, und wieder Lamech. Kains Linie hat sieben Generationen und Sets zehn. Quellenkritiker erklären die Ähnlichkeit als zwei Fassungen einer Liste, andere lesen sie als bewussten Gegensatz. Beide behalten den Gegensatz. Dieser Lamech nennt seinen Sohn voll Hoffnung Noah: „Der wird uns trösten in unserer Mühe.“"
+              ]
+            },
+            {
+              "heading": "Wie es endet",
+              "text": [
+                "Kapitel 4 endet nicht mit der Stadt oder dem Schwert, sondern mit einer Geburt und einem Anfang: „Zu der Zeit fing man an, den Namen des HERRN anzurufen.“ Zwei Familien stehen nebeneinander. Die eine baut Städte, Künste und Waffen, die andere ruft den HERRN an. Die Wahl wiederholt sich in jeder Generation, und Noah ist die Wende."
+              ]
+            }
+          ],
+          "apply": {
+            "bullets": [
+              "Sieh dir an, was du geerbt hast: Sprüche, Gewohnheiten, Geschichten, die erklären, wie eine Familie auf Verletzung antwortet. Welche würdest du weitergeben, und welche beenden?",
+              "Wähle diese Woche einen Satz der zweiten Familie, um ihn zu sagen. Zum Beispiel: „Der wird uns Erleichterung bringen.“",
+              "Achte darauf, wenn etwas, das du machst oder baust, als Waffe benutzt wird, und entscheide, in welcher Linie du stehst."
+            ],
+            "questions": [
+              "Wer beginnt laut den letzten Versen, „den Namen des HERRN anzurufen“, und warum mag der Verfasser hier enden?"
+            ]
+          },
+          "quickCheck": "Dass Lamech nur im Privaten prahlt, steht nicht im Text, und es ist eine Lesart eines unklaren Verbs.",
+          "insights": ["two-lamechs"],
+          "cards": ["lamech-boast"],
+          "finish": "Mach das Quiz, um die Woche zu wiederholen."
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "title": "Kleingruppe: vier Abende",
+      "audience": "Gruppen und Gruppenleiter",
+      "minutes": "60–75 Minuten pro Treffen",
+      "description": "Vier Abende für eine Kleingruppe. Jeder beginnt mit einer Geschichte zum Vorlesen, legt den Abschnitt aus, zeigt die Entdeckungen, die ihr gemeinsam erkunden könnt, und endet mit Fragen, die in die Woche führen. Die Leitung muss keine Expertin sein. Die Mythenkarten und Einsichten stehen am Ende für alle, die die Quellen sehen wollen.",
+      "days": [
+        {
+          "title": "Abend 1: Ordnung und Würde",
+          "passage": "1. Mose 1,1–2,3",
+          "summary": "Ein Gedicht über eine Welt, die bereitet wird, und eine Würde, die jedem Menschen gegeben ist.",
+          "story": {
+            "title": "Das Zimmer (zum Vorlesen, 5 Minuten)",
+            "text": [
+              "Marta hat sechs Abende, bevor das Baby kommt, und das Gästezimmer ist leer. Jeden Abend tut sie eine Sache: das Licht, die Wände, den Boden, die Lampe, das Mobile, das Bett. Jeden Abend tritt sie zurück, schaut und denkt: gut. Am siebten Abend ist nichts mehr zu tun, und sie setzt sich in das fertige Zimmer.",
+              "Frage: Was habt ihr über 1. Mose 1 gehört, als ihr aufgewachsen seid? Schreibt die Antworten ohne Kommentar auf und kommt am Ende darauf zurück."
+            ]
+          },
+          "layout": {
+            "text": [
+              "Lest 1. Mose 1,1–2,3 laut, mit einem anderen Leser für jeden Tag (10 Minuten). Es wurde geschrieben, um gehört zu werden."
+            ],
+            "bullets": [
+              "Tag 1–3 schaffen die Räume. Tag 4–6 füllen sie. Tag 7 ruht.",
+              "Der Refrain: „Gott sprach … es geschah so … Gott sah, dass es gut war … Abend und Morgen.“",
+              "Sieben hebräische Wörter in 1,1, vierzehn in 1,2, fünfunddreißig für den siebten Tag. Ob die Zählung geplant war, ist ein Schluss."
+            ]
+          },
+          "discoveries": [
+            {
+              "heading": "Wo biegt sich das Muster? (10 Minuten)",
+              "text": [
+                "Im Hebräischen sagt Tag 2 nie „gut“, Tag 3 sagt es zweimal, und Tag 6 sagt „sehr gut“. Fragt die Gruppe, was das Gedicht ihrer Meinung nach mit der Abwandlung tut, und lasst es offen: Warum Tag 2 schweigt, ist eine alte Vermutung und nicht geklärt. Viele Forscher lesen die Zuordnung der Tage 1–3 und 4–6 als literarischen Rahmen, andere lesen wörtliche Tage oder Zeitalter, und alle benutzen dieselbe Zuordnung, ihr müsst das heute Abend also nicht entscheiden."
+              ]
+            },
+            {
+              "heading": "Was fehlt? (10 Minuten)",
+              "text": [
+                "Sonne und Mond werden nicht genannt. In Mesopotamien waren sie Götter. Viele Leser hören darin eine leise Freiheit: Die Mächte der Nachbarn sind Lampen in Gottes Schöpfung. Das ist eine Deutung, stellt sie also als solche vor. Fragt, was die Gruppe heute als „großes Licht“ behandelt."
+              ]
+            },
+            {
+              "heading": "Wer ist im Bild geschaffen? (10 Minuten)",
+              "text": [
+                "In Ägypten und Mesopotamien war der König das Bild des Gottes. Hier ist es jeder Mensch, Mann und Frau. Kapitel 2 erzählt die Geschichte noch einmal mit anderer Stimme, wobei der Mann zuerst gemacht wird. Sagt also jetzt schon, dass es zwei Einheiten gibt und dass sie sich unterscheiden. Fragt, was es bedeutet, diese Woche jemandem als Bild Gottes zu begegnen."
+              ]
+            }
+          ],
+          "apply": {
+            "bullets": [
+              "Sag diese Woche „gut“ über einen gewöhnlichen Gegenstand, bevor du ihn benutzt.",
+              "Wähle einen Menschen, den du gern einordnest, und behandle ihn einen Tag lang als Bild Gottes.",
+              "Halte eine freie Stunde, in der du nichts hervorbringen musst."
+            ],
+            "questions": [
+              "Was im Text hat euch heute Abend überrascht?",
+              "Was ändert „Bild Gottes“ für jeden Menschen daran, wie du jemandem diese Woche begegnest?"
+            ]
+          },
+          "quickCheck": "Die Vögel gehören zum fünften Tag, zu den Meerestieren. Beim Nacherzählen aus dem Gedächtnis rutschen sie oft auf den sechsten.",
+          "insights": ["sevens-in-genesis-1", "forming-and-filling", "image-of-god-and-kings", "no-sun-no-moon", "refrain-and-missing-good"],
+          "cards": ["day-5-6-birds", "two-accounts", "let-us-make"]
+        },
+        {
+          "title": "Abend 2: Zwei Menschen, ein Garten",
+          "passage": "1. Mose 2,4–25",
+          "summary": "Eine Aufgabe, eine Grenze und ein Mensch, der geschaffen wurde, um erkannt zu werden.",
+          "leaderNote": "An diesem Abend geht es darum, wie 1. Mose 2–3 in Ehen benutzt wird. Lest zuerst den Hinweis zur Fürsorge in der App und seid bereit, Menschen auf die Hilfeseite zu verweisen. Bittet niemanden, persönliche Geschichten über die eigene Beziehung zu erzählen.",
+          "story": {
+            "title": "Die Schlüssel (zum Vorlesen, 3 Minuten)",
+            "text": [
+              "Tomás hat die Schlüssel zu einem Schrebergarten bekommen. Der bisherige Besitzer sagt: „Gieß ihn abends und pass darauf auf. Iss, was du willst. Nur das eine Beet gehört mir nicht, das ich dir überlassen könnte.“ Tomás steht am Tor und merkt, dass er überhaupt nicht an das eine Beet denkt. Er denkt daran, dass ihm jemand das hier anvertraut hat.",
+              "Frage: Was war das Erste, was euch in eurem Leben anvertraut wurde?"
+            ]
+          },
+          "layout": {
+            "text": [
+              "Lest 1. Mose 2,4–25 laut (10 Minuten)."
+            ],
+            "bullets": [
+              "2,4–17: Der Mensch aus dem Erdboden, der Garten, die Aufgabe und die Grenze.",
+              "2,18–20: Das erste „nicht gut“ und die Tiere.",
+              "2,21–25: Die Frau, das Gedicht des Mannes und „nackt und ohne Scham“."
+            ]
+          },
+          "discoveries": [
+            {
+              "heading": "Eine Aufgabe, bevor etwas schiefgeht (10 Minuten)",
+              "text": [
+                "Der Mann wird in den Garten gesetzt, „damit er ihn bebaue und bewahre“ (2,15), bevor es in der Erzählung irgendeine Schwierigkeit gibt, die Arbeit gehört also zum guten Anfang. Dieselben zwei Verben beschreiben die Aufgaben der Leviten, darum sehen viele Forscher im Garten ein erstes Heiligtum (ein Vorschlag, den andere anfragen). Fragt, was es hieße, Arbeit als Aufmerksamkeit für Gott zu verstehen."
+              ]
+            },
+            {
+              "heading": "Das erste „nicht gut“ (10 Minuten)",
+              "text": [
+                "Das Problem ist nicht, dass der Mann als Arbeiter unvollständig wäre. Es ist, dass er allein ist. Fragt, was die Gruppe davon hält, dass das erste „nicht gut“ in der Bibel von Einsamkeit handelt."
+              ]
+            },
+            {
+              "heading": "Wörter, die „aus dem Hebräischen“ gehört wurden (15 Minuten)",
+              "text": [
+                "Nehmt die Behauptungen, die die Gruppe gehört hat, nacheinander mit dem Text in die Hand. „Wow-man“ ist ein englischer Witz. Das hebräische Wortspiel ist isch und ischah. „Rippe“ ist zela, das meist „Seite“ bedeutet, und die Pointe ist, dass sie aus demselben Stoff gemacht ist wie der Mann. „Helferin“ (eser) ist keine Fehlübersetzung und wird oft von Gott gebraucht, bedeutet also nicht „geringer“. Aber „Lebensretterin“ ist eine Umschreibung. Und die Vorstellung, das Wort für „männlich“ (sachar) mache den Mann zu „dem, der sich erinnert“, scheitert, wie auch immer die Sprachgeschichte ausfällt, weil die Bedeutung eines Wortes aus dem Gebrauch kommt und nicht aus gemeinsamen Konsonanten.",
+                "Es geht nicht darum, Streit zu gewinnen. Eine Wortstudie sollte nie die einzige Stütze dafür sein, wie zwei Menschen ihr Leben teilen, und eine Studie, die am Ende nur bestätigt, was der Sprecher schon sagen wollte, sollte doppelt geprüft werden."
+              ]
+            }
+          ],
+          "apply": {
+            "bullets": [
+              "Sag diese Woche Danke für etwas, das dir anvertraut wurde.",
+              "Frag jemanden in deiner Nähe, wie er gern erkannt und unterstützt werden möchte, statt es anzunehmen.",
+              "Wenn du diese Woche hörst „das Hebräische bedeutet eigentlich …“, frag, woher das kommt."
+            ],
+            "questions": [
+              "Welche Behauptung über Männer und Frauen habt ihr „aus dem Hebräischen“ gehört? Was sagt der Text selbst, und was wurde hinzugefügt?",
+              "Was würde sich ändern, wenn Arbeit zum guten Anfang gehörte und nicht zum Fluch?"
+            ]
+          },
+          "quickCheck": "Das hebräische Wort in 1. Mose ist „Garten“ (gan). „Paradies“ ist ein späteres Wort, das durch die griechische Übersetzung in die Bibel kam.",
+          "insights": ["garden-as-sanctuary", "adam-adamah-arum"],
+          "cards": ["wow-man", "ezer-helper", "rib", "zakar-remember", "paradise-word", "work-as-curse"]
+        },
+        {
+          "title": "Abend 3: Schuld und Barmherzigkeit",
+          "passage": "1. Mose 3,1–24",
+          "summary": "Ein Gespräch, ein Gericht aus Fragen und eine Szene des Bekleidens.",
+          "leaderNote": "Benutzt diesen Abend nicht, um Schuld zwischen den Geschlechtern zu verteilen. Der Text gibt keinen Anhalt, Schuld zu gewichten, und er entscheidet nicht, wer führen soll. Wenn jemand sagt, 1. Mose 3 bedeute, er müsse sich einem Partner unterordnen oder die Schuld für das Verhalten eines anderen tragen, sagt sanft, dass der Text das nicht sagt, und verweist auf die Hilfeseite.",
+          "story": {
+            "title": "Hinter dem Sofa (zum Vorlesen, 3 Minuten)",
+            "text": [
+              "Die Vase ist in Scherben, und die achtjährige Noor versteckt sich hinter dem Sofa, als sie den Schlüssel in der Tür hört. Ihr Vater kommt herein, sieht das Chaos und schimpft nicht. Er sagt: „Noor, wo bist du?“ Sie kommt hervor. „Hast du sie kaputt gemacht?“ „Es war der Hund.“ Der Hund wedelt mit dem Schwanz. Ihr Vater kniet sich hin und beginnt, die Scherben aufzusammeln, und sagt ihr, sie solle ihre Hausschuhe holen, damit sie sich nicht die Füße schneidet.",
+              "Frage: Was stellt ihr euch vor, wenn ihr „der Sündenfall“ hört? Schreibt die Antworten ohne Kommentar auf."
+            ]
+          },
+          "layout": {
+            "text": [
+              "Lest 1. Mose 3 in drei Teilen, von drei Lesern (10 Minuten)."
+            ],
+            "bullets": [
+              "3,1–7: Das Gespräch.",
+              "3,8–19: Die Fragen und die Urteile.",
+              "3,20–24: Das Bekleiden und der Auszug."
+            ]
+          },
+          "discoveries": [
+            {
+              "heading": "Eine Frage, die schrumpft (10 Minuten)",
+              "text": [
+                "„Hat Gott wirklich gesagt: Ihr sollt von keinem Baum essen?“ lässt die Großzügigkeit von 2,16–17 weg und macht die Grenze zur ganzen Geschichte. Die Antwort der Frau fügt „rührt ihn auch nicht an“ hinzu, was nicht in Gottes Gebot steht. Der Text sagt nicht, wer es hinzugefügt hat, und die antiken Ausleger sind gespalten. Fragt, wo eine Schutzregel den Platz ihres Grundes eingenommen hat."
+              ]
+            },
+            {
+              "heading": "Was die Erzählung nicht sagt (10 Minuten)",
+              "text": [
+                "Es wird keine Frucht genannt. Die Schlange ist ein Geschöpf, „listiger als alle Tiere des Feldes“, und ihre Gleichsetzung mit Satan kommt später. Der Mann ist „bei ihr“, und der Text sagt nichts davon, dass er nicht geführt habe. Weder die Frau noch der Mann wird verflucht genannt: nur die Schlange und der Erdboden. „Fall“ ist kein Wort des Kapitels. Zu jedem davon gibt es eine Karte in der App, wählt also zwei oder drei, je nachdem, was die Gruppe zu Beginn eingebracht hat."
+              ]
+            },
+            {
+              "heading": "Die Fragen (10 Minuten)",
+              "text": [
+                "Gott fragt, bevor er verurteilt: „Wo bist du? Wer hat dir gesagt, dass du nackt bist? Was hast du getan?“ Der Mann zeigt auf die Frau und die Frau auf die Schlange. Fragt, wo wir das heute tun."
+              ]
+            },
+            {
+              "heading": "Die Kleider (5 Minuten)",
+              "text": [
+                "Gott bekleidet Menschen, die ihn gerade enttäuscht haben (3,21). Viele Christen haben in den Fellen einen Hinweis auf Opfer gesehen, was eine lange und achtbare Rezeption ist, aber der Vers sagt nur, dass Gott sie bekleidete. Vers 15 spricht vom „Samen“ der Frau als Sammelbegriff. Er wird seit Irenäus als Hinweis auf Christus gelesen, und jüdische Leser haben ihn moralisch und kollektiv gelesen. Man kann festhalten, dass das Böse ein Urteil bekommt, ohne zu behaupten, der Vers nenne Jesus."
+              ]
+            }
+          ],
+          "apply": {
+            "bullets": [
+              "Wenn dich jemand diese Woche fragt „Was ist passiert?“, achte darauf, ob du mit einer Tatsache oder mit einem Zeigen antwortest.",
+              "Frag einmal, bevor du urteilst, bei jemandem, den du gern beschuldigen würdest.",
+              "Bedecke still jemanden, der versagt hat."
+            ],
+            "questions": [
+              "Jeder in der Erzählung zeigt auf jemand anderen. Wo tun wir das heute?",
+              "Wie würde es aussehen, Gottes Frage „Wo bist du?“ ehrlich zu beantworten?"
+            ]
+          },
+          "quickCheck": "Der Apfel ist ein späteres Bild, und die Frucht wird nie genannt.",
+          "safeguard": "Verse aus 1. Mose 3 werden manchmal benutzt, um Kontrolle in einer Beziehung zu rechtfertigen. Der Text kündigt Folgen einer zerbrochenen Welt an und gibt keinen Befehl, zu herrschen oder sich Missbrauch zu unterwerfen.",
+          "insights": ["reverse-order", "desire-and-rule-echo", "adam-adamah-arum"],
+          "cards": ["apple", "serpent-is-satan", "eve-adds-touch", "failure-to-lead", "god-cursed-eve", "garments-of-skin", "protoevangelium", "the-fall"]
+        },
+        {
+          "title": "Abend 4: Zorn, Gewalt und eine andere Linie",
+          "passage": "1. Mose 4,1–26",
+          "summary": "Gott warnt vor der Tat. Zwei Familien antworten auf verschiedene Weise.",
+          "leaderNote": "Kains Schutz bedeutet nicht, dass sich ein Opfer mit einem reuelosen Täter versöhnen muss. Sagt das laut, wenn das Thema Vergebung aufkommt.",
+          "story": {
+            "title": "Die Treppe (zum Vorlesen, 3 Minuten)",
+            "text": [
+              "Beim Preisabend der Schule wird Sams Freund für das Projekt auf die Bühne gerufen, das die beiden zusammen gemacht haben. Sams Name wird nicht aufgerufen. Er klatscht, geht dann hinaus und setzt sich auf die Treppe, mit heißem Gesicht. Seine Lehrerin findet ihn und setzt sich zwei Stufen unter ihn. Sie sagt: „Du siehst wütend aus. Das ist erlaubt. Aber das Nächste, was du tust, gehört dir.“ Sam sagt nichts, aber er geht noch nicht wieder hinein.",
+              "Frage: Wann habt ihr zuletzt gespürt, wie euer Zorn steigt, bevor ihr etwas getan habt? Fragt nicht nach Geschichten. Lasst die Frage einfach stehen."
+            ]
+          },
+          "layout": {
+            "text": [
+              "Lest 1. Mose 4,1–16 laut (10 Minuten)."
+            ],
+            "bullets": [
+              "4,1–7: Die Geburten, die Gaben, Kains Zorn und Gottes Worte.",
+              "4,8–16: Die Tat, Gottes Frage, das Urteil und das Zeichen.",
+              "Danach lest 4,17–26 und dann 5,28–29."
+            ]
+          },
+          "discoveries": [
+            {
+              "heading": "Die Warnung (15 Minuten)",
+              "text": [
+                "Gott spricht zu Kain, bevor er handelt: „Die Sünde lauert vor der Tür. Ihr Verlangen steht nach dir, du aber sollst über sie herrschen.“ Die zwei seltenen Wörter, Verlangen und herrschen, sind dieselben wie in 3,16. Was das Paar bedeutet, ist umstritten, aber beide Verse beschreiben, was in einer zerbrochenen Welt schiefgeht, und 4,7 endet mit dem Aufruf, die Sünde zu beherrschen. Beschreibung ist nicht Bestimmung. Fragt, was die Frühwarnzeichen sind und was in unserem Leben fragt: „Warum bist du zornig?“"
+              ]
+            },
+            {
+              "heading": "Zwei Fragen (10 Minuten)",
+              "text": [
+                "Nach der Tat fragt Gott: „Wo ist dein Bruder Abel?“, was „Wo bist du?“ aus Kapitel 3 widerhallt. Die erste Frage gilt der Beziehung zu Gott, die zweite den Beziehungen zu anderen. Fragt, welche leichter zu beantworten ist."
+              ]
+            },
+            {
+              "heading": "Barmherzigkeit ohne Reue (10 Minuten)",
+              "text": [
+                "Der Text berichtet kein Bekenntnis von Kain, und sein Wort awon kann „Schuld“ oder „Strafe“ bedeuten. Gott macht trotzdem ein Zeichen an ihn, damit ihn niemand erschlägt. 1. Mose sagt nicht, was das Zeichen war, und es hat keine Verbindung zu Hautfarbe. Fragt, wo Barmherzigkeit ohne Reue die Gruppe beunruhigt und wo sie tröstet. Sagt deutlich, dass Gottes Barmherzigkeit gegenüber Kain die Folgen nicht aufhebt und dass sie niemanden auffordert, sich mit jemandem zu versöhnen, der sich nicht geändert hat."
+              ]
+            },
+            {
+              "heading": "Zwei Lamechs (10 Minuten)",
+              "text": [
+                "Kains Linie endet in einem Lied der Rache, „siebenundsiebzigfach“ (das erste Verb ist offen: „ich habe getötet“ oder „ich würde töten“), das Jesus in Matthäus 18,21–22 umkehrt. Auch Sets Linie hat einen Lamech, der seinen Sohn voll Hoffnung Noah nennt. Derselbe Name, eine andere Richtung. Endet mit 4,26: Man begann, den Namen des HERRN anzurufen."
+              ]
+            }
+          ],
+          "apply": {
+            "bullets": [
+              "Benenne zwei Frühwarnzeichen deines eigenen Zorns und sag es einer Person.",
+              "Wähle einen Spruch aus deiner Familie, den du weitergeben würdest, und einen, den du beenden würdest.",
+              "Nimm dir diese Woche eine Minute, um innezuhalten, bevor du antwortest."
+            ],
+            "questions": [
+              "Gott warnt Kain vor der Tat. Was sind die Frühwarnzeichen in eurem Leben?",
+              "Wo beunruhigt dich Barmherzigkeit ohne Reue, und wo tröstet sie dich?"
+            ]
+          },
+          "quickCheck": "„Schatz“ ist keine übliche Wiedergabe von Kains Namen. Das Zeichen an Kain hat keine Verbindung zu Hautfarbe.",
+          "safeguard": "Gottes Barmherzigkeit gegenüber Kain fordert niemanden auf, jemandem zu vergeben oder sich mit jemandem zu versöhnen, der ihm geschadet hat und sich nicht geändert hat.",
+          "finish": "Beendet den Abend mit dem Quiz als Spiel, in Teams.",
+          "insights": ["abel-is-breath", "where-are-you-where-is-your-brother", "two-lamechs", "desire-and-rule-echo"],
+          "cards": ["cain-treasure", "abel-offering", "cain-repents", "mark-of-cain", "lamech-boast"]
+        }
+      ]
+    }
+  ]
+}

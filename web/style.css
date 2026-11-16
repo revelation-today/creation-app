@@ -4,15 +4,21 @@
   --ok: #2e7d4f; --bad: #b3402f;
 }
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #14191a; --surface: #1d2423; --ink: #e8ece9; --muted: #9fb0aa; --line: #2e3a37;
     --accent: #6fb39d; --accent-ink: #0d1412; --warn-bg: #2c2417; --warn-line: #a9772d;
     --ok: #6fcf97; --bad: #ef8a78;
   }
 }
+/* forced dark */
+:root[data-theme="dark"] {
+    --bg: #14191a; --surface: #1d2423; --ink: #e8ece9; --muted: #9fb0aa; --line: #2e3a37;
+    --accent: #6fb39d; --accent-ink: #0d1412; --warn-bg: #2c2417; --warn-line: #a9772d;
+    --ok: #6fcf97; --bad: #ef8a78;
+}
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
-body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 1.0625rem/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
 a { color: var(--accent); }
 .top { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line);
   display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; padding: 10px 16px; }
@@ -84,3 +90,19 @@ ul.src li { margin: 4px 0; }
 .discovery h3 { margin-bottom: 4px; }
 .apply { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 4px 18px 10px; margin: 24px 0; }
 .quick { font-size: .92rem; }
+
+.gear { font-size: 1.15em; line-height: 1; }
+.card.choices { padding: 4px 16px; }
+.choice { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.choice:last-child { border-bottom: 0; }
+.choice input { width: 22px; height: 22px; }
+.setting { padding: 10px 0; }
+.setting.row-between { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.setting select { font: inherit; padding: 6px 8px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+.sizerow { display: flex; align-items: center; gap: 12px; margin-top: 8px; }
+.sizerow input { flex: 1; }
+.small-a { font-size: .8rem; } .big-a { font-size: 1.4rem; }
+.sample { color: var(--muted); }
+.linkrow { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 12px 0; border-top: 1px solid var(--line); text-decoration: none; color: var(--ink); }
+.linkrow small { color: var(--muted); }
+.fine { color: var(--muted); font-size: .9rem; }

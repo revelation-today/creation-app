@@ -13,21 +13,23 @@
 </head>
 <body>
   <header class="top">
-    <a class="brand" href="#/">Eden Check <span>Genesis 1–4</span></a>
+    <a class="brand" href="#/">Eden Check <span id="brand-sub">Genesis 1–4</span></a>
     <nav aria-label="Main">
       <a href="#/myths" data-nav="myths">Myths</a>
       <a href="#/insights" data-nav="insights">Insights</a>
       <a href="#/plans" data-nav="plans">Plans</a>
       <a href="#/quiz" data-nav="quiz">Quiz</a>
       <a href="#/help" data-nav="help">Help</a>
+      <a href="#/settings" data-nav="settings" id="gear" class="gear" aria-label="Settings" title="Settings">⚙</a>
     </nav>
   </header>
-  <main id="app" tabindex="-1"><p class="muted">Loading…</p></main>
+  <main id="app" tabindex="-1"><p class="muted">…</p></main>
   <footer>
-    <a href="#/about">How this works</a> · Draft 0.1 · Content reviewed 2026-11-16 ·
-    Every entry lists its sources and how far they have been checked.
+    <a href="#/about" id="foot-about">How this works</a><span id="foot-text"> · Draft 0.1 · Content reviewed 2026-11-16 ·
+    Every entry lists its sources and how far they have been checked.</span>
   </footer>
   <noscript>This app needs JavaScript.</noscript>
+  <script src="i18n.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
