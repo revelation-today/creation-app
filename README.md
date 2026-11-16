@@ -16,7 +16,7 @@ No build step, no dependencies, no tracking.
 ## Run it
 
 ```
-npx serve .          # or: python -m http.server 8080
+node scripts/serve.mjs   # then open http://localhost:8080/ (or: python -m http.server 8080)
 node scripts/validate.mjs
 ```
 
