@@ -71,10 +71,11 @@ function applyLook() {
   const theme = store.get('theme', 'system');
   if (theme === 'light' || theme === 'dark') root.setAttribute('data-theme', theme); else root.removeAttribute('data-theme');
   const size = Number(store.get('font', 1));
-  root.style.fontSize = (size >= 0.85 && size <= 1.35 ? size : 1) * 100 + '%';
+  root.style.fontSize = (size >= 0.85 && size <= 2 ? size : 1) * 100 + '%';
 }
 function applyChrome() {
   document.documentElement.lang = LANG;
+  const skip = document.getElementById('skip'); if (skip) skip.textContent = t('skip');
   document.title = t('title');
   const meta = document.querySelector('meta[name="description"]');
   if (meta) meta.setAttribute('content', t('description'));
@@ -289,9 +290,9 @@ function runQuiz(qs) {
     if (i >= qs.length) return finish();
     const q = qs[i];
     const box = h('div', {});
-    const next = h('div', {});
+    const next = h('div', { role: 'status', 'aria-live': 'polite' });
     q.options.forEach((o, n) => box.append(h('button', { class: 'opt', type: 'button', onclick: () => {
-      box.querySelectorAll('button').forEach((b, m) => { b.disabled = true; if (m === q.answer) b.classList.add('right'); else if (m === n) b.classList.add('wrong'); });
+      box.querySelectorAll('button').forEach((b, m) => { b.disabled = true; if (m === q.answer) { b.classList.add('right'); b.append(h('span', { class: 'mark' }, t('correctMark'))); } else if (m === n) { b.classList.add('wrong'); b.append(h('span', { class: 'mark' }, t('yourMark'))); } });
       if (n === q.answer) score++; else missed.push(q);
       const link = (q.kind === 'card' ? '#/myths/' : '#/insights/') + q.ref;
       next.append(h('p', {}, h('b', {}, n === q.answer ? t('right') : t('notQuite')), q.explain),
@@ -339,7 +340,7 @@ function viewAbout() {
 
 function viewSettings() {
   const sample = h('p', { class: 'sample' }, t('textSample'));
-  const size = h('input', { type: 'range', id: 'text-size', min: '0.85', max: '1.35', step: '0.05', value: String(store.get('font', 1)),
+  const size = h('input', { type: 'range', id: 'text-size', min: '0.85', max: '2', step: '0.05', value: String(store.get('font', 1)),
     oninput: e => { store.set('font', Number(e.target.value)); applyLook(); } });
   const theme = h('select', { id: 'theme-pick', onchange: e => { store.set('theme', e.target.value); applyLook(); } },
     ['system', 'light', 'dark'].map(v => h('option', { value: v, selected: store.get('theme', 'system') === v ? true : null }, t('theme' + v[0].toUpperCase() + v.slice(1)))));
@@ -357,6 +358,7 @@ function viewSettings() {
       h('p', {}, t('setAboutText')),
       h('a', { class: 'linkrow', href: '#/about' }, t('howWorks'), h('small', {}, '›')),
       h('a', { class: 'linkrow', href: '#/help' }, t('helpTitle'), h('small', {}, '›')),
+      h('a', { class: 'linkrow', href: 'https://revelation-today.net/apps/', target: '_blank', rel: 'noopener noreferrer' }, t('moreApps'), h('small', {}, '›')),
       h('a', { class: 'linkrow', href: t('privacyUrl'), target: '_blank', rel: 'noopener noreferrer' }, t('privacy'), h('small', {}, '›')),
       h('a', { class: 'linkrow', href: t('supportUrl'), target: '_blank', rel: 'noopener noreferrer' }, t('support'), h('small', {}, '›')),
       h('a', { class: 'linkrow', href: 'mailto:revelation-today@web.de?subject=' + encodeURIComponent(t('contactSubject')) }, t('contact'), h('small', {}, 'revelation-today@web.de'))),
@@ -395,6 +397,8 @@ function route() {
 }
 
 async function boot() {
+  const skip = document.getElementById('skip');
+  if (skip) skip.addEventListener('click', e => { e.preventDefault(); $app.focus(); $app.scrollIntoView(); });
   applyLook();
   LANG = detectLang();
   applyChrome();

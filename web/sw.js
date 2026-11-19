@@ -1,5 +1,5 @@
 // Offline cache. Bump CACHE when content changes so readers get corrections.
-const CACHE = 'eden-check-0.5.1';
+const CACHE = 'eden-check-0.5.2';
 const FILES = ['./', 'index.html', 'style.css', 'app.js', 'i18n.js', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png',
   'content/cards.json', 'content/insights.json', 'content/plans.json', 'content/quiz.json',
   'content/de/cards.json', 'content/de/insights.json', 'content/de/plans.json', 'content/de/quiz.json'];
